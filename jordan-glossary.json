@@ -1,2814 +1,5571 @@
 {
-  "7 up": "سفن آب",
-  "سفن آب": "7 Up",
-  "english cake": "كيك انجليزي",
-  "كيك انجليزي": "English Cake",
-  "a la grecque": "ألا جريك",
-  "ألا جريك": "A La Grecque",
-  "wrap": "راب",
-  "راب": "Wrap",
-  "bagel": "بايغل",
-  "بايغل": "Bagel",
-  "trifle": "ترايفل",
-  "ترايفل": "Trifle",
-  "a la kiev": "الاكيف",
-  "الاكيف": "A La Kiev",
-  "truffle": "الكمأ",
-  "الكمأ": "Truffle",
-  "squash": "قرع",
-  "قرع": "Squash",
-  "shrimp": "روبيان",
-  "جمبري": "Shrimp",
-  "adana": "أضنه",
-  "أضنه": "Adana",
-  "jumbo": "جامبو",
-  "جامبو": "Jumbo",
-  "adeni tea": "شاي عدني",
-  "شاي عدني": "Adeni Tea",
-  "bresaola": "برزاولا",
-  "برزاولا": "Bresaola",
-  "osh el bolbol": "عش البلبل",
-  "عش البلبل": "Osh El Bolbol",
-  "medallion": "ميداليون",
-  "ميداليون": "Medallion",
-  "akkawi cheese": "جبنة عكاوي",
-  "جبنة عكاوي": "Akkawi Cheese",
-  "herraa esbao": "حراق اصبعو",
-  "حراق اصبعو": "Herraa Esbao",
-  "almonds": "لوز",
-  "لوز": "Almonds",
-  "pottery": "فخارة",
-  "فخارة": "Pottery",
-  "ambergris": "عنبر",
-  "عنبر": "Ambergris",
-  "mustard": "ماسترد",
-  "ماسترد": "Mustard",
-  "anchovies": "أنشوجة",
-  "أنشوجة": "Anchovies",
-  "americano": "امريكانو",
-  "امريكانو": "Americano",
-  "apple cider": "عصير تفاح ساخن",
-  "عصير تفاح ساخن": "Apple Cider",
-  "iftar": "إفطار",
-  "إفطار": "Iftar",
-  "apricot": "مشمش",
-  "مشمش": "Apricot",
-  "suhoor": "سحور",
-  "سحور": "Suhoor",
-  "araisy": "عرايسي",
-  "عرايسي": "Araisy",
-  "cotton candy": "كوتن كاندي",
-  "كوتن كاندي": "Cotton Candy",
-  "arayes": "عرايس",
-  "عرايس": "Arayes",
-  "southen platyfish": "سمك قمر",
-  "سمك قمر": "Southen Platyfish",
-  "arika": "عريكة",
-  "عريكة": "Arika",
-  "green salad": "سلطة خضراء",
-  "سلطة خضراء": "Garden Salad",
-  "arrabbiata": "أرابياتا",
-  "أرابياتا": "Arrabbiata",
-  "aioli sauce": "صوص الايولي",
-  "صوص الايولي": "Aioli Sauce",
-  "artichokes": "خرشوف",
-  "خرشوف": "Artichokes",
-  "drip coffee": "قهوة مقطرة",
-  "قهوة مقطرة": "Drip Coffee",
-  "asfahani": "أصفهاني",
-  "أصفهاني": "Asfahani",
-  "laban": "لبن",
-  "لبن": "Yoghurt",
-  "asida": "عصيدة",
-  "عصيدة": "Asida",
-  "belgian chocolate": "شوكولاتة بلجيكية",
-  "شوكولاتة بلجيكية": "Belgian Chocolate",
-  "asparagus": "هليون",
-  "هليون": "Asparagus",
-  "maple": "ميبل",
-  "ميبل": "Maple",
-  "avocado": "أفوكادو",
-  "أفوكادو": "Avocado",
-  "salty": "مالح",
-  "مالح": "Salty",
-  "awar qalb": "عوار القلب",
-  "عوار القلب": "Awar Qalb",
-  "chocolate jar": "جار شوكولاتة",
-  "جار شوكولاتة": "Chocolate Jar",
-  "awsal": "أوصال",
-  "أوصال": "Awsal",
-  "green onions": "بصل أخضر",
-  "بصل أخضر": "Scallions",
-  "ayran": "عيران",
-  "عيران": "Ayran",
-  "special": "سبيشال - خاص",
-  "سبيشال - خاص": "Special",
-  "baba ghannouj": "بابا غنوج",
-  "بابا غنوج": "Baba Ghannouj",
-  "brisket": "برسكيت",
-  "برسكيت": "Brisket",
-  "baguette bread": "خبز باجيت",
-  "خبز باجيت": "Baguette Bread",
-  "signature": "سيجنتشر",
-  "سيجنتشر": "Signature",
-  "baklava": "بقلاوة",
-  "بقلاوة": "Baklava",
-  "passion fruit": "باشن فروت",
-  "باشن فروت": "Passion Fruit",
-  "baladi": "بلدي",
-  "بلدي": "Baladi",
-  "eclair": "اكلير",
-  "اكلير": "Eclair",
-  "spring onions": "بصل أخضر",
-  "balah el sham": "بلح الشام",
-  "بلح الشام": "Balah El Sham",
-  "cookies": "كوكيز",
-  "كوكيز": "Cookies",
-  "balaleet": "بلاليط",
-  "بلاليط": "Balaleet",
-  "pasta": "مكرونة / باستا",
-  "مكرونة / باستا": "Pasta",
-  "balila": "بليلة",
-  "بليلة": "Balila",
-  "cocktail": "كوكتيل",
-  "كوكتيل": "Cocktail",
-  "balsamic sauce": "صوص البلسميك",
-  "صوص البلسميك": "Balsamic Sauce",
-  "crinkle fries": "بطاطا كرينكل",
-  "بطاطا كرينكل": "Crinkle Fries",
-  "banana split": "بنانا سبليت",
-  "بنانا سبليت": "Banana Split",
-  "condensed milk": "حليب مكثف",
-  "حليب مكثف": "Condensed milk",
-  "barazek": "برازق",
-  "برازق": "Barazek",
-  "banoffee pie": "فطيرة بانوفي",
-  "فطيرة بانوفي": "Banoffee Pie",
-  "bbq sauce": "صوص باربكيو",
-  "صوص باربكيو": "BBQ Sauce",
-  "san sebastian": "سان سيباستيان",
-  "سان سيباستيان": "San Sebastian",
-  "basbousa": "بسبوسة",
-  "بسبوسة": "Basbousa",
-  "nescafe": "نسكافيه",
-  "نسكافيه": "Nescafe",
-  "bashawer": "بشاور",
-  "بشاور": "Bashawer",
-  "makanek": "مقانق",
-  "مقانق": "Makanek",
-  "basil": "ريحان",
-  "ريحان": "Basil",
-  "burrito": "بوريتو",
-  "بوريتو": "Burrito",
-  "basmati rice": "أرز بسمتي",
-  "أرز بسمتي": "Basmati Rice",
-  "scallions": "بصل أخضر",
-  "bastilla": "بسطيلة",
-  "بسطيلة": "Bastilla",
-  "spicy potato": "بطاطا حارة",
-  "بطاطا حارة": "Spicy Potato",
-  "bbq": "باربكيو",
-  "باربكيو": "BBQ",
-  "monterey jack": "مونتري جاك",
-  "مونتري جاك": "Monterey Jack",
-  "bbq chicken": "دجاج باربكيو",
-  "دجاج باربكيو": "BBQ Chicken",
-  "raffaello": "رافايلو",
-  "رافايلو": "Raffaello",
-  "bechamel": "بشاميل",
-  "بشاميل": "Bechamel",
-  "san pellegrino": "سان بيليغرينو",
-  "سان بيليغرينو": "San Pellegrino",
-  "beef": "لحم بقري",
-  "لحم بقري": "Beef",
-  "sparkling water": "مياه غازية",
-  "مياه غازية": "Sparkling Water",
-  "beef bacon": "لحم بقري مقدد",
-  "لحم بقري مقدد": "Beef Bacon",
-  "mac and cheese": "ماك اند تشيز",
-  "ماك اند تشيز": "Mac and Cheese",
-  "beef fillet": "لحم فيليه",
-  "لحم فيليه": "Beef Fillet",
-  "fondue": "فوندو",
-  "فوندو": "Fondue",
-  "beef tenderloin": "بيف تندرلوين",
-  "بيف تندرلوين": "Beef Tenderloin",
-  "balloria": "بلورية",
-  "بلورية": "Balloria",
-  "beefsteak": "ستيك لحم بقري",
-  "ستيك لحم بقري": "Beefsteak",
-  "french tuile": "تويل فرنسي",
-  "تويل فرنسي": "French Tuile",
-  "beetroot": "شمندر",
-  "شمندر": "Beetroot",
-  "g juice": "عصير جي",
-  "عصير جي": "G Juice",
-  "beiruti": "بيروتي",
-  "بيروتي": "Beiruti",
-  "pressed juice": "عصير كبس",
-  "عصير كبس": "Pressed Juice",
-  "bell pepper": "فلفل رومي",
-  "فلفل رومي": "Bell Pepper",
-  "teriyaki": "ترياكي",
-  "ترياكي": "Teriyaki",
-  "beverages": "مشروبات",
-  "مشروبات": "Beverages",
-  "cerelac": "سيريلاك",
-  "سيريلاك": "Cerelac",
-  "bint al sahn": "بنت الصحن",
-  "بنت الصحن": "Bint Al Sahn",
-  "7 up free": "سفن آب فري",
-  "سفن آب فري": "7 Up Free",
-  "birell": "بيريل",
-  "بيريل": "Birell",
-  "mixed berries": "توت مشكل",
-  "توت مشكل": "Mixed berries",
-  "black pepper": "فلفل أسود",
-  "فلفل أسود": "Black pepper",
-  "powder": "بودرة",
-  "بودرة": "Powder",
-  "black sesame": "حبة البركة",
-  "حبة البركة": "Black Sesame",
-  "siniora": "سنيورة",
-  "سنيورة": "Saniora",
-  "blackberry": "توت أسود",
-  "توت أسود": "Blackberry",
-  "blue cheese": "بلو تشيز",
-  "بلو تشيز": "Blue Cheese",
-  "black eyed bean": "لوبيا",
-  "لوبيا": "Lobiya",
-  "chocolate chips": "رقائق الشوكولاتة",
-  "رقائق الشوكولاتة": "Chocolate Chips",
-  "blended juice": "عصير خلاط",
-  "عصير خلاط": "Blended Juice",
-  "acai": "اساي",
-  "اساي": "Acai",
-  "blue curacao": "بلو كوراساو",
-  "بلو كوراساو": "Blue Curacao",
-  "baking powder": "بيكنج باودر",
-  "بيكنج باودر": "Baking Powder",
-  "blueberry": "توت أزرق",
-  "توت أزرق": "Blueberry",
-  "rocky road": "روكي رود",
-  "روكي رود": "Rocky Road",
-  "boghasha": "بغاشة",
-  "بغاشة": "Boghasha",
-  "panna cotta": "بانا كوتا",
-  "بانا كوتا": "Panna Cotta",
-  "boiled": "مسلوق",
-  "مسلوق": "Boiled",
-  "jameed": "جميد",
-  "جميد": "Jameed",
-  "bolognese sauce": "صوص بولونيز",
-  "صوص بولونيز": "Bolognese sauce",
-  "mini": "ميني",
-  "ميني": "Mini",
-  "boneless": "مسحب",
-  "مسحب": "Boneless",
-  "small": "صغير",
-  "صغير": "Small",
-  "boneless chicken": "دجاج مسحب",
-  "دجاج مسحب": "Boneless Chicken",
-  "medium": "متوسط",
-  "متوسط": "Medium",
-  "borek": "بوريك",
-  "بوريك": "Borek",
-  "large": "كبير",
-  "كبير": "Large",
-  "borm": "برم",
-  "برم": "Borm",
-  "x large": "كبير جداً",
-  "كبير جداً": "X Large",
-  "bottle": "زجاجة",
-  "زجاجة": "Bottle",
-  "xx large": "كبير جداًً جداً",
-  "كبير جداًً جداً": "XX Large",
-  "bounty": "باونتي",
-  "باونتي": "Bounty",
-  "family size": "حجم عائلي",
-  "حجم عائلي": "Family Size",
-  "bowl": "وعاء",
-  "وعاء": "Bowl",
-  "naan": "نان",
-  "نان": "Naan",
-  "bran": "نخالة",
-  "نخالة": "Bran",
-  "organic": "عضوي",
-  "عضوي": "Organic",
-  "broasted chicken": "دجاج بروستد",
-  "دجاج بروستد": "Broasted Chicken",
-  "shrak bread": "خبز شراك",
-  "خبز شراك": "Shrak Bread",
-  "broccoli": "بروكلي",
-  "بروكلي": "Broccoli",
-  "cheetos": "شيتوس",
-  "شيتوس": "Cheetos",
-  "broth": "مرق",
-  "مرق": "Broth",
-  "beef patty": "شريحة لحم بقري",
-  "شريحة لحم بقري": "Beef Patty",
-  "brown bread": "خبز أسمر",
-  "خبز أسمر": "Brown Bread",
-  "breakfast": "الفطور",
-  "الفطور": "Breakfast",
-  "brownies": "براونيز",
-  "براونيز": "Brownies",
-  "schezwan": "شيزوان",
-  "شيزوان": "Schezwan",
-  "buckwheat": "قمح",
-  "قمح": "Buckwheat",
-  "dim sum": "ديم سوم",
-  "ديم سوم": "Dim Sum",
-  "buffalo sauce": "صوص بافلو",
-  "صوص بافلو": "Buffalo Sauce",
-  "barley": "شعير",
-  "شعير": "Barley",
-  "bukhari": "بخاري",
-  "بخاري": "Bukhari",
-  "choose your doneness": "اختر درجة الاستواء",
-  "اختر درجة الاستواء": "Choose your doneness",
-  "bulgur": "برغل",
-  "برغل": "Bulgur",
-  "rare": "غير ناضج",
-  "غير ناضج": "Rare",
-  "bun bread": "خبز البرجر",
-  "خبز البرجر": "Bun Bread",
-  "medium rare": "أقل من المتوسط",
-  "أقل من المتوسط": "Medium Rare",
-  "burger": "برجر",
-  "برجر": "Burger",
-  "burrata cheese": "جبنة بوراتا",
-  "جبنة بوراتا": "Burrata Cheese",
-  "medium well": "فوق المتوسط",
-  "فوق المتوسط": "Medium Well",
-  "butter": "زبدة",
-  "زبدة": "Butter",
-  "well done": "مطهو جيدا",
-  "مطهو جيدا": "Well Done",
-  "butternut": "قرع عسل",
-  "قرع عسل": "Butternut",
-  "chickpeas": "حمص",
-  "حمص": "Hummus",
-  "cabbage": "ملفوف",
-  "ملفوف": "Cabbage",
-  "dough": "عجينة",
-  "عجينة": "Crust",
-  "caesar sauce": "صوص سيزر",
-  "صوص سيزر": "Caesar Sauce",
-  "taamia": "طعمية",
-  "طعمية": "Taamia",
-  "calzone": "كالزوني",
-  "كالزوني": "Calzone",
-  "charcoal grilled": "مشوي على الفحم",
-  "مشوي على الفحم": "Charcoal Grilled",
-  "cannelloni": "كانيلوني",
-  "كانيلوني": "Cannelloni",
-  "ground meat": "لحم مفروم",
-  "لحم مفروم": "Minced Meat",
-  "cantaloupe": "كنتالوب",
-  "كنتالوب": "Cantaloupe",
-  "sambousek": "سمبوسك",
-  "سمبوسك": "Sambousek",
-  "cappuccino": "كابتشينو",
-  "كابتشينو": "Cappuccino",
-  "grape leaves": "ورق عنب",
-  "ورق عنب": "Vine Leaves",
-  "caramel": "كراميل",
-  "كراميل": "Caramel",
-  "soft kunafa": "كنافة ناعمة",
-  "كنافة ناعمة": "Fine Kunafa",
-  "caramelized onion": "بصل مكرمل",
-  "بصل مكرمل": "Caramelized onion",
-  "caramelized": "مكرمل",
-  "مكرمل": "Caramelized",
-  "carbonara": "كاربونارا",
-  "كاربونارا": "Carbonara",
-  "smashed": "سماشد",
-  "سماشد": "Smashed",
-  "cardamom": "هيل",
-  "هيل": "Cardamom",
-  "water jug": "قارورة مياه",
-  "قارورة مياه": "Water Jug",
-  "carob": "خروب",
-  "خروب": "Carob",
-  "box": "بوكس",
-  "بوكس": "Box",
-  "carrots": "جزر",
-  "جزر": "Carrots",
-  "banana": "موز",
-  "موز": "Banana",
-  "cashew": "كاجو",
-  "كاجو": "Cashew",
-  "crushed": "مطحون",
-  "مطحون": "grinded",
-  "tajine": "طاجن",
-  "طاجن": "Tajine",
-  "spread": "دهن",
-  "دهن": "Spread",
-  "cauliflower": "زهرة",
-  "زهرة": "Cauliflower",
-  "flakes": "رقائق",
-  "رقائق": "Flakes",
-  "celery": "كرفس",
-  "كرفس": "Celery",
-  "pide": "البيدا",
-  "البيدا": "Pide",
-  "chai latte": "شاى لاتيه",
-  "شاى لاتيه": "Chai Latte",
-  "truffles sweets": "حلوى الترافلز",
-  "حلوى الترافلز": "Truffles Sweets",
-  "chapati": "تشباتي",
-  "شباتي": "Chapati",
-  "cauliflower rice": "أرز القرنبيط",
-  "أرز القرنبيط": "Cauliflower Rice",
-  "baqdonsia": "بقدونسية",
-  "بقدونسية": "Baqdonsia",
-  "cheddar cheese": "جبنة شيدر",
-  "جبنة شيدر": "Cheddar Cheese",
-  "curry": "كاري",
-  "كاري": "Curry",
-  "cheese balls": "كرات الجبن",
-  "كرات الجبن": "Cheese Balls",
-  "biryani": "برياني",
-  "برياني": "Biryani",
-  "cheesecake": "تشيز كيك",
-  "تشيز كيك": "Cheesecake",
-  "korma": "كورما",
-  "كورما": "Korma",
-  "cherry": "كرز",
-  "كرز": "Cherry",
-  "lamb saag": "لحم الضأن بالسبانخ",
-  "لحم الضأن بالسبانخ": "Lamb Saag",
-  "chicken biryani": "برياني دجاج",
-  "برياني دجاج": "Chicken Biryani",
-  "rogan josh": "روغان جوش",
-  "روغان جوش": "Rogan Josh",
-  "chicken breasts": "صدور دجاج",
-  "صدور دجاج": "Chicken Breasts",
-  "butter chicken": "دجاج بالزبدة",
-  "دجاج بالزبدة": "Butter Chicken",
-  "chicken cubes": "مكعبات دجاج",
-  "مكعبات دجاج": "Chicken Cubes",
-  "chicken tikka masala": "دجاج تكا ماسالا",
-  "دجاج تكا ماسالا": "Chicken Tikka Masala",
-  "chicken dumpling": "دجاج دامبلينغ",
-  "دجاج دامبلينغ": "Chicken dumpling",
-  "mughlai chicken": "دجاج مغولي",
-  "دجاج مغولي": "Mughlai Chicken",
-  "chicken fajita": "فاهيتا دجاج",
-  "فاهيتا دجاج": "Chicken Fajita",
-  "chole bhature": "تشولي باتور",
-  "تشولي باتور": "Chole Bhature",
-  "chicken fillet": "دجاج فيليه",
-  "دجاج فيليه": "Chicken Fillet",
-  "dal makhani": "دال ماخاني",
-  "دال ماخاني": "Dal Makhani",
-  "chicken katyoucha": "دجاج كتيوشا",
-  "دجاج كتيوشا": "Chicken Katyoucha",
-  "keema matar": "كيما مطر",
-  "كيما مطر": "Keema Matar",
-  "chicken loaf": "خبز الدجاج",
-  "خبز الدجاج": "Chicken Loaf",
-  "keema aloo": "كيما ألو",
-  "كيما ألو": "Keema Aloo",
-  "chicken mandi": "دجاج مندي",
-  "دجاج مندي": "Chicken Mandi",
-  "aloo methi": "ألو ميثي",
-  "ألو ميثي": "Aloo Methi",
-  "chicken pane": "دجاج بانيه",
-  "دجاج بانيه": "Chicken Pane",
-  "aloo kulcha": "ألو كولتشا",
-  "ألو كولتشا": "Aloo kulcha",
-  "chicken shawarma": "شاورما دجاج",
-  "شاورما دجاج": "Chicken Shawarma",
-  "aloo gobi": "ألو جوبي",
-  "ألو جوبي": "Aloo Gobi",
-  "chicken thighs": "أفخاذ دجاج",
-  "أفخاذ دجاج": "Chicken Thighs",
-  "aloo shimla mirch": "ألو شيملا ميرتش",
-  "ألو شيملا ميرتش": "Aloo Shimla mirch",
-  "chicken zinger": "دجاج زنجر",
-  "دجاج زنجر": "Chicken Zinger",
-  "aloo matar": "ألو مطر",
-  "ألو مطر": "Aloo Matar",
-  "chicken fingers": "أصابع الدجاج",
-  "أصابع الدجاج": "Chicken Fingers",
-  "aloo tikki": "ألو تيكي",
-  "ألو تيكي": "Aloo Tikki",
-  "hummus": "حمص",
-  "aloo tuk": "ألو توك",
-  "ألو توك": "Aloo tuk",
-  "chips": "شيبس",
-  "شيبس": "Chips",
-  "imarti with rabdi": "امارتي مع رابدي",
-  "امارتي مع رابدي": "Imarti with rabdi",
-  "chocolate": "شوكولاتة",
-  "شوكولاتة": "Chocolate",
-  "palak paneer": "بالاك بانير",
-  "بالاك بانير": "Palak Paneer",
-  "ciabatta bread": "خبز شيباتا",
-  "خبز شيباتا": "Ciabatta bread",
-  "malai kofta": "مالاي كفتة",
-  "مالاي كفتة": "Malai Kofta",
-  "cinnamon": "قرفة",
-  "قرفة": "Cinnamon",
-  "lamp raan": "لحم ضأن ران",
-  "لحم ضأن ران": "Lamp Raan",
-  "citrus": "حمضيات",
-  "حمضيات": "Citrus",
-  "tandoori chicken": "دجاج تندوري",
-  "دجاج تندوري": "Tandoori Chicken",
-  "cloves": "قرنفل",
-  "قرنفل": "Cloves",
-  "chicken jalfrezi": "دجاج جلفريزي",
-  "دجاج جلفريزي": "Chicken Jalfrezi",
-  "cocoa puffs": "حبوب الشوكولاتة",
-  "حبوب الشوكولاتة": "Cocoa puffs",
-  "kati rolls": "كاتي رولز",
-  "كاتي رولز": "Kati Rolls",
-  "coconut": "جوز الهند",
-  "جوز الهند": "Coconut",
-  "macher jhol": "ماتشير جول",
-  "ماتشير جول": "Macher Jhol",
-  "coffee": "قهوة",
-  "قهوة": "Coffee",
-  "jadoh": "جادوه",
-  "جادوه": "Jadoh",
-  "coleslaw salad": "سلطة كول سلو",
-  "سلطة كول سلو": "Coleslaw Salad",
-  "momos": "موموس",
-  "موموس": "Momos",
-  "cordon bleu": "كوردون بلو",
-  "كوردون بلو": "Cordon Bleu",
-  "thukpa": "ثوكبا",
-  "ثوكبا": "Thukpa",
-  "coriander": "كزبرة",
-  "كزبرة": "Coriander",
-  "undhiyu": "أندهيو",
-  "أندهيو": "Undhiyu",
-  "corn": "ذرة",
-  "ذرة": "Corn",
-  "batata nu shaak": "بطاطا نو شاك",
-  "بطاطا نو شاك": "Batata Nu Shaak",
-  "cajun": "كاجون",
-  "كاجون": "Cajun",
-  "laal maas": "لال ماس",
-  "لال ماس": "Laal Maas",
-  "corned beef": "بلوبيف",
-  "بلوبيف": "Corned Beef",
-  "dal baati churma": "دال باتي تشورما",
-  "دال باتي تشورما": "Dal Baati Churma",
-  "cornet": "كورنيه",
-  "كورنيه": "Cornet",
-  "dhansak": "دهنساك",
-  "دهنساك": "Dhansak",
-  "couscous": "كسكسي",
-  "كسكسي": "Couscous",
-  "pav bhaji": "باف بهاجي",
-  "باف بهاجي": "Pav Bhaji",
-  "crackers": "كراكرز",
-  "كراكرز": "Crackers",
-  "vindaloo": "فيندالو",
-  "فيندالو": "Vindaloo",
-  "cream": "كريمة - قشطة",
-  "كريمة - قشطة": "Cream",
-  "bisi bele bath": "بيسي بيلي باث",
-  "بيسي بيلي باث": "Bisi Bele Bath",
-  "creme caramel": "كريم كراميل",
-  "كريم كراميل": "Creme Caramel",
-  "rasam": "راسام",
-  "راسام": "Rasam",
-  "cream chicken soup": "شوربة دجاج بالكريمة",
-  "شوربة دجاج بالكريمة": "Cream Chicken Soup",
-  "avial": "افيال",
-  "افيال": "Avial",
-  "cream mushroom soup": "شوربة فطر بالكريمة",
-  "شوربة فطر بالكريمة": "Cream Mushroom Soup",
-  "chickpea tikka masala": "تكا ماسالا الحمص",
-  "تكا ماسالا الحمص": "Chickpea Tikka Masala",
-  "creamy": "كريمي",
-  "كريمي": "Creamy",
-  "chicken bhuna": "دجاج بونا",
-  "دجاج بونا": "Chicken Bhuna",
-  "crepe": "كريب",
-  "كريب": "Crepe",
-  "indian chicken curry": "كاري الدجاج الهندي",
-  "كاري الدجاج الهندي": "Indian Chicken Curry",
-  "crispy": "مقرمش",
-  "مقرمش": "Crispy",
-  "murgh curry": "مورغ كاري",
-  "مورغ كاري": "Murgh Curry",
-  "crispy chicken": "دجاج مقرمش",
-  "دجاج مقرمش": "Crispy Chicken",
-  "chicken makhani": "دجاج ماخاني",
-  "دجاج ماخاني": "Chicken Makhani",
-  "croissant": "كرواسون",
-  "كرواسون": "Croissant",
-  "authentic saag paneer": "بانير أصيل بالسبانخ",
-  "بانير أصيل بالسبانخ": "Authentic Saag Paneer",
-  "croquette potatoes": "بطاطا كروكيت",
-  "بطاطا كروكيت": "Croquette Potatoes",
-  "red lentil curry": "كاري عدس احمر",
-  "كاري عدس احمر": "Red Lentil Curry",
-  "croutons": "خبز محمص",
-  "خبز محمص": "Toasted Bread",
-  "chana masala": "تشانا ماسالا",
-  "تشانا ماسالا": "Chana Masala",
-  "crunchy": "كرانشي",
-  "كرانشي": "Crunchy",
-  "vegan sweet potato chickpea curry": "كاري البطاطا الحلوة والحمص النباتي",
-  "كاري البطاطا الحلوة والحمص النباتي": "Vegan Sweet Potato Chickpea Curry",
-  "crust": "عجينة",
-  "vegetarian korma": "كورما نباتية",
-  "كورما نباتية": "Vegetarian Korma",
-  "cucumber": "خيار",
-  "خيار": "Cucumber",
-  "indian shrimp curry": "كاري الروبيان الهندي",
-  "كاري الروبيان الهندي": "Indian Shrimp Curry",
-  "curry chicken": "دجاج بالكاري",
-  "دجاج بالكاري": "Curry Chicken",
-  "chicken saag": "دجاج بالسبانخ",
-  "دجاج بالسبانخ": "Chicken Saag",
-  "sauce": "صوص",
-  "صوص": "Sauce",
-  "punjabi chicken in thick gravy": "دجاج بنجابي بصوص الجريفي السميك",
-  "دجاج بنجابي بصوص الجريفي السميك": "Punjabi Chicken in Thick Gravy",
-  "curry sauce": "صوص الكاري",
-  "صوص الكاري": "Curry Sauce",
-  "gujarati kadhi": "كادهي غوجاراتي",
-  "كادهي غوجاراتي": "Gujarati Kadhi",
-  "custard": "كاسترد",
-  "كاسترد": "Custard",
-  "bengali chicken": "دجاج بنغالي",
-  "دجاج بنغالي": "Bengali Chicken",
-  "dallah": "دلة",
-  "دلة": "Dallah",
-  "murgh makhani": "مورغ ماخاني",
-  "مورغ ماخاني": "Murgh Makhani",
-  "daqoos": "دقوس",
-  "دقوس": "Daqoos",
-  "chicken 65": "دجاج 65",
-  "دجاج 65": "Chicken 65",
-  "dawoud basha": "داوود باشا",
-  "داوود باشا": "Dawoud Basha",
-  "moong dal": "مونغ دال",
-  "مونغ دال": "Moong Dal",
-  "diet pepsi": "بيبسي دايت",
-  "بيبسي دايت": "Diet Pepsi",
-  "beef vindaloo": "فيندالو لحم بقري",
-  "فيندالو لحم بقري": "Beef Vindaloo",
-  "dill": "شبت",
-  "شبت": "Dill",
-  "rajma “kidney bean curry”": "راجما \"كاري الفاصوليا الحمراء\"",
-  "راجما \"كاري الفاصوليا الحمراء\"": "Rajma “Kidney Bean Curry”",
-  "dip": "غموس",
-  "غموس": "Dip",
-  "coconut curry fish": "سمك كاري بجوز الهند",
-  "سمك كاري بجوز الهند": "Coconut Curry Fish",
-  "dipping sauce": "صوص غموس",
-  "صوص غموس": "Dipping sauce",
-  "kedgeree": "كيدجري",
-  "كيدجري": "Kedgeree",
-  "dolma": "دولمة",
-  "دولمة": "Dolma",
-  "chicken cauliflower korma": "كورما الدجاج والقرنبيط",
-  "كورما الدجاج والقرنبيط": "Chicken Cauliflower Korma",
-  "doqqa": "دقة",
-  "دقة": "Doqqa",
-  "quorn & chickpea curry": "كاري الكورن والحمص",
-  "كاري الكورن والحمص": "Quorn & Chickpea Curry",
-  "dosa": "دوسا",
-  "دوسا": "Dosa",
-  "golden butter rice": "أرز بالزبدة الذهبية",
-  "أرز بالزبدة الذهبية": "Golden Butter Rice",
-  "double": "دبل",
-  "دبل": "Double",
-  "raita": "رايتا",
-  "رايتا": "Raita",
-  "doum": "دوم",
-  "دوم": "Doum",
-  "chole saag": "تشولي بالسبانخ",
-  "تشولي بالسبانخ": "Chole Saag",
-  "dozen": "درزن",
-  "درزن": "Dozen",
-  "sarson ka saag": "سارسون كا بالسبانخ",
-  "سارسون كا بالسبانخ": "Sarson Ka Saag",
-  "dressing": "صلصة تتبيلة",
-  "صلصة تتبيلة": "Dressing",
-  "baingan ka bharta": "باينغان كا بهارتا",
-  "باينغان كا بهارتا": "Baingan ka Bharta",
-  "drumsticks chicken": "دبابيس دجاج",
-  "دبابيس دجاج": "Drumsticks chicken",
-  "spicy quinoa & spinach pulao": "بلاو كينوا حار مع السبانخ",
-  "بلاو كينوا حار مع السبانخ": "Spicy Quinoa & Spinach Pulao",
-  "drumsticks": "دبابيس",
-  "دبابيس": "Drumsticks",
-  "kobi batata bhaji": "كوبي بطاطا بهاجي",
-  "كوبي بطاطا بهاجي": "Kobi Batata Bhaji",
-  "duck": "بط",
-  "بط": "Duck",
-  "tampa coconut cilantro rice": "أرز تامبا جوز الهند والكزبرة",
-  "أرز تامبا جوز الهند والكزبرة": "Tampa Coconut Cilantro Rice",
-  "dumpling": "دامبلينغ",
-  "دامبلينغ": "Dumpling",
-  "turnip with coconut": "لفت مع جوز الهند",
-  "لفت مع جوز الهند": "Turnip with Coconut",
-  "edam": "إيدام",
-  "إيدام": "Edam",
-  "dal chakolya": "دال تشاكويلا",
-  "دال تشاكويلا": "Dal Chakolya",
-  "edam cheese": "جبنة فلمنك",
-  "جبنة فلمنك": "Edam Cheese",
-  "nitya's cauliflower": "زهرة نيتياز",
-  "زهرة نيتياز": "Nitya's Cauliflower",
-  "eggah": "عجة",
-  "عجة": "Eggah",
-  "tomato bhath": "بهاث الطماطم",
-  "بهاث الطماطم": "Tomato Bhath",
-  "eggplant": "باذنجان",
-  "باذنجان": "Eggplant",
-  "palak rassa": "بالاك راسا",
-  "بالاك راسا": "Palak Rassa",
-  "eggs": "بيض",
-  "بيض": "Eggs",
-  "air fried samosas": "سمبوسة بالمقلاة الهوائية",
-  "سمبوسة بالمقلاة الهوائية": "Air Fried Samosas",
-  "emmental cheese": "جبنة إيمنتال",
-  "جبنة إيمنتال": "Emmental cheese",
-  "indian spiced onions": "بصل بالتوابل الهندية",
-  "بصل بالتوابل الهندية": "Indian Spiced Onions",
-  "ennab": "عناب",
-  "عناب": "Ennab",
-  "daal": "دال",
-  "دال": "Dal",
-  "entrecote": "إنتركوت",
-  "إنتركوت": "Entrecote",
-  "escalope pane": "إسكالوب بانيه",
-  "إسكالوب بانيه": "Escalope Pane",
-  "saag paneer": "بانير بالسبانخ",
-  "بانير بالسبانخ": "Saag Paneer",
-  "espresso": "إسبريسو",
-  "إسبريسو": "Espresso",
-  "bhel puri": "بيل بوري",
-  "بيل بوري": "Bhel Puri",
-  "extra": "اضافة",
-  "اضافة": "Extra",
-  "baati": "باتي",
-  "باتي": "Baati",
-  "ezme salad": "أزمى سلطة",
-  "أزمى سلطة": "Ezme salad",
-  "bhatura": "بهاتورا",
-  "بهاتورا": "Bhatura",
-  "fahsa": "فحسة",
-  "فحسة": "Fahsa",
-  "bhindi masala": "بهندي ماسالا",
-  "بهندي ماسالا": "Bhindi Masala",
-  "fakhfakhina": "فخفخينا",
-  "فخفخينا": "Fakhfakhina",
-  "chaat": "تشات",
-  "تشات": "Chaat",
-  "falafel": "فلافل",
-  "فلافل": "Falafel",
-  "تشباتي": "Chapati",
-  "falafel patties": "أقراص فلافل",
-  "أقراص فلافل": "Falafel Patties",
-  "chicken razala": "دجاج رازالا",
-  "دجاج رازالا": "Chicken Razala",
-  "farfalle pasta": "مكرونة فارفيلي",
-  "مكرونة فارفيلي": "Farfalle Pasta",
-  "farrouj": "فروج",
-  "فروج": "Farrouj",
-  "daal puri": "دال بوري",
-  "دال بوري": "Daal Puri",
-  "fatteh": "فتة",
-  "فتة": "Fatteh",
-  "dal fara": "دال فارا",
-  "دال فارا": "Dal Fara",
-  "fattoush": "فتوش",
-  "فتوش": "Fattoush",
-  "dum aloo": "دوم ألو",
-  "دوم ألو": "Dum Aloo",
-  "fava foul": "فول مدمس",
-  "فول مدمس": "Fava Foul",
-  "poha": "بوها",
-  "بوها": "Poha",
-  "fenugreek": "حلبة",
-  "حلبة": "Fenugreek",
-  "fara": "فارا",
-  "فارا": "Fara",
-  "ferrero rocher": "فيريرو روشيه",
-  "فيريرو روشيه": "Ferrero Rocher",
-  "phirni": "فيرني",
-  "فيرني": "Phirni",
-  "fesha": "فشة",
-  "فشة": "Fesha",
-  "aloo phalliyaan": "ألو فاليان",
-  "ألو فاليان": "Aloo Phalliyaan",
-  "fesikh": "فسيخ",
-  "فسيخ": "Fesikh",
-  "gajar pak": "غاجار باك",
-  "غاجار باك": "Gajar Pak",
-  "feteer meshaltet": "فطير مشلتت",
-  "فطير مشلتت": "Feteer Meshaltet",
-  "gajar matar aloo": "غاجار مطر ألو",
-  "غاجار مطر ألو": "Gajar Matar Aloo",
-  "fettuccine pasta": "مكرونة فيتوتشيني",
-  "مكرونة فيتوتشيني": "Fettuccine Pasta",
-  "gobi matar": "غوبي مطر",
-  "غوبي مطر": "Gobi Matar",
-  "fig": "تين",
-  "تين": "Fig",
-  "imarti": "امارتي",
-  "امارتي": "Imarti",
-  "filetto": "فليتو",
-  "فليتو": "Filetto",
-  "jalebi": "زلابية",
-  "جاليبي": "Jalebi",
-  "fine kunafa": "كنافة ناعمة",
-  "kachori": "كاتشوري",
-  "كاتشوري": "Kachori",
-  "fine leek sticks": "أصابع بصل اخضر",
-  "أصابع بصل اخضر": "Fine Leek Sticks",
-  "kadai paneer": "كاداي بانير",
-  "كاداي بانير": "Kadai Paneer",
-  "flaxseed oil": "زيت حار",
-  "زيت حار": "Flaxseed Oil",
-  "kadhi pakora": "كادي باكورا",
-  "كادي باكورا": "Kadhi Pakora",
-  "flutes chocolate": "شوكولاتة فلوتس",
-  "شوكولاتة فلوتس": "Flutes Chocolate",
-  "karela bharta": "كاريلا بهارتا",
-  "كاريلا بهارتا": "Karela Bharta",
-  "focaccia bread": "خبز فوكاشيا",
-  "خبز فوكاشيا": "Focaccia Bread",
-  "katha meetha petha": "كاثا ميثا بيثا",
-  "كاثا ميثا بيثا": "Katha Meetha Petha",
-  "foul": "فول",
-  "فول": "Foul",
-  "kheer": "خير",
-  "خير": "Kheer",
-  "freekeh": "فريكة",
-  "فريكة": "Freekeh",
-  "khichdi": "خيشدي",
-  "خيشدي": "Khichdi",
-  "french bread": "خبز فرنسي",
-  "خبز فرنسي": "French Bread",
-  "kadhi and khichdi": "كادي و خيشدي",
-  "كادي و خيشدي": "Kadhi and Khichdi",
-  "french fries": "بطاطا مقلية",
-  "بطاطا مقلية": "French Fries",
-  "kulfi falooda": "كلفي فالودا",
-  "كلفي فالودا": "Kulfi Falooda",
-  "fried": "مقلي",
-  "مقلي": "Fried",
-  "laapsi": "لابسي",
-  "لابسي": "Laapsi",
-  "fried eggs": "بيض مقلي",
-  "بيض مقلي": "Fried Eggs",
-  "lauki ke kofte": "لاوكي كي كفتة",
-  "لاوكي كي كفتة": "Lauki Ke Kofte",
-  "friskes fries": "بطاطا فريسكس",
-  "بطاطا فريسكس": "Friskes Fries",
-  "lauki ki bhaji": "لاوكي كي بهاجي",
-  "لاوكي كي بهاجي": "Lauki Ki Bhaji",
-  "fritter": "فطير مقلي",
-  "فطير مقلي": "Fritter",
-  "litti chokha": "ليتي تشوكا",
-  "ليتي تشوكا": "Litti Chokha",
-  "frosty icing": "آيسنج",
-  "آيسنج": "Frosty Icing",
-  "makhane ki kheer": "ماخان كي خير",
-  "ماخان كي خير": "Makhane Ki Kheer",
-  "frozen yogurt": "زبادي مثلج",
-  "زبادي مثلج": "Frozen Yogurt",
-  "makki ki roti": "ماكي كي روتي",
-  "ماكي كي روتي": "Makki Ki Roti",
-  "fruits": "فواكه",
-  "فواكه": "Fruits",
-  "mathura ke pede": "ماثورا كي بيدي",
-  "ماثورا كي بيدي": "Mathura Ke Pede",
-  "frutti di mare": "فروتي دي ماري",
-  "فروتي دي ماري": "Frutti Di Mare",
-  "methi saag": "ميثي سبانخ",
-  "ميثي سبانخ": "Methi Saag",
-  "fudge": "فادج",
-  "فادج": "Fudge",
-  "chaulai saag": "سبانخ تشاولاي",
-  "سبانخ تشاولاي": "Chaulai Saag",
-  "fusilli pasta": "مكرونة فوسيلي",
-  "مكرونة فوسيلي": "Fusilli Pasta",
-  "millet lapsi": "ميليت لابسي",
-  "ميليت لابسي": "Millet Lapsi",
-  "galaxy": "جالكسي",
-  "جالكسي": "Galaxy",
-  "missi roti": "ميسي روتي",
-  "ميسي روتي": "Missi Roti",
-  "gallon": "جالون",
-  "جالون": "Gallon",
-  "moong daal ki lapsi": "مونغ دال كي لابسي",
-  "مونغ دال كي لابسي": "Moong Daal Ki Lapsi",
-  "gamaat": "جمعات",
-  "جمعات": "Gamaat",
-  "murgh musallam": "مورغ موسالام",
-  "مورغ موسالام": "Murgh Musallam",
-  "garlic": "ثوم",
-  "ثوم": "Garlic",
-  "mushroom do pyaza": "فطر دو بيازا",
-  "فطر دو بيازا": "Mushroom Do Pyaza",
-  "garlic dip": "ثومية",
-  "ثومية": "Garlic Dip",
-  "mushroom matar": "فطر مطر",
-  "فطر مطر": "Mushroom Matar",
-  "ghee": "سمن",
-  "سمن": "Ghee",
-  "navrattan korma": "نافارتان كورما",
-  "نافارتان كورما": "Navrattan korma",
-  "ghorayeba": "غريبة",
-  "غريبة": "Ghorayeba",
-  "pakhala": "باخالا",
-  "باخالا": "Pakhala",
-  "giblets": "قوانص",
-  "قوانص": "Giblets",
-  "paneer butter masala": "زبدة بانير ماسالا",
-  "زبدة بانير ماسالا": "Paneer Butter Masala",
-  "ginger": "زنجبيل",
-  "زنجبيل": "Ginger",
-  "pani puri": "باني بوري",
-  "باني بوري": "Pani Puri",
-  "gouda cheese": "جبنة جودة",
-  "جبنة جودة": "Gouda Cheese",
-  "panjeeri": "بانجيري",
-  "بانجيري": "Panjeeri",
-  "gravy": "صوص الجريفي",
-  "صوص الجريفي": "Gravy",
-  "papad": "باباد",
-  "باباد": "Papad",
-  "paratha": "براتا",
-  "براتا": "Paratha",
-  "greish": "جريش",
-  "جريش": "Greish",
-  "pattor": "باتور",
-  "باتور": "Puttu",
-  "grilled": "مشوي",
-  "مشوي": "Grilled",
-  "pinni": "بيني",
-  "بيني": "Pinni",
-  "ground cherry": "حرنكش",
-  "حرنكش": "Ground Cherry",
-  "rajma chawal": "راجما تشاوال",
-  "راجما تشاوال": "Rajma Chawal",
-  "guacamole": "جواكامولي",
-  "جواكامولي": "Guacamole",
-  "rajma": "راجما",
-  "راجما": "Rajma",
-  "guava": "جوافة",
-  "جوافة": "Guava",
-  "ramatori bhaji": "راماتوري بهاجي",
-  "راماتوري بهاجي": "Ramatori Bhaji",
-  "sweet": "حلا",
-  "حلا": "Sweet",
-  "lobiya": "لوبيا",
-  "halawa": "حلاوة",
-  "حلاوة": "Halawa",
-  "samosa": "سمبوسة",
-  "سمبوسة": "Samosa",
-  "halawet el jibn": "حلاوة الجبن",
-  "حلاوة الجبن": "Halawet El Jibn",
-  "samose": "ساموس",
-  "ساموس": "Samose",
-  "halloumi": "حلوم",
-  "حلوم": "Halloumi",
-  "sattu ki roti": "ساتو كي روتي",
-  "ساتو كي روتي": "Sattu Ki Roti",
-  "hamis": "حميس",
-  "حميس": "Hamis",
-  "rajwadi chhena/paneer": "تشينا/بانير راجوادي",
-  "تشينا/بانير راجوادي": "Rajwadi Chhena/Paneer",
-  "haneeth": "حنيذ",
-  "حنيذ": "Haneeth",
-  "shahi tukra": "شاهي تاكورا",
-  "شاهي تاكورا": "Shahi Tukra",
-  "harees": "هريس",
-  "هريس": "Harees",
-  "singhada lapsi": "سينغهادا لابسي",
-  "سينغهادا لابسي": "Singhada Lapsi",
-  "harira": "حريرة",
-  "حريرة": "Harira",
-  "sooji halwa (suji lapsi)": "حلوى سوجي (سوجي لابسي)",
-  "حلوى سوجي (سوجي لابسي)": "Sooji Halwa (Suji Lapsi)",
-  "harisa": "هريسة",
-  "هريسة": "Harisa",
-  "vegetable jalfrezi": "جلفريزي الخضار",
-  "جلفريزي الخضار": "Vegetable Jalfrezi",
-  "hash browns": "هاش براونز",
-  "هاش براونز": "Hash Browns",
-  "tamatar chaat": "تشات تاماتار",
-  "تشات تاماتار": "Tamatar Chaat",
-  "hashi": "حاشي",
-  "حاشي": "Hashi",
-  "ananas menaskai": "اناناس ميناسكاي",
-  "اناناس ميناسكاي": "Ananas Menaskai",
-  "hawaian salad": "سلطة هاواي",
-  "سلطة هاواي": "Hawaian Salad",
-  "attu": "اتو",
-  "اتو": "Attu",
-  "hawaij": "حوايج",
-  "حوايج": "Hawaij",
-  "aval kesari": "أفال كيساري",
-  "أفال كيساري": "Aval Kesari",
-  "hawawshi": "حواوشي",
-  "حواوشي": "Hawawshi",
-  "baida roti": "بايدا روتي",
-  "بايدا روتي": "Baida Roti",
-  "hazelnut": "بندق",
-  "بندق": "Hazelnut",
-  "halwa": "حلوى",
-  "حلوى": "Halwa",
-  "herbs": "أعشاب",
-  "أعشاب": "Herbs",
-  "bonda": "بوندا",
-  "بوندا": "Bonda",
-  "herfy madfoun": "هرفي مدفون",
-  "هرفي مدفون": "Herfy Madfoun",
-  "chettinad chicken": "دجاج تشيتيناد",
-  "دجاج تشيتيناد": "Chettinad Chicken",
-  "hibiscus": "كركديه",
-  "كركديه": "Hibiscus",
-  "karuveppilai sadam": "كاروفبيلاي سادام",
-  "كاروفبيلاي سادام": "Karuveppilai Sadam",
-  "hininy": "حنيني",
-  "حنيني": "Hininy",
-  "dibba rotti": "ديبا روتي",
-  "ديبا روتي": "Dibba Rotti",
-  "homemade": "بيتي",
-  "بيتي": "Homemade",
-  "double ka meetha": "دبل كا ميثا",
-  "دبل كا ميثا": "Double Ka Meetha",
-  "honey mustard": "ماسترد بالعسل",
-  "ماسترد بالعسل": "Honey Mustard",
-  "ennai kathirikai": "ايناي كاثيريكاي",
-  "ايناي كاثيريكاي": "Ennai Kathirikai",
-  "hot dog": "هوت دوغ",
-  "هوت دوغ": "Hot Dog",
-  "goli baje": "جولي باجي",
-  "جولي باجي": "Goli Baje",
-  "ice cream": "آيس كريم",
-  "آيس كريم": "Ice Cream",
-  "hyderabadi biryani": "برياني حيدر أباد",
-  "برياني حيدر أباد": "Hyderabadi Biryani",
-  "iced tea": "شاي مثلج",
-  "شاي مثلج": "Iced Tea",
-  "idiyappam": "اديابام",
-  "اديابام": "Idiyappam",
-  "iced drinks": "المشروبات المثلجة",
-  "المشروبات المثلجة": "Iced Drinks",
-  "idli": "إدلي",
-  "إدلي": "Idli",
-  "in shake": "فى الخلاط",
-  "فى الخلاط": "In Shake",
-  "kaara kuzhambu": "كارا كوزامبو",
-  "كارا كوزامبو": "Kaara Kuzhambu",
-  "iskandar": "إسكندر",
-  "إسكندر": "Iskandar",
-  "kanji": "كانجي",
-  "كانجي": "Kanji",
-  "jalapeno": "هالابينو",
-  "هالابينو": "Jalapeno",
-  "keerai kootu": "كيراي كوتو",
-  "كيراي كوتو": "Keerai Kootu",
-  "jam": "مربى",
-  "مربى": "Jam",
-  "keerai masiyal": "كيراي ماسيال",
-  "كيراي ماسيال": "Keerai Masiyal",
-  "jarra": "جرة",
-  "جرة": "Jarra",
-  "keerai poriyal": "كيراي بوريال",
-  "كيراي بوريال": "Keerai Poriyal",
-  "jerrycan": "جركن",
-  "جركن": "Jerrycan",
-  "keerai sadam": "كيراي سادام",
-  "كيراي سادام": "Keerai Sadam",
-  "jug": "إبريق",
-  "إبريق": "Teapot",
-  "kerala beef fry": "لحم بقري كيرالا مقلي",
-  "لحم بقري كيرالا مقلي": "Kerala Beef Fry",
-  "kabli": "كابلي",
-  "كابلي": "Kabli",
-  "kodubale": "كودوبالي",
-  "كودوبالي": "Kodubale",
-  "kabsa": "كبسة",
-  "كبسة": "Kabsa",
-  "kolhapuri akkha masoor dal": "كولهابوري أكها ماسور دال",
-  "كولهابوري أكها ماسور دال": "Kolhapuri Akkha Masoor Dal",
-  "karak": "كرك",
-  "كرك": "Karak",
-  "kootu": "كوتو",
-  "كوتو": "Kootu",
-  "kashkaval cheese": "جبنة قشقوان",
-  "جبنة قشقوان": "Kashkaval Cheese",
-  "kori rotti": "كوري روتي",
-  "كوري روتي": "Kori Rotti",
-  "kashkeh": "كشكة",
-  "كشكة": "Kashkeh",
-  "kos kootu": "كوس كوتو",
-  "كوس كوتو": "Kos Kootu",
-  "kawaj": "كواج",
-  "كواج": "Kawaj",
-  "kosambari": "كوسامباري",
-  "كوسامباري": "Kosambari",
-  "kebab": "كباب",
-  "كباب": "Kebab",
-  "kothamalli sadam": "كوثامالي سادام",
-  "كوثامالي سادام": "Kothamalli Sadam",
-  "kibbeh": "كبة",
-  "كبة": "Kibbeh",
-  "kozhukattai": "كوزوكاتاي",
-  "كوزوكاتاي": "Kozhukattai",
-  "keema": "كيما",
-  "كيما": "Keema",
-  "kuzhambu": "كوزامبو",
-  "كوزامبو": "Kuzhambu",
-  "saffron": "زعفران",
-  "زعفران": "Saffron",
-  "masala dosa": "ماسالا دوسا",
-  "ماسالا دوسا": "Masala Dosa",
-  "keshk": "كشك",
-  "كشك": "Keshk",
-  "nandu omelette": "ناندو اومليت",
-  "ناندو اومليت": "Nandu Omelette",
-  "ketchup": "كاتشب",
-  "كاتشب": "Ketchup",
-  "puran poli": "بوران بولي",
-  "بوران بولي": "Puran Poli",
-  "khalta rice": "أرز بالخلطة",
-  "أرز بالخلطة": "Khalta Rice",
-  "olan": "اولان",
-  "اولان": "Olan",
-  "khoshkhash": "خشخاش",
-  "خشخاش": "Poppy",
-  "pachadi": "باتشادي",
-  "باتشادي": "Pachadi",
-  "kidneys": "كلاوي",
-  "كلاوي": "Kidneys",
-  "paniyaram": "بانيارام",
-  "بانيارام": "Paniyaram",
-  "kinder": "كيندر",
-  "كيندر": "Kinder",
-  "paddu": "بادو",
-  "بادو": "Paddu",
-  "kiri cheese": "جبنة كيري",
-  "جبنة كيري": "Kiri Cheese",
-  "gunta ponganalu": "غونتا بونغانالو",
-  "غونتا بونغانالو": "Gunta Ponganalu",
-  "kit kat": "كيت كات",
-  "كيت كات": "Kit Kat",
-  "papadam": "بابادام",
-  "بابادام": "Papadam",
-  "kiwi": "كيوي",
-  "كيوي": "Kiwi",
-  "paramannam": "بارامانام",
-  "بارامانام": "Paramannam",
-  "knuckles": "كوارع",
-  "كوارع": "Knuckles",
-  "parotta": "باروتا",
-  "باروتا": "Parotta",
-  "kobeba": "كبيبة",
-  "كبيبة": "Kobeba",
-  "paruppu sadam": "باروبو سادام",
-  "باروبو سادام": "Paruppu Sadam",
-  "qudsia": "قدسية",
-  "قدسية": "Qudsia",
-  "payasam": "باياسام",
-  "باياسام": "Payasam",
-  "kofta": "كفتة",
-  "كفتة": "Kofta",
-  "pesarattu": "بيساراتو",
-  "بيساراتو": "Pesarattu",
-  "kol w shkor": "كل و اشكر",
-  "كل و اشكر": "Kol w Shkor",
-  "pongal": "بونجال",
-  "بونجال": "Pongal",
-  "koshary": "كشري",
-  "كشري": "Koshary",
-  "poriyal": "بوريال",
-  "بوريال": "Poriyal",
-  "kozi": "كوزي",
-  "كوزي": "Kozi",
-  "puli sadam": "بولي سادام",
-  "بولي سادام": "Puli Sadam",
-  "kumpir": "كومبير",
-  "كومبير": "Kumpir",
-  "puliyogare": "بوليوجار",
-  "بوليوجار": "Puliyogare",
-  "kunafa": "كنافة",
-  "كنافة": "Kunafa",
-  "pulihora": "بوليهورا",
-  "بوليهورا": "Pulihora",
-  "kung pao": "كونغ باو",
-  "كونغ باو": "Kung Pao",
-  "puttu": "بوتو",
-  "labneh": "لبنة",
-  "لبنة": "Labneh",
-  "ragi mudde": "راجي مود",
-  "راجي مود": "Ragi Mudde",
-  "lahoh": "لحوح",
-  "لحوح": "Lahoh",
-  "sajjige": "ساجيجي",
-  "ساجيجي": "Sajjige",
-  "lahsa": "لحسة",
-  "لحسة": "Lahsa",
-  "sakkarai pongal": "ساكاراي بونجال",
-  "ساكاراي بونجال": "Sakkarai Pongal",
-  "lamb shoulder": "زند ضأن",
-  "زند ضأن": "lamb shoulder",
-  "sambar": "سامبار",
-  "سامبار": "Sambar",
-  "lasagna": "لازانيا",
-  "لازانيا": "Lasagna",
-  "sandige": "سانديج",
-  "سانديج": "Sandige",
-  "layers": "طبقات",
-  "طبقات": "Layers",
-  "sevai": "سيفاي",
-  "سيفاي": "Sevai",
-  "lebanese bread": "خبز لبناني",
-  "خبز لبناني": "Lebanese Bread",
-  "sponge dosa": "سبونج دوسا",
-  "سبونج دوسا": "Sponge Dosa",
-  "leeks": "كراث",
-  "كراث": "Leeks",
-  "thattai": "ثاتاي",
-  "ثاتاي": "Thattai",
-  "lemonade": "ليموناضة",
-  "ليموناضة": "Lemonade",
-  "thayir sadam": "ثاير سادام",
-  "ثاير سادام": "Thayir Sadam",
-  "lentil": "عدس",
-  "عدس": "Lentil",
-  "mosaranna": "موسارانا",
-  "موسارانا": "Mosaranna",
-  "lettuce": "خس",
-  "خس": "Lettuce",
-  "perugannam": "بيروجانام",
-  "بيروجانام": "Perugannam",
-  "liquorice": "عرق سوس",
-  "عرق سوس": "Liquorice",
-  "theeyal": "ثيال",
-  "ثيال": "Theeyal",
-  "liver": "كبدة",
-  "كبدة": "Liver",
-  "thengai sadam": "ثينغاي سادام",
-  "ثينغاي سادام": "Thengai Sadam",
-  "lokmat el kadi": "لقمة القاضي",
-  "لقمة القاضي": "Lokmat El Kadi",
-  "uttapam tamil nadu": "أوتابام تاميل نادو",
-  "أوتابام تاميل نادو": "Uttapam Tamil Nadu",
-  "lollipop": "لولي بوب",
-  "لولي بوب": "Lollipop",
-  "vada": "فادا",
-  "فادا": "Vada",
-  "lotus": "لوتس",
-  "لوتس": "Lotus",
-  "varuval": "فاروفال",
-  "فاروفال": "Varuval",
-  "luncheon": "لانشون",
-  "لانشون": "Luncheon",
-  "wheat upma": "قمح أبما",
-  "قمح أبما": "Wheat Upma",
-  "luqaimat": "لقيمات",
-  "لقيمات": "Luqaimat",
-  "elumichai sadam": "إلوميخاي سادام",
-  "إلوميخاي سادام": "Elumichai Sadam",
-  "m&m's": "إم آند إمز",
-  "إم آند إمز": "M&M's",
-  "amti": "أمتي",
-  "أمتي": "Amti",
-  "maamoul": "معمول",
-  "معمول": "Maamoul",
-  "bajri no rotlo": "باجري نو روتلو",
-  "باجري نو روتلو": "Bajri no Rotlo",
-  "mabrouma": "مبرومة",
-  "مبرومة": "Mabrouma",
-  "barfi": "بارفي",
-  "بارفي": "Barfi",
-  "majbous": "مجبوس",
-  "مجبوس": "Majbous",
-  "basundi": "باسوندي",
-  "باسوندي": "Basundi",
-  "madfoun": "مدفون",
-  "مدفون": "Madfoun",
-  "bhakri": "بهاكري",
-  "بهاكري": "Bhakri",
-  "maflaq": "مفلق",
-  "مفلق": "Maflaq",
-  "bombil fry": "بومبيل مقلي",
-  "بومبيل مقلي": "Bombil Fry",
-  "mfaraka": "مفركة",
-  "مفركة": "Mfaraka",
-  "chevdo": "شيفدو",
-  "شيفدو": "Chevdo",
-  "mafruka": "مفروكة",
-  "مفروكة": "Mafruka",
-  "chorafali": "تشورافالي",
-  "تشورافالي": "Chorafali",
-  "mahashi": "محاشي",
-  "محاشي": "Mahashi",
-  "daal dhokli": "دال دوكلي",
-  "دال دوكلي": "Daal Dhokli",
-  "mahshi": "محشي",
-  "محشي": "Mahshi",
-  "dabeli": "دابلي",
-  "دابلي": "Dabeli",
-  "makadem": "مقادم",
-  "مقادم": "Makadem",
-  "dahi vada": "داهي فادا",
-  "داهي فادا": "Dahi Vada",
-  "makdous": "مكدوس",
-  "مكدوس": "Makdous",
-  "dalithoy": "داليثوي",
-  "داليثوي": "Dalithoy",
-  "maqlouba": "مقلوبة",
-  "مقلوبة": "Maqlouba",
-  "dhokla": "دوكلا",
-  "دوكلا": "Dhokla",
-  "makmout": "مكموت",
-  "مكموت": "Makmout",
-  "doodhpak": "دودباك",
-  "دودباك": "Doodhpak",
-  "makmour": "مكمور",
-  "مكمور": "Makmour",
-  "dudhi no halwo": "دودي نو هالوو",
-  "دودي نو هالوو": "Dudhi No Halwo",
-  "malawah": "ملوح",
-  "ملوح": "Malawah",
-  "dudhi muthiya": "دودي موثيا",
-  "دودي موثيا": "Dudhi Muthiya",
-  "malooga": "ملوجة",
-  "ملوجة": "Malooga",
-  "gajar halwo": "حلوى غاجار",
-  "حلوى غاجار": "Gajar Halwo",
-  "maltesers": "مالتيزرز",
-  "مالتيزرز": "Maltesers",
-  "gatta curry": "جاتا كاري",
-  "جاتا كاري": "Gatta Curry",
-  "manakish": "مناقيش",
-  "مناقيش": "Manakish",
-  "ghari": "غاري",
-  "غاري": "Ghari",
-  "mandi": "مندي",
-  "مندي": "Mandi",
-  "ghooghra": "غوغرا",
-  "غوغرا": "Ghooghra",
-  "mango": "مانجا",
-  "مانجا": "Mango",
-  "gud papdi": "جود بابدي",
-  "جود بابدي": "Gud Papdi",
-  "manousheh": "منقوشة",
-  "منقوشة": "Manousheh",
-  "halwasan": "حلواسان",
-  "حلواسان": "Halwasan",
-  "mansaf": "منسف",
-  "منسف": "Mansaf",
-  "handwo": "هاندفو",
-  "هاندفو": "Handwo",
-  "maple syrup": "ميبل سيروب",
-  "ميبل سيروب": "Maple Syrup",
-  "gur": "جور",
-  "جور": "Gur",
-  "maraseea": "مراصيع",
-  "مراصيع": "Maraseea",
-  "jeera aloo": "جيرا ألو",
-  "جيرا ألو": "Jeera Aloo",
-  "margherita": "مارجريتا",
-  "مارجريتا": "Margherita",
-  "juvar no rotlo": "جوفار نو روتلو",
-  "جوفار نو روتلو": "Juvar no Rotlo",
-  "mutabbal": "متبل",
-  "متبل": "Mutabbal",
-  "kansar": "كانسار",
-  "كانسار": "Kansar",
-  "marinated tomatoes": "بندورة متبلة",
-  "بندورة متبلة": "Marinated Tomatoes",
-  "karanji": "كارانجي",
-  "كارانجي": "Karanji",
-  "markouk": "مرقوق",
-  "مرقوق": "Markouk",
-  "keri no ras": "كيري نو راس",
-  "كيري نو راس": "Keri no Ras",
-  "marsa": "مرسة",
-  "مرسة": "Marsa",
-  "khakhra": "خاكرا",
-  "خاكرا": "Khakhra",
-  "marshmallow": "مارشميلو",
-  "مارشميلو": "Marshmallow",
-  "khandvi": "خاندفي",
-  "خاندفي": "Khandvi",
-  "mashed potato": "بطاطا مهروسة",
-  "بطاطا مهروسة": "Mashed Potato",
-  "kombdi vade": "كومبدي فادي",
-  "كومبدي فادي": "Kombdi Vade",
-  "masmat": "مسمط",
-  "مسمط": "Masmat",
-  "kopra paak": "كوبرا باك",
-  "كوبرا باك": "Kopra Paak",
-  "masoub": "معصوب",
-  "معصوب": "Masoub",
-  "koshimbir": "كوشيمبير",
-  "كوشيمبير": "Koshimbir",
-  "mastic": "مستكة",
-  "مستكة": "Mastic",
-  "kolim": "كوليم",
-  "كوليم": "Kolim",
-  "matazeez": "مطازيز",
-  "مطازيز": "Matazeez",
-  "laddu": "لادو",
-  "لادو": "Laddu",
-  "madhbi": "مظبي",
-  "مظبي": "Madhbi",
-  "locha": "لوتشا",
-  "لوتشا": "Locha",
-  "mathloutha": "مثلوثة",
-  "مثلوثة": "Mathloutha",
-  "malpua": "مالبوا",
-  "مالبوا": "Malpua",
-  "mayonnaise": "مايونيز",
-  "مايونيز": "Mayonnaise",
-  "methi na gota": "ميثي نا غوتا",
-  "ميثي نا غوتا": "Methi na Gota",
-  "mazza rice": "أرز مزة",
-  "أرز مزة": "Mazza Rice",
-  "modak": "موداك",
-  "موداك": "Modak",
-  "muammar rice": "أرز معمر",
-  "أرز معمر": "Muammar rice",
-  "mohanthal": "موهانثال",
-  "موهانثال": "Mohanthal",
-  "meat biryani": "برياني لحم",
-  "برياني لحم": "Meat Biryani",
-  "chakri": "شاكري",
-  "شاكري": "Chakri",
-  "meat on dough": "لحم بالعجين",
-  "لحم بالعجين": "Meat on Dough",
-  "muthiya": "موثيا",
-  "موثيا": "Muthiya",
-  "meatloaf": "ورقة لحم",
-  "ورقة لحم": "Meatloaf",
-  "oondees": "أونديس",
-  "أونديس": "Oondees",
-  "melon": "شمام",
-  "شمام": "Sweet Melon",
-  "patrode": "باترود",
-  "باترود": "Patrode",
-  "melted cheese": "جبنة ذائبة",
-  "جبنة ذائبة": "Melted Cheese",
-  "penda": "بيندا",
-  "بيندا": "Penda",
-  "liquid cheese": "جبنة سائلة",
-  "جبنة سائلة": "Liquid Cheese",
-  "poori": "بوري",
-  "بوري": "Poori",
-  "mesabaha": "مسبحة",
-  "مسبحة": "Mesabaha",
-  "puri bhaji": "بوري باجي",
-  "بوري باجي": "Puri Bhaji",
-  "moussaka": "مسقعة",
-  "مسقعة": "Moussaka",
-  "rasya muthia": "راسيا موثيا",
-  "راسيا موثيا": "Rasya muthia",
-  "milk pudding": "مهلبية",
-  "مهلبية": "Milk Pudding",
-  "sabudana khichdi": "سابودانا خيتشدي",
-  "سابودانا خيتشدي": "Sabudana Khichdi",
-  "milkshake": "ميلك شيك",
-  "ميلك شيك": "Milkshake",
-  "sev khamani": "سيف خاماني",
-  "سيف خاماني": "Sev Khamani",
-  "millefeuille": "ملفيه",
-  "ملفيه": "Millefeuille",
-  "sev tameta": "سيف تاميتا",
-  "سيف تاميتا": "Sev Tameta",
-  "minced meat": "لحم مفروم",
-  "shakarpara": "شاكاربارا",
-  "شاكاربارا": "Shakarpara",
-  "mineral water": "مياه معدنية",
-  "مياه معدنية": "Mineral Water",
-  "namakpara": "ناماك بارا",
-  "ناماك بارا": "Namakpara",
-  "minestrone soup": "شوربة مينيستروني",
-  "شوربة مينيستروني": "Minestrone Soup",
-  "shankarpali": "شانكاربالي",
-  "شانكاربالي": "Shankarpali",
-  "mint": "نعناع",
-  "نعناع": "Mint",
-  "shiro": "شيرو",
-  "شيرو": "Shiro",
-  "mirinda orange": "ميرندا برتقال",
-  "ميرندا برتقال": "Mirinda Orange",
-  "shrikhand": "شريكاند",
-  "شريكاند": "Shrikhand",
-  "mixed grills": "مشويات مشكلة",
-  "مشويات مشكلة": "Mixed Grills",
-  "soan papdi": "سوان بابدي",
-  "سوان بابدي": "Soan Papdi",
-  "mixed vegetables": "خضار مشكلة",
-  "خضار مشكلة": "Mixed vegetables",
-  "soonvali": "سونفالي",
-  "سونفالي": "Soonvali",
-  "mixed coffee hala": "حلا قهوة مشكل",
-  "حلا قهوة مشكل": "Mixed Coffee Hala",
-  "sukhdi": "سوخدي",
-  "سوخدي": "Sukhdi",
-  "mlais": "مليس",
-  "مليس": "Mlais",
-  "surnoli": "سورنولي",
-  "سورنولي": "Surnoli",
-  "white mocha": "وايت موكا",
-  "وايت موكا": "White Mocha",
-  "sutarfeni": "سوتارفيني",
-  "سوتارفيني": "Sutarfeni",
-  "oz": "أونصة",
-  "أونصة": "Oz",
-  "thalipeeth": "ثاليبييث",
-  "ثاليبييث": "Thalipeeth",
-  "cranberry": "توت بري",
-  "توت بري": "Cranberry",
-  "thepla": "ثيبلا",
-  "ثيبلا": "Thepla",
-  "espresso shot": "شوت اسبريسو",
-  "شوت اسبريسو": "Espresso Shot",
-  "upmaa": "أبما",
-  "أبما": "Upmaa",
-  "chicken satay": "دجاج ستاي",
-  "دجاج ستاي": "Chicken Satay",
-  "vada pav": "فادا باف",
-  "فادا باف": "Vada Pav",
-  "beef nihari": "لحم نهاري",
-  "لحم نهاري": "Beef Nihari",
-  "veg kolhapuri": "كولابوري نباتي",
-  "كولابوري نباتي": "Veg Kolhapuri",
-  "chicken achari boti": "دجاج أشاري بوتي",
-  "دجاج أشاري بوتي": "Chicken Achari Boti",
-  "ghebar": "غبار",
-  "غبار": "Ghebar",
-  "chicken bihari boti": "دجاج بخاري بوتي",
-  "دجاج بخاري بوتي": "Chicken Bihari Boti",
-  "ghevar": "غيفار",
-  "غيفار": "Ghevar",
-  "chicken malai boti": "دجاج مالاي بوتي",
-  "دجاج مالاي بوتي": "Chicken Malai boti",
-  "lilva kachori": "ليلفا كاتشوري",
-  "ليلفا كاتشوري": "Lilva Kachori",
-  "reshmi kebab": "كباب ريشمي",
-  "كباب ريشمي": "Reshmi Kebab",
-  "maghaz": "مغاز",
-  "مغاز": "Maghaz",
-  "chicken kastoori boti": "دجاج كاستوري بوتي",
-  "دجاج كاستوري بوتي": "Chicken Kastoori Boti",
-  "mag dhokli": "ماغ دوكلي",
-  "ماغ دوكلي": "Mag Dhokli",
-  "hot sauce": "صوص حار",
-  "صوص حار": "Spicy Sauce",
-  "khichu": "خيتشو",
-  "خيتشو": "Khichu",
-  "chili sauce": "صوص الفلفل حار",
-  "صوص الفلفل حار": "Chili Sauce",
-  "farsi puri": "فارسي بوري",
-  "فارسي بوري": "Farsi Puri",
-  "full portion": "كمية كاملة",
-  "كمية كاملة": "Full Portion",
-  "khaman": "خامان",
-  "خامان": "Khaman",
-  "half portion": "نصف كمية",
-  "نصف كمية": "Half Portion",
-  "turiya patra": "توريا باترا",
-  "توريا باترا": "Turiya Patra",
-  "hamsa": "حمسة",
-  "حمسة": "Hamsa",
-  "mohan thaal": "موهان ثال",
-  "موهان ثال": "Mohan Thaal",
-  "sriracha sauce": "صوص سريراتشا",
-  "صوص سريراتشا": "sriracha sauce",
-  "churma ladoo": "تشورما لادو",
-  "تشورما لادو": "Churma Ladoo",
-  "cutlets": "قطع لحم",
-  "قطع لحم": "Cutlets",
-  "zunka": "زونكا",
-  "زونكا": "Zunka",
-  "bites": "بايتس",
-  "بايتس": "Bites",
-  "cheera doi": "تشيرا دوي",
-  "تشيرا دوي": "Cheera Doi",
-  "oatmeal": "حبوب الشوفان",
-  "حبوب الشوفان": "Oatmeal",
-  "daab chingri": "داب تشينغري",
-  "داب تشينغري": "Daab Chingri",
-  "macchiato": "ماكياتو",
-  "ماكياتو": "Macchiato",
-  "dhupi pitha": "دهوبي بيثا",
-  "دهوبي بيثا": "Dhupi Pitha",
-  "grinded": "مطحون",
-  "ghila pitha": "جيلا بيثا",
-  "جيلا بيثا": "Ghila Pitha",
-  "sour": "حامض",
-  "حامض": "Sour",
-  "hurum": "هوروم",
-  "هوروم": "Hurum",
-  "mascarpone cheese": "جبنة ماسكربوني‎",
-  "جبنة ماسكربوني‎": "Mascarpone Cheese",
-  "khar": "خار",
-  "خار": "Khar",
-  "chimichurri sauce": "صوص تشيمي تشوري",
-  "صوص تشيمي تشوري": "Chimichurri Sauce",
-  "komal saul": "كومال شاول",
-  "كومال شاول": "Komal Saul",
-  "edamame": "ادامامي",
-  "ادامامي": "Edamame",
-  "loskora": "لوسكورا",
-  "لوسكورا": "Loskora",
-  "edamat": "إيدامات",
-  "إيدامات": "Edamat",
-  "luchi": "لوتشي",
-  "لوتشي": "Luchi",
-  "egg benedict": "بيض بينديكت",
-  "بيض بينديكت": "Egg Benedict",
-  "muri naaru": "موري نارو",
-  "موري نارو": "Muri Naaru",
-  "stroganoff": "ستروجانوف",
-  "ستروجانوف": "Stroganoff",
-  "pani tenga": "باني تنجا",
-  "باني تنجا": "Pani Tenga",
-  "smoothie": "سموثي",
-  "سموثي": "Smoothie",
-  "sunga pitha": "سونجا بيثا",
-  "سونجا بيثا": "Sunga Pitha",
-  "roti": "روتي",
-  "روتي": "Roti",
-  "aloo pitika": "ألو بيتيكا",
-  "ألو بيتيكا": "Aloo Pitika",
-  "kaak": "كعك",
-  "كعك": "Kaak",
-  "masor tenga": "ماسور تينجا",
-  "ماسور تينجا": "Masor Tenga",
-  "dal": "دال",
-  "bengena pitika": "بنجنا بيتيكا",
-  "بنجنا بيتيكا": "Bengena Pitika",
-  "sedr": "سدر",
-  "سدر": "Sedr",
-  "bilahi maas": "بلاهي ماس",
-  "بلاهي ماس": "Bilahi Maas",
-  "striploin steak": "ستريبلوين ستيك",
-  "ستريبلوين ستيك": "Striploin Steak",
-  "bora saul": "بورا سول",
-  "بورا سول": "Bora Saul",
-  "flatbread": "الخبز المسطح",
-  "الخبز المسطح": "Flatbread",
-  "chhena gaja": "تشينا غاجا",
-  "تشينا غاجا": "Chhena Gaja",
-  "gherkins": "خيار مخلل",
-  "خيار مخلل": "Pickled Cucumbers",
-  "chhena poda": "تشينا بودا",
-  "تشينا بودا": "Chhena Poda",
-  "negresco": "نجرسكو",
-  "نجرسكو": "Negresco",
-  "chingri malai curry": "كاري تشنغري مالاي",
-  "كاري تشنغري مالاي": "Chingri Malai Curry",
-  "nicoise salad": "سلطة نيسواز",
-  "سلطة نيسواز": "Nicoise Salad",
-  "goja": "غوجا",
-  "غوجا": "Goja",
-  "noodles": "نودلز",
-  "نودلز": "Noodles",
-  "handoh guri": "هاندوه جوري",
-  "هاندوه جوري": "Handoh Guri",
-  "nuggets": "ناجتس",
-  "ناجتس": "Nuggets",
-  "haq maas": "هاق ماس",
-  "هاق ماس": "Haq Maas",
-  "nutella": "نوتيلا",
-  "نوتيلا": "Nutella",
-  "horioh maas": "هوريوه ماس",
-  "هوريوه ماس": "Horioh Maas",
-  "octopus": "أخطبوط",
-  "أخطبوط": "Octopus",
-  "chingri bhapa": "تشنغري بهابا",
-  "تشنغري بهابا": "Chingri Bhapa",
-  "okra": "بامية",
-  "بامية": "Okra",
-  "kabiraji": "كابيراجي",
-  "كابيراجي": "Kabiraji",
-  "olive": "زيتون",
-  "زيتون": "Olive",
-  "kharoli": "خارولي",
-  "خارولي": "Kharoli",
-  "olive oil": "زيت زيتون",
-  "زيت زيتون": "Olive oil",
-  "khorisa": "خوريسا",
-  "خوريسا": "Khorisa",
-  "omelette": "أومليت",
-  "أومليت": "Omelette",
-  "koldil chicken": "دجاج كولديل",
-  "دجاج كولديل": "Koldil Chicken",
-  "onion": "بصل",
-  "بصل": "Onion",
-  "koldil duck": "بطة كولديل",
-  "بطة كولديل": "Koldil Duck",
-  "oqaily": "عقيلي",
-  "عقيلي": "Oqaily",
-  "konir dom": "كونير دوم",
-  "كونير دوم": "Konir Dom",
-  "oqda": "عقدة",
-  "عقدة": "oqda",
-  "lai haq maas": "لاي هاق ماس",
-  "لاي هاق ماس": "Lai Haq Maas",
-  "oreo": "أوريو",
-  "أوريو": "Oreo",
-  "litti": "ليتي",
-  "ليتي": "Litti",
-  "oriental desserts": "الحلويات الشرقية",
-  "الحلويات الشرقية": "Oriental Desserts",
-  "masor koni": "ماسور كوني",
-  "ماسور كوني": "Masor Koni",
-  "oriental rice": "أرز شرقي",
-  "أرز شرقي": "Oriental Rice",
-  "masor petu": "ماسور بيتو",
-  "ماسور بيتو": "Masor Petu",
-  "orma casserole": "طاجن أورمة",
-  "طاجن أورمة": "Orma Casserole",
-  "mishti cholar dal": "ميشتي تشولار دال",
-  "ميشتي تشولار دال": "Mishti Cholar Dal",
-  "orzo": "لسان عصفور",
-  "لسان عصفور": "Orzo",
-  "mishti doi": "ميشتي دوي",
-  "ميشتي دوي": "Mishti Doi",
-  "orzo soup": "شوربة لسان عصفور",
-  "شوربة لسان عصفور": "Orzo Soup",
-  "ou tenga maas": "أو تينغا ماس",
-  "أو تينغا ماس": "Ou tenga Maas",
-  "ouzi": "أوزي",
-  "أوزي": "Ouzi",
-  "bhaji": "باجي",
-  "باجي": "Bhaji",
-  "oven baked": "بالفرن",
-  "بالفرن": "Oven Baked",
-  "pani pitha": "باني بيثا",
-  "باني بيثا": "Pani Pitha",
-  "oven baked pasta": "مكرونة فرن",
-  "مكرونة فرن": "Oven Baked Pasta",
-  "pantua": "بانتوا",
-  "بانتوا": "Pantua",
-  "oyoun al maha": "عيون المها",
-  "عيون المها": "Oyoun Al Maha",
-  "payokh": "بايوك",
-  "بايوك": "Payokh",
-  "oyster sauce": "صوص أويستر",
-  "صوص أويستر": "Oyster sauce",
-  "peda": "بيدا",
-  "بيدا": "Peda",
-  "packet": "باكيت",
-  "باكيت": "Packet",
-  "prawn malai curry": "كاري الروبيان المالاي",
-  "كاري الروبيان المالاي": "Prawn Malai Curry",
-  "pancake": "بان كيك",
-  "بان كيك": "Pancake",
-  "red rice": "الأرز الأحمر",
-  "الأرز الأحمر": "Red Rice",
-  "pane": "بانيه",
-  "بانيه": "Pane",
-  "rasagola/roshogolla": "راسغولا",
-  "راسغولا": "Rasagola/Roshogolla",
-  "panini": "بانينى",
-  "بانينى": "Panini",
-  "shondesh": "شونديش",
-  "شونديش": "Shondesh",
-  "panini bread": "خبز بانيني",
-  "خبز بانيني": "Panini Bread",
-  "shukto": "شوكتو",
-  "شوكتو": "Shukto",
-  "paratha bread": "خبز براتا",
-  "خبز براتا": "Paratha Bread",
-  "tenga doi": "تينغا دوي",
-  "تينغا دوي": "Tenga Doi",
-  "parotta bread": "خبز باروتا",
-  "خبز باروتا": "Parotta Bread",
-  "til pitha": "تيل بيثا",
-  "تيل بيثا": "Til Pitha",
-  "parmesan cheese": "جبنة بارميزان",
-  "جبنة بارميزان": "Parmesan Cheese",
-  "parsley": "بقدونس",
-  "بقدونس": "Parsley",
-  "pastrami": "بسطرمة",
-  "بسطرمة": "Pastrami",
-  "pastries": "معجنات",
-  "معجنات": "Pastries",
-  "peach": "خوخ",
-  "خوخ": "Peach",
-  "peanut": "فول سودانى",
-  "فول سودانى": "Peanut",
-  "peanut butter": "زبدة فول سوداني",
-  "زبدة فول سوداني": "Peanut Butter",
-  "peel": "قشر",
-  "قشر": "Peel",
-  "peeled": "مقشر",
-  "مقشر": "Peeled",
-  "penne pasta": "مكرونة بيني",
-  "مكرونة بيني": "Penne Pasta",
-  "pepper": "فلفل",
-  "فلفل": "Pepper",
-  "pepper jack cheese": "جبنة بيبر جاك",
-  "جبنة بيبر جاك": "pepper jack cheese",
-  "pepperoni": "بيبروني",
-  "بيبروني": "Pepperoni",
-  "petit four": "بيتي فور",
-  "بيتي فور": "Petit Four",
-  "petit pain bread": "خبز بيتي بان",
-  "خبز بيتي بان": "Petit pain Bread",
-  "philadelphia cheese": "جبنة فيلادلفيا",
-  "جبنة فيلادلفيا": "Philadelphia Cheese",
-  "phyllo": "جلاش",
-  "جلاش": "Phyllo",
-  "piccata": "بيكاتا",
-  "بيكاتا": "Piccata",
-  "pickled cucumbers": "خيار مخلل",
-  "pickled lemons with safflower": "ليمون معصفر",
-  "ليمون معصفر": "Pickled Lemons with Safflower",
-  "pickles": "مخلل",
-  "مخلل": "Pickles",
-  "pigeon": "حمام",
-  "حمام": "Pigeon",
-  "pina colada": "بينا كولادا",
-  "بينا كولادا": "Pina Colada",
-  "pine": "صنوبر",
-  "صنوبر": "Pine",
-  "pineapple": "أناناس",
-  "أناناس": "Pineapple",
-  "pistachio": "فستق",
-  "فستق": "Pistachio",
-  "pita bread": "خبز بيتا",
-  "خبز بيتا": "Pita Bread",
-  "plain": "سادة",
-  "سادة": "Plain",
-  "poached eggs": "بيض مسلوق",
-  "بيض مسلوق": "Poached Eggs",
-  "pomegranate": "رمان",
-  "رمان": "Pomegranate",
-  "pomegranate molasses": "دبس الرمان",
-  "دبس الرمان": "Pomegranate Molasses",
-  "potato wedges": "بطاطا ودجز",
-  "بطاطا ودجز": "Potato Wedges",
-  "potatoes": "بطاطا",
-  "بطاطا": "Potatoes",
-  "prickly pear": "تين شوكي",
-  "تين شوكي": "Prickly Pear",
-  "profiterole": "بروفيترول",
-  "بروفيترول": "Profiterole",
-  "provolone cheese": "جبنة بروفولون",
-  "جبنة بروفولون": "Provolone cheese",
-  "prune": "قراصيا",
-  "قراصيا": "Prune",
-  "purée potatoes": "بطاطا بيوريه",
-  "بطاطا بيوريه": "Purée Potatoes",
-  "puri bread": "خبز بوري",
-  "خبز بوري": "Puri Bread",
-  "qalabah": "قلابة",
-  "قلابة": "Qalabah",
-  "qamar el din": "قمر الدين",
-  "قمر الدين": "Qamar El Din",
-  "qatayef": "قطايف",
-  "قطايف": "Qatayef",
-  "qorsan": "قرصان",
-  "قرصان": "Qorsan",
-  "quail": "سمان",
-  "سمان": "Quail",
-  "quattro formaggi": "كواترو فورماجي",
-  "كواترو فورماجي": "Quattro Formaggi",
-  "quesadilla": "كاساديا",
-  "كاساديا": "Quesadilla",
-  "cottage cheese": "جبنة قريش",
-  "جبنة قريش": "Cottage Cheese",
-  "rabie juice": "عصير الربيع",
-  "عصير الربيع": "Rabie Juice",
-  "radish": "فجل",
-  "فجل": "Radish",
-  "rahash": "رهش",
-  "رهش": "Rahash",
-  "raisin": "زبيب",
-  "زبيب": "Raisin",
-  "ras el hanout": "رأس الحانوت",
-  "رأس الحانوت": "Ras el Hanout",
-  "raspberry": "توت أحمر",
-  "توت أحمر": "Red Berry",
-  "ratib bread": "خبز رطب",
-  "خبز رطب": "Ratib Bread",
-  "ravioli": "رافيولي",
-  "رافيولي": "Ravioli",
-  "ready made": "جاهز",
-  "جاهز": "Ready Made",
-  "red berry": "توت أحمر",
-  "red bull": "ريد بول",
-  "ريد بول": "Red Bull",
-  "red mullet": "سمك بربون",
-  "سمك بربون": "Red Mullet",
-  "red velvet": "ريد فيلفت",
-  "ريد فيلفت": "Red Velvet",
-  "reese's": "ريسز",
-  "ريسز": "Reese's",
-  "rfissa": "رفيسة",
-  "رفيسة": "Rfissa",
-  "ribeye steak": "ريب آى ستيك",
-  "ريب آى ستيك": "Ribeye Steak",
-  "ribs": "ريش",
-  "ريش": "Ribs",
-  "risotto": "ريزوتو",
-  "ريزوتو": "Risotto",
-  "roast beef": "روست بيف",
-  "روست بيف": "Roast Beef",
-  "roasted": "محمر",
-  "محمر": "Roasted",
-  "rocca": "جرجير",
-  "جرجير": "Rocca",
-  "rokak": "رقاق",
-  "رقاق": "Rokak",
-  "roquefort cheese": "جبنة ريكفورد",
-  "جبنة ريكفورد": "Roquefort Cheese",
-  "roquefort cheese sauce": "صوص جبنة ريكفورد",
-  "صوص جبنة ريكفورد": "Roquefort Cheese Sauce",
-  "rosemary": "روزماري",
-  "روزماري": "Rosemary",
-  "rough kunafa": "كنافة خشنة",
-  "كنافة خشنة": "Rough Kunafa",
-  "roumi cheese": "جبنة رومي",
-  "جبنة رومي": "Roumi Cheese",
-  "safeha": "صفيحة",
-  "صفيحة": "Safeha",
-  "saj": "صاج",
-  "صاج": "Saj",
-  "saj bread": "خبز صاج",
-  "خبز صاج": "Saj Bread",
-  "salami": "سلامي",
-  "سلامي": "Salami",
-  "sahleb": "سحلب",
-  "سحلب": "Sahleb",
-  "saltah": "سلتة",
-  "سلتة": "Saltah",
-  "salted caramel": "سولتد كراميل",
-  "سولتد كراميل": "Salted Caramel",
-  "samoli": "صامولي",
-  "صامولي": "Samoli",
-  "sandwich": "ساندويش",
-  "ساندويش": "Sandwich",
-  "saniora": "سنيورة",
-  "santa fe": "سانتا فيه",
-  "سانتا فيه": "Santa fe",
-  "saroukh": "صاروخ",
-  "صاروخ": "Saroukh",
-  "sausages": "نقانق",
-  "نقانق": "Sausages",
-  "sauteed": "سوتيه",
-  "سوتيه": "Sauteed",
-  "savory": "موالح",
-  "موالح": "Savory",
-  "savory dish": "الأطباق المالحة",
-  "الأطباق المالحة": "Savory dish",
-  "scoop": "مغرفة",
-  "مغرفة": "Scoop",
-  "scrambled eggs": "بيض مخفوق",
-  "بيض مخفوق": "Scrambled Eggs",
-  "seafood": "مأكولات بحرية",
-  "مأكولات بحرية": "Seafood",
-  "seeds": "بذور",
-  "بذور": "Seeds",
-  "semeen": "سمين",
-  "سمين": "Semeen",
-  "service platter": "سيرفيس",
-  "سيرفيس": "Service Platter",
-  "tahini": "طحينة",
-  "طحينة": "Tahini",
-  "shaabi": "شعبي",
-  "شعبي": "Shaabi",
-  "shakreyeh": "شاكرية",
-  "شاكرية": "Shakreyeh",
-  "shakshuka": "شكشوكة",
-  "شكشوكة": "Shakshuka",
-  "shambri meat": "لحم شمبري",
-  "لحم شمبري": "Shambri Meat",
-  "shami": "شامي",
-  "شامي": "Shami",
-  "shandong": "شاندونج",
-  "شاندونج": "Shandong",
-  "shank": "موزة",
-  "موزة": "Shank",
-  "shanklish cheese": "جبنة شنكليش",
-  "جبنة شنكليش": "Shanklish Cheese",
-  "sharhat on dough": "شرحات بالعجين",
-  "شرحات بالعجين": "Sharhat on Dough",
-  "sharkasia": "شركسية",
-  "شركسية": "Sharkasia",
-  "shawarma": "شاورما",
-  "شاورما": "Shawarma",
-  "sheep testicles": "بيض غنم",
-  "بيض غنم": "Sheep Testicles",
-  "shish barak": "شيش برك",
-  "شيش برك": "Shish Barak",
-  "shish chicken": "دجاج شيش",
-  "دجاج شيش": "Shish Chicken",
-  "shish tawook": "شيش طاووق",
-  "شيش طاووق": "Shish Tawook",
-  "shokaf": "شقف",
-  "شقف": "Shokaf",
-  "shredded": "مبشور",
-  "مبشور": "Shredded",
-  "simit": "سميت",
-  "سميت": "Simit",
-  "singary": "سنجاري",
-  "سنجاري": "Singary",
-  "single": "سنجل",
-  "سنجل": "Single",
-  "sirloin steak": "سيراليون ستيك",
-  "سيراليون ستيك": "Sirloin Steak",
-  "sizzling prawn": "سيزلنج روبيان",
-  "سيزلنج روبيان": "Sizzling prawn",
-  "skewers": "أسياخ",
-  "أسياخ": "Skewers",
-  "sliced chicken shawerma sandwich": "ساندويش شاورما دجاج مقطع",
-  "ساندويش شاورما دجاج مقطع": "Sliced Chicken Shawerma Sandwich",
-  "slices": "شرائح",
-  "شرائح": "Strips",
-  "smoked": "مدخن",
-  "مدخن": "Smoked",
-  "smoked turkey": "لحم ديك رومي مدخن",
-  "لحم ديك رومي مدخن": "Smoked Turkey",
-  "snickers": "سنيكرز",
-  "سنيكرز": "Snickers",
-  "soiree": "سواريه",
-  "سواريه": "Soiree",
-  "souffle": "سوفليه",
-  "سوفليه": "Souffle",
-  "sour cream": "كريمة حامضية",
-  "كريمة حامضية": "Sour Cream",
-  "soy sauce": "صوص صويا",
-  "صوص صويا": "Soy Sauce",
-  "spaghetti": "سباغيتي",
-  "سباغيتي": "Spaghetti",
-  "spices": "توابل",
-  "توابل": "Spices",
-  "spinach": "سبانخ",
-  "سبانخ": "Spinach",
-  "spring rolls": "سبرينج رولز",
-  "سبرينج رولز": "Spring Rolls",
-  "squeezed juice": "عصير معصور",
-  "عصير معصور": "Squeezed Juice",
-  "strawberry": "فراولة",
-  "فراولة": "Strawberry",
-  "stuffed pigeon with grits": "حمام محشي فريكة",
-  "حمام محشي فريكة": "Stuffed Pigeon with Grits",
-  "sugar cane": "قصب سكر",
-  "قصب سكر": "Sugar Cane",
-  "sumac": "سماق",
-  "سماق": "Sumac",
-  "sun top juice": "عصير سن توب",
-  "عصير سن توب": "Suntop",
-  "sundae": "صاندي",
-  "صاندي": "Sundae",
-  "sunny side up eggs": "بيض عيون",
-  "بيض عيون": "Sunny Side Up Eggs",
-  "super supreme": "سوبر سوبريم",
-  "سوبر سوبريم": "Super Supreme",
-  "sweet and sour": "حلو و حامض",
-  "حلو و حامض": "Sweet and Sour",
-  "syrian bread": "خبز سوري",
-  "خبز سوري": "Syrian Bread",
-  "szechuan": "سيشوان",
-  "سيشوان": "Szechuan",
-  "tabbouleh": "تبولة",
-  "تبولة": "Tabbouleh",
-  "tamago": "تاماغو",
-  "تاماغو": "Tamago",
-  "tamarind": "تمر هندي",
-  "تمر هندي": "Tamarind",
-  "tames bread": "خبز تميس",
-  "خبز تميس": "Tames Bread",
-  "dates": "تمر",
-  "تمر": "Dates",
-  "tannour": "تنور",
-  "تنور": "Tannour",
-  "taqatea": "تقاطيع",
-  "تقاطيع": "Taqatea",
-  "tarator": "طرطور",
-  "طرطور": "Tarator",
-  "tarb": "طرب",
-  "طرب": "Tarb",
-  "tartar sauce": "صوص تارتار",
-  "صوص تارتار": "Tartar Sauce",
-  "tarwiaa": "ترويقة",
-  "ترويقة": "Tarwiaa",
-  "tawa": "طاوة",
-  "طاوة": "Tawa",
-  "tawaya": "طواية",
-  "طواية": "Tawaya",
-  "t-bone steak": "تي بون ستيك",
-  "تي بون ستيك": "T-Bone Steak",
-  "tea bag": "كيس شاي",
-  "كيس شاي": "Tea Bag",
-  "teapot": "إبريق",
-  "tempura sauce": "صوص تيمبورا",
-  "صوص تيمبورا": "Tempura sauce",
-  "tenderloin steak": "ستيك تندرلوين",
-  "ستيك تندرلوين": "Tenderloin Steak",
-  "teppanyaki": "تبنياكي",
-  "تبنياكي": "teppanyaki",
-  "tess": "تيس",
-  "تيس": "Tess",
-  "tharid": "ثريد",
-  "ثريد": "Tharid",
-  "zaatar": "زعتر",
-  "زعتر": "Zaatar",
-  "oregano": "اوريجانو",
-  "اوريجانو": "Oregano",
-  "toasted bread": "خبز محمص",
-  "french toast": "توست فرنسي",
-  "توست فرنسي": "French Toast",
-  "toblerone": "توبليرون",
-  "توبليرون": "Toblerone",
-  "toffee": "توفي",
-  "توفي": "Toffee",
-  "tohal": "طحال",
-  "طحال": "Tohal",
-  "tomato daqoos": "دقوس بندورة",
-  "دقوس بندورة": "Tomato daqoos",
-  "tomato pieces": "قطع بندورة",
-  "قطع بندورة": "Tomato Pieces",
-  "tomato soup": "شوربة بندورة",
-  "شوربة بندورة": "Tomato Soup",
-  "tomatoes": "بندورة",
-  "بندورة": "Tomatoes",
-  "tongue": "لسان",
-  "لسان": "Tongue",
-  "toromba": "طرمبة",
-  "طرمبة": "Toromba",
-  "torte": "تورتة",
-  "تورتة": "Torte",
-  "tortilla bread": "خبز تورتيلا",
-  "خبز تورتيلا": "Tortilla Bread",
-  "toshka": "توشكا",
-  "توشكا": "Toshka",
-  "triangle cheese": "جبنة مثلثات",
-  "جبنة مثلثات": "Triangle Cheese",
-  "twix": "تويكس",
-  "تويكس": "Twix",
-  "umm ali": "أم علي",
-  "أم علي": "Umm Ali",
-  "vanilla": "فانيلا",
-  "فانيلا": "Vanilla",
-  "veal": "لحم عجل",
-  "لحم عجل": "Veal",
-  "veal cubes": "كباب حلة",
-  "كباب حلة": "Hilla kebab",
-  "vegetable soup": "شوربة خضروات",
-  "شوربة خضروات": "Vegetable Soup",
-  "vermicelli rice": "أرز بالشعيرية",
-  "أرز بالشعيرية": "Vermicelli Rice",
-  "vinaigrette sauce": "صوص فينجريت",
-  "صوص فينجريت": "vinaigrette sauce",
-  "vine leaves": "ورق عنب",
-  "vinegar": "خل",
-  "خل": "Vinegar",
-  "watermelon": "بطيخ",
-  "بطيخ": "Watermelon",
-  "white bread": "خبز أبيض",
-  "خبز أبيض": "White Bread",
-  "with peel": "بالقشر",
-  "بالقشر": "with Peel",
-  "wonton": "وانتون",
-  "وانتون": "Wonton",
-  "yoghurt": "لبن",
-  "zaalouk": "زعلوك",
-  "زعلوك": "Zaalouk",
-  "thabihah": "ذبيحة",
-  "ذبيحة": "Thabihah",
-  "zhourat shamiyeh": "زهورات شامية",
-  "زهورات شامية": "Zhourat Shamiyeh",
-  "znoud el sit": "زنود الست",
-  "زنود الست": "Znoud El Sit",
-  "zucchini": "كوسة",
-  "كوسة": "Zucchini",
-  "zurbian": "زربيان",
-  "زربيان": "Zurbian",
-  "mojito": "موهيتو",
-  "موهيتو": "Mojito",
-  "chili": "شطة",
-  "شطة": "Chili",
-  "spicy sauce": "صوص حار",
-  "bread crumbs": "فتات الخبز",
-  "فتات الخبز": "Bread Crumbs",
-  "beans": "فاصوليا",
-  "فاصوليا": "Beans",
-  "sugar syrup": "قطر",
-  "قطر": "Sugar Syrup",
-  "kale": "الكيل",
-  "الكيل": "Kale",
-  "fruit salad": "سلطة فواكه",
-  "سلطة فواكه": "Fruit Salad",
-  "syrup": "سيروب",
-  "سيروب": "Syrup",
-  "pies": "فطائر",
-  "فطائر": "Pies",
-  "donut": "دونات",
-  "دونات": "Donut",
-  "whole chicken": "دجاجة كامله",
-  "دجاجة كامله": "Whole Chicken",
-  "sweet melon": "شمام",
-  "maon": "ماعون",
-  "ماعون": "Maon",
-  "maboj": "معبوج",
-  "معبوج": "Maboj",
-  "sirloin": "ظهر",
-  "ظهر": "Sirloin",
-  "lahmet ras": "لحمة رأس",
-  "لحمة رأس": "Lahmet Ras",
-  "cherry tomatoes": "بندورة كرزية",
-  "بندورة كرزية": "Cherry Tomatoes",
-  "seared": "مشوح",
-  "مشوح": "Seared",
-  "chipotle sauce": "صوص شيبوتل‎",
-  "صوص شيبوتل‎": "Chipotle Sauce",
-  "thousand island sauce": "صوص ثاوزند آيلاند",
-  "صوص ثاوزند آيلاند": "Thousand Island Sauce",
-  "mojarmasheh": "مجرمشة",
-  "مجرمشة": "Mojarmasheh",
-  "molasses": "دبس السكر",
-  "دبس السكر": "Molasses",
-  "mold": "قالب",
-  "قالب": "Mold",
-  "molokhia": "ملوخية",
-  "ملوخية": "Molokhia",
-  "molten cake": "مولتن كيك",
-  "مولتن كيك": "molten cake",
-  "mombar": "ممبار",
-  "ممبار": "Mombar",
-  "moqalqal": "مقلقل",
-  "مقلقل": "Moqalqal",
-  "mortadella": "مرتديلا‎",
-  "مرتديلا‎": "Mortadella",
-  "mosaic": "موازييك",
-  "موازييك": "Mosaic",
-  "moulaak": "معلاق",
-  "معلاق": "Moulaak",
-  "mountain dew": "ماونتن ديو",
-  "ماونتن ديو": "Mountain Dew",
-  "mozzarella cheese": "جبنة موزاريلا",
-  "جبنة موزاريلا": "Mozzarella Cheese",
-  "mozzarella sticks": "أصابع الموزاريلا",
-  "أصابع الموزاريلا": "Mozzarella Sticks",
-  "msemen": "مسمن",
-  "مسمن": "Msemen",
-  "mshabak": "مشبك",
-  "مشبك": "Mshabak",
-  "mshahamyah": "مشحمية",
-  "مشحمية": "Mshahamyah",
-  "msharmel": "مشرمل",
-  "مشرمل": "Msharmel",
-  "mubakhar": "مبخر",
-  "مبخر": "Mubakhar",
-  "muffin": "مافن",
-  "مافن": "Muffin",
-  "muhammara": "محمرة",
-  "محمرة": "Muhammara",
-  "mulberry": "توت شامي",
-  "توت شامي": "Mulberry",
-  "musakhan": "مسخن",
-  "مسخن": "Musakhan",
-  "mushroom": "فطر",
-  "فطر": "Mushroom",
-  "mutabbaq": "مطبق",
-  "مطبق": "Mutabbaq",
-  "mutafaih": "مطفاية",
-  "مطفاية": "Mutafaih",
-  "mutabbal salad": "سلطة متبل",
-  "سلطة متبل": "Mutabbal Salad",
-  "lamb meat": "لحم ضأن",
-  "لحم ضأن": "Lamb Meat",
-  "nachos": "ناتشوز",
-  "ناتشوز": "Nachos",
-  "naemi": "نعيمي",
-  "نعيمي": "Naemi",
-  "nawashif": "نواشف",
-  "نواشف": "Nawashif",
-  "neapolitan": "نابوليتانا",
-  "نابوليتانا": "Neapolitan",
-  "neck": "رقبة",
-  "رقبة": "Neck",
-  "nefa": "نيفة",
-  "نيفة": "Nefa",
-  "mocha frappuccino": "فرابتشينو موكا",
-  "فرابتشينو موكا": "Mocha Frappuccino",
-  "mocktails": "موكتيل",
-  "موكتيل": "Mocktails",
-  "popcorn bucket": "سطل فشار",
-  "سطل فشار": "Popcorn Bucket",
-  "homor": "حمر",
-  "حمر": "Homor",
-  "v60": "في 60",
-  "في 60": "V60",
-  "bread crumb": "بقسماط",
-  "بقسماط": "Rusk",
-  "loose tea": "شاي فرط",
-  "شاي فرط": "Loose Tea",
-  "sahawiq": "سحاوق",
-  "سحاوق": "Sahawiq",
-  "saleeg": "سليق",
-  "سليق": "Saleeg",
-  "waffle stick": "وافل ستيك",
-  "وافل ستيك": "Waffle Stick",
-  "code red": "كود ريد",
-  "كود ريد": "Code Red",
-  "triple": "تريبل",
-  "تريبل": "Triple",
-  "kibbeh in a tray": "كبة بالصينية",
-  "كبة بالصينية": "Kibbeh in a Tray",
-  "baked potatoes": "بطاطا بالفرن",
-  "بطاطا بالفرن": "Baked Potatoes",
-  "roast potatoes": "بطاطا محمرة",
-  "بطاطا محمرة": "Roast Potatoes",
-  "cheese sticks": "أصابع الجبنة",
-  "أصابع الجبنة": "Cheese Sticks",
-  "chicken bites": "قطع الدجاج",
-  "قطع الدجاج": "Chicken Bites",
-  "gathering offer": "عرض الجمعات",
-  "عرض الجمعات": "Gathering Offer",
-  "bread basket": "سلة مخبوزات",
-  "سلة مخبوزات": "Bread Basket",
-  "bacon": "اللحم البقري المقدد",
-  "اللحم البقري المقدد": "Bacon",
-  "sorbet": "سوربيه",
-  "سوربيه": "Sorbet",
-  "blue fish": "سمك مياس",
-  "سمك مياس": "Blue Fish",
-  "calamari": "كاليماري",
-  "كاليماري": "Calamari",
-  "capers": "كابري",
-  "كابري": "Capers",
-  "caviar": "كافيار",
-  "كافيار": "Caviar",
-  "clams": "جندوفلى",
-  "جندوفلى": "Clams",
-  "crab": "كراب",
-  "كراب": "Crab",
-  "croaker fish": "سمك اللوت",
-  "سمك اللوت": "Croaker Fish",
-  "eel": "أنقليس",
-  "أنقليس": "Eel",
-  "emperor fish": "سمك شعور",
-  "سمك شعور": "Emperor Fish",
-  "fish fillet": "سمك فيليه",
-  "سمك فيليه": "Fish Fillet",
-  "gilthead bream fish": "سمك دينيس",
-  "سمك دينيس": "Gilthead Bream Fish",
-  "grey mullet fish": "سمك بورى",
-  "سمك بورى": "Grey Mullet Fish",
-  "grouper fish": "سمك وقار",
-  "سمك وقار": "Grouper Fish",
-  "hammour": "هامور",
-  "هامور": "Hammour",
-  "herring": "رنجة",
-  "رنجة": "Herring",
-  "keeled mullet fish": "سمك سهلية",
-  "سمك سهلية": "Keeled Mullet Fish",
-  "kingfish": "كنعد",
-  "كنعد": "Kingfish",
-  "lobster": "إستاكوزا",
-  "إستاكوزا": "Lobster",
-  "lucioperca fish": "سمك قشر بياض",
-  "سمك قشر بياض": "Lucioperca Fish",
-  "macaroni fish": "سمك مكرونة",
-  "سمك مكرونة": "Macaroni Fish",
-  "mackerel": "ماكريل",
-  "ماكريل": "Mackerel",
-  "mullet": "سمك بوري",
-  "سمك بوري": "Mullet",
-  "mussels": "بلح البحر",
-  "بلح البحر": "Mussels",
-  "prawns": "روبيان",
-  "روبيان": "Shrimp",
-  "red mullet fish": "سمك بربونى",
-  "سمك بربونى": "Red Mullet Fish",
-  "roe": "بطارخ",
-  "بطارخ": "Roe",
-  "salmon": "سلمون",
-  "سلمون": "Salmon",
-  "sayadiyah": "صيادية",
-  "صيادية": "Sayadiyah",
-  "scallop": "سكالوب",
-  "سكالوب": "Scallop",
-  "chicken scallop": "سكالوب الدجاج",
-  "سكالوب الدجاج": "Chicken Scallop",
-  "sea bass fish": "سمك قاروص",
-  "سمك قاروص": "Sea Bass Fish",
-  "sea bream fish": "سمك مرجان",
-  "سمك مرجان": "Sea Bream Fish",
-  "sole fish": "سمك موسى",
-  "سمك موسى": "Sole Fish",
-  "squid": "حبار",
-  "حبار": "Squid",
-  "tilapia fish": "سمك بلطي",
-  "سمك بلطي": "Tilapia Fish",
-  "tuna": "تونة",
-  "تونة": "Tuna",
-  "zubaidi fish": "سمك زبيدي",
-  "سمك زبيدي": "Zubaidi Fish",
-  "mochaccino": "موكاتشينو",
-  "موكاتشينو": "Mochaccino",
-  "shabora": "شابورة",
-  "شابورة": "Shabora",
-  "luxurious nuts": "مكسرات فاخرة",
-  "مكسرات فاخرة": "Luxurious Nuts",
-  "twinings tea": "شاي تويننجز",
-  "شاي تويننجز": "Twinings Tea",
-  "khadeer tea": "شاي خدير",
-  "شاي خدير": "Khadeer Tea",
-  "rabea tea": "شاي الربيع",
-  "شاي الربيع": "Rabea Tea",
-  "al ghazaleen tea": "شاي الغزالين",
-  "شاي الغزالين": "Al Ghazaleen Tea",
-  "al munayes tea": "شاي المنيس",
-  "شاي المنيس": "Al Munayes Tea",
-  "chinguetti tea": "شاي شنقيطي",
-  "شاي شنقيطي": "Chinguetti Tea",
-  "oolong tea": "شاي أولونج",
-  "شاي أولونج": "Oolong Tea",
-  "uzbek tea": "شاي أوزبكي",
-  "شاي أوزبكي": "Uzbek Tea",
-  "azerbaijan tea": "شاي أذربيجاني",
-  "شاي أذربيجاني": "Azerbaijan Tea",
-  "hadrami honey": "عسل حضرمي",
-  "عسل حضرمي": "Hadrami Honey",
-  "punjabi honey": "عسل بنجابي",
-  "عسل بنجابي": "Punjabi Honey",
-  "chicken tikka": "دجاج تكا",
-  "دجاج تكا": "Chicken Tikka",
-  "korma chicken": "قورمة دجاج",
-  "قورمة دجاج": "Korma Chicken",
-  "korma fish tikka sizzling": "قورمة سمك تكا سيزلنج",
-  "قورمة سمك تكا سيزلنج": "Korma Fish Tikka Sizzling",
-  "meat in a clay jar": "جرة فخار باللحم",
-  "جرة فخار باللحم": "Meat in a clay jar",
-  "haydari": "حيدري",
-  "حيدري": "Haydari",
-  "alinazik": "علي نازك",
-  "علي نازك": "Alinazik",
-  "korba oglu": "كوربا أوغلو",
-  "كوربا أوغلو": "Korba Oglu",
-  "azama": "آزمة",
-  "آزمة": "Azama",
-  "ezogelin soup": "شوربة ايزوقلين",
-  "شوربة ايزوقلين": "Ezogelin Soup",
-  "urfa kebab": "أورفة كباب",
-  "أورفة كباب": "Urfa Kebab",
-  "beyti kebab": "بيتي كباب",
-  "بيتي كباب": "Beyti Kebab",
-  "tepsi kebab": "تبسي كباب",
-  "تبسي كباب": "Tepsi Kebab",
-  "chopin salad": "سلطة شوبان",
-  "سلطة شوبان": "Chopin Salad",
-  "qaradaghi salad": "سلطة قورداغي",
-  "سلطة قورداغي": "Qaradaghi Salad",
-  "macadamia": "ماكاديميا",
-  "ماكاديميا": "Macadamia",
-  "doneness": "مستوى النضج او الاستواء",
-  "مستوى النضج او الاستواء": "Doneness",
-  "mashkool": "مشخول",
-  "مشخول": "Mashkool",
-  "kanad mashkool": "مشخول كنعد",
-  "مشخول كنعد": "Kanad Mashkool",
-  "taco": "تاكو",
-  "تاكو": "Taco",
-  "chestnut": "كستناء",
-  "كستناء": "Chestnut",
-  "gluten": "غلوتين",
-  "غلوتين": "Gluten",
-  "sloppy joe": "سلوبي جو",
-  "سلوبي جو": "Sloppy Joe",
-  "maple sriracha": "ميبل سريراتشا",
-  "ميبل سريراتشا": "Maple Sriracha",
-  "aseed": "عصيد",
-  "عصيد": "Aseed",
-  "poppy": "خشخاش",
-  "mashrouh": "مشروح",
-  "مشروح": "Mashrouh",
-  "sourdough bread": "خبز سوردو",
-  "خبز سوردو": "Sourdough Bread",
-  "brioche bread": "خبز بريوش",
-  "خبز بريوش": "Brioche Bread",
-  "بوتو": "puttu",
-  "pollichathu": "البولي جاتو",
-  "البولي جاتو": "Pollichathu",
-  "nirachathu": "النيراجاتو",
-  "النيراجاتو": "Nirachathu",
-  "papaya": "بابايا",
-  "بابايا": "Papaya",
-  "ground mutton fine": "لحم ضأن مفروم  ناعم",
-  "لحم ضأن مفروم  ناعم": "Ground Mutton Fine",
-  "ground mutton coarse": "لحم ضأن مفروم خشن",
-  "لحم ضأن مفروم خشن": "Ground Mutton Coarse",
-  "chikoo": "شيكو",
-  "شيكو": "Chikoo",
-  "lamb harri": "لحم ضأن حري",
-  "لحم ضأن حري": "Lamb Harri",
-  "addahi": "أضاحي",
-  "أضاحي": "Addahi",
-  "lamb swakni": "لحم ضأن سواكني",
-  "لحم ضأن سواكني": "Lamb Swakni",
-  "poultry": "دواجن",
-  "دواجن": "Poultry",
-  "millet cake": "كيك الدخن",
-  "كيك الدخن": "Millet Cake",
-  "ice shaken": "مخفوقة بالثلج",
-  "مخفوقة بالثلج": "Ice Shaken",
-  "pecan": "بيكان",
-  "بيكان": "Pecan",
-  "pumpkin": "يقطين",
-  "يقطين": "Pumpkin",
-  "pesto": "بيستو",
-  "بيستو": "Pesto",
-  "babka": "عجينة البابكا",
-  "عجينة البابكا": "Babka",
-  "romesco sauce": "صوص الروميسكو",
-  "صوص الروميسكو": "Romesco sauce",
-  "tapenade sauce": "صوص تابنايد",
-  "صوص تابنايد": "Tapenade sauce",
-  "custard pudding": "حلوى الكاسترد",
-  "حلوى الكاسترد": "Custard Pudding",
-  "rice pudding": "أرز بالحليب",
-  "أرز بالحليب": "Rice pudding",
-  "laghawees": "لغاويص",
-  "لغاويص": "Laghawees",
-  "ovomaltine": "اوفومالتين",
-  "اوفومالتين": "Ovomaltine",
-  "koshna": "كشنة",
-  "كشنة": "Koshna",
-  "abazeer": "أبازير",
-  "أبازير": "Abazeer",
-  "haidwan": "حيدوان",
-  "حيدوان": "Haidwan",
-  "fadkha": "فضخة",
-  "فضخة": "Fadkha",
-  "haleel": "حاليل",
-  "حاليل": "Haleel",
-  "dokhon": "دخن",
-  "دخن": "Dokhon",
-  "mogasgs": "مقصقص",
-  "مقصقص": "Mogasgs",
-  "bakhomri": "باخمري",
-  "باخمري": "Bakhomri",
-  "khameer qers": "قرص خمير",
-  "قرص خمير": "Khameer Qers",
-  "mokhammar qers": "قرص مخمر",
-  "قرص مخمر": "Mokhammar Qers",
-  "kaak qers": "قرص كعك",
-  "قرص كعك": "Kaak Qers",
-  "mafhous qers": "قرص مفحوس",
-  "قرص مفحوس": "Mafhous Qers",
-  "juggernaut": "جقر نت",
-  "جقر نت": "Juggernaut",
-  "spanish latte": "سبانيش لاتيه",
-  "سبانيش لاتيه": "Spanish Latte",
-  "pistachio latte": "بستاشيو لاتيه",
-  "بستاشيو لاتيه": "Pistachio Latte",
-  "mahmous": "محموص",
-  "محموص": "Mahmous",
-  "khash khash cake": "كيكة الخشخش",
-  "كيكة الخشخش": "Khash Khash Cake",
-  "yanar shabi burger": "يانار شبي برجر",
-  "يانار شبي برجر": "Yanar Shabi Burger",
-  "upside down cheesecake": "اب سايد داون تشيز كيك",
-  "اب سايد داون تشيز كيك": "upside down cheesecake",
-  "brown dough": "عجين اسمر",
-  "عجين اسمر": "Brown Dough",
-  "whole wheat bread": "خبز الحبوب الكاملة",
-  "خبز الحبوب الكاملة": "Whole Wheat Bread",
-  "cinnamon rolls": "لفائف القرفة",
-  "لفائف القرفة": "Cinnamon Rolls",
-  "stuffed cabbage": "محشي الملفوف",
-  "محشي الملفوف": "Stuffed Cabbage",
-  "spatch cocked chicken": "دجاج سباتش مطبوخ",
-  "دجاج سباتش مطبوخ": "Spatch cocked Chicken",
-  "sauerkraut": "مخلل الملفوف",
-  "مخلل الملفوف": "Sauerkraut",
-  "pot": "قدر",
-  "قدر": "Pot",
-  "garden salad": "سلطة خضراء",
-  "زلابية": "Jalebi",
-  "dynamite": "ديناميت",
-  "ديناميت": "Dynamite",
-  "buttermilk cake": "كيكة الزبدة",
-  "كيكة الزبدة": "Buttermilk cake",
-  "glazed": "جليزد",
-  "جليزد": "Glazed",
-  "twist": "تويست",
-  "تويست": "Twist",
-  "gulab jamun": "جولاب جامون",
-  "جولاب جامون": "Gulab Jamun",
-  "brown toast": "توست اسمر",
-  "توست اسمر": "Brown Toast",
-  "pretzel": "برتزل",
-  "برتزل": "Pretzel",
-  "chicken popcorn": "بوب كورن الدجاج",
-  "بوب كورن الدجاج": "Chicken Popcorn",
-  "kleicha": "كليجا",
-  "كليجا": "Kleicha",
-  "soybean": "فول الصويا",
-  "فول الصويا": "Soybean",
-  "oyster": "محار",
-  "محار": "Oyster",
-  "tomato paste": "معجون البندورة",
-  "معجون البندورة": "Tomato Paste",
-  "special sauce": "صوص خاص",
-  "صوص خاص": "Special Sauce",
-  "gram": "جرام",
-  "جرام": "Gram",
-  "kilogram": "كيلو جرام",
-  "كيلو جرام": "Kilogram",
-  "package": "بكج",
-  "بكج": "Package",
-  "puff pastry": "بف باستري",
-  "بف باستري": "Puff Pastry",
-  "mantou": "منتو",
-  "منتو": "Mantou",
-  "yaghmash": "يغمش",
-  "يغمش": "Yaghmash",
-  "cold brew coffee": "قهوة كولد برو",
-  "قهوة كولد برو": "Cold Brew Coffee",
-  "fatteh shamiyeh": "فتة شامية",
-  "فتة شامية": "Fatteh Shamiyeh",
-  "foul with bedouin": "فول بدوي",
-  "فول بدوي": "Foul With Bedouin",
-  "peas": "بازلاء",
-  "بازلاء": "Peas",
-  "hilla kebab": "كباب حلة",
-  "tarshi": "طرشي",
-  "طرشي": "Tarshi",
-  "suntop": "عصير سن توب",
-  "fresh water": "مياه صحية",
-  "مياه صحية": "Fresh water",
-  "combo": "وجبة",
-  "وجبة": "Combo",
-  "caesar": "سيزر",
-  "سيزر": "Caesar",
-  "turkey": "لحم ديك رومي",
-  "لحم ديك رومي": "Turkey",
-  "peels": "قشور",
-  "قشور": "peels",
-  "assorted": "متنوع",
-  "متنوع": "Assorted",
-  "chamomile": "البابونج",
-  "البابونج": "Chamomile",
-  "biscuit": "بسكويت",
-  "بسكويت": "Biscuit",
-  "pearls": "اللؤلؤ",
-  "اللؤلؤ": "pearls",
-  "american coffee": "قهوة امريكية",
-  "قهوة امريكية": "American Coffee",
-  "regular": "عادي",
-  "عادي": "Regular",
-  "rusk": "بقسماط",
-  "cheese burek": "برك جبنة",
-  "برك جبنة": "Cheese Burek",
-  "kharbuz": "خربز",
-  "خربز": "Kharbuz",
-  "sesame": "سمسم",
-  "سمسم": "sesame",
-  "breaded fish": "سمك بالبقسماط",
-  "سمك بالبقسماط": "Breaded fish",
-  "maqliah": "مقلية",
-  "مقلية": "Maqliah",
-  "kanka": "قهوة كنكة",
-  "قهوة كنكة": "Kanka",
-  "paprika": "بابريكا",
-  "بابريكا": "Paprika",
-  "waffle pop": "وافل بوب",
-  "وافل بوب": "Waffle Pop",
-  "kraft cheese": "جبنة كرافت",
-  "جبنة كرافت": "Kraft Cheese",
-  "corn flakes": "كورن فليكس",
-  "كورن فليكس": "Corn Flakes",
-  "bashka shawarma": "شاورما باشكا",
-  "شاورما باشكا": "Bashka Shawarma",
-  "kinder pieces": "قطع كيندر",
-  "قطع كيندر": "Kinder Pieces",
-  "flake": "فليك",
-  "فليك": "Flake",
-  "mousse": "موس",
-  "موس": "Mousse",
-  "tart": "تارت",
-  "تارت": "Tart",
-  "hot chocolate": "هوت شوكليت",
-  "هوت شوكليت": "Hot Chocolate",
-  "strips": "شرائح",
-  "nectarine": "نكتارين",
-  "نكتارين": "Nectarine",
-  "orange abu sorra": "برتقال أبو صرة",
-  "برتقال أبو صرة": "Orange Abu Sorra",
-  "thermos": "ثيرموس",
-  "ثيرموس": "Thermos",
-  "mixed fried platter": "اطباق مقلية مشكلة",
-  "اطباق مقلية مشكلة": "Mixed Fried Platter",
-  "salted sunflower seeds": "حب دوار الشمس مالح",
-  "حب دوار الشمس مالح": "Salted Sunflower Seeds",
-  "walnut": "جوز",
-  "جوز": "Walnut",
-  "othmalya pistachio": "عثملية بالفستق",
-  "عثملية بالفستق": "Othmalya Pistachio",
-  "aysh alsaraya": "عيش السرايا",
-  "عيش السرايا": "Aysh Alsaraya",
-  "swiss roll": "سويس رول",
-  "سويس رول": "Swiss Roll",
-  "cortado": "كورتادو",
-  "كورتادو": "Cortado",
-  "local meat": "لحم بلدي",
-  "لحم بلدي": "Local Meat",
-  "quinoa": "كينوا",
-  "كينوا": "Quinoa",
-  "ranch": "رانش",
-  "رانش": "Ranch",
-  "madghout": "مضغوط",
-  "مضغوط": "Madghout",
-  "angus beef": "لحم انجوس",
-  "لحم انجوس": "Angus Beef",
-  "tiramisu": "تيراميسو",
-  "تيراميسو": "Tiramisu",
-  "moussy": "موسي",
-  "موسي": "Moussy",
-  "perrier water": "مياه بيرير",
-  "مياه بيرير": "Perrier Water",
-  "alfredo": "الفريدو",
-  "الفريدو": "Alfredo",
-  "gnocchi": "النوكي",
-  "النوكي": "Gnocchi",
-  "pear": "كمثري",
-  "كمثري": "pear",
-  "onion rings": "حلقات البصل",
-  "حلقات البصل": "Onion Rings",
-  "daal makhani": "دال مخاني",
-  "دال مخاني": "Daal makhani",
-  "brie": "جبنة بيضاء طرية",
-  "جبنة بيضاء طرية": "Brie",
-  "meat broth": "مرق اللحم",
-  "مرق اللحم": "Meat broth",
-  "holsten": "هولستن",
-  "هولستن": "Holsten",
-  "saudi champagne": "سعودي شامبين",
-  "سعودي شامبين": "Saudi Champagne",
-  "qalayet tomato": "قلاية بندورة",
-  "قلاية بندورة": "Qalayet Tomato",
-  "berry": "توت",
-  "توت": "Berry",
-  "watercress": "بقلة",
-  "بقلة": "Watercress",
-  "peasant salad": "سلطة الفلاحين",
-  "سلطة الفلاحين": "Peasant Salad",
-  "plate": "طبق",
-  "طبق": "Plate",
-  "paneer cheese": "جبنة بانير",
-  "جبنة بانير": "Paneer Cheese",
-  "cheeseburger": "تشيز برجر",
-  "تشيز برجر": "Cheeseburger",
-  "wagyu beef": "لحم بقري واغيو",
-  "لحم بقري واغيو": "Wagyu Beef",
-  "raw": "نيئ",
-  "نيئ": "Raw",
-  "iceberg": "آيسبرج",
-  "آيسبرج": "Iceberg",
-  "chicken tender": "دجاج تندر",
-  "دجاج تندر": "Chicken Tender",
-  "kaka": "كاكا",
-  "كاكا": "Kaka",
-  "karbook": "كاربوك",
-  "كاربوك": "Karbook",
-  "semolina": "سميد",
-  "سميد": "Semolina",
-  "chard": "سِلق",
-  "سِلق": "chard",
-  "chia seeds": "بذور الشيا",
-  "بذور الشيا": "chia seeds",
-  "chlorella": "كلوريلا",
-  "كلوريلا": "chlorella",
-  "moringa": "المورينغا",
-  "المورينغا": "moringa",
-  "vegan": "نباتي",
-  "نباتي": "Vegan",
-  "flax seed": "بذور الكتان",
-  "بذور الكتان": "flax seed",
-  "wheatgrass": "عشبة القمح",
-  "عشبة القمح": "wheatgrass",
-  "agave": "صبار",
-  "صبار": "agave",
-  "alkaline water": "مياه قلوية",
-  "مياه قلوية": "Alkaline water",
-  "flat white": "فلات وايت",
-  "فلات وايت": "Flat White",
-  "granola": "جرانولا",
-  "جرانولا": "Granola",
-  "taghmesa": "تغميسة",
-  "تغميسة": "Taghmesa",
-  "chicken on charcoal": "دجاج على الفحم",
-  "دجاج على الفحم": "Chicken on Charcoal"
-}
+  "data": [
+    {
+      "English": "7 Up",
+      "Arabic": "سفن آب"
+    },
+    {
+      "English": "english cake",
+      "Arabic": "كيك انجليزي"
+    },
+    {
+      "English": "a la grecque",
+      "Arabic": "ألا جريك"
+    },
+    {
+      "English": "wrap",
+      "Arabic": "راب"
+    },
+    {
+      "English": "bagel",
+      "Arabic": "بايغل"
+    },
+    {
+      "English": "trifle",
+      "Arabic": "ترايفل"
+    },
+    {
+      "English": "a la kiev",
+      "Arabic": "الاكيف"
+    },
+    {
+      "English": "truffle",
+      "Arabic": "الكمأ"
+    },
+    {
+      "English": "squash",
+      "Arabic": "قرع"
+    },
+    {
+      "English": "shrimp",
+      "Arabic": "روبيان"
+    },
+    {
+      "English": "adana",
+      "Arabic": "أضنه"
+    },
+    {
+      "English": "jumbo",
+      "Arabic": "جامبو"
+    },
+    {
+      "English": "adeni tea",
+      "Arabic": "شاي عدني"
+    },
+    {
+      "English": "bresaola",
+      "Arabic": "برزاولا"
+    },
+    {
+      "English": "osh el bolbol",
+      "Arabic": "عش البلبل"
+    },
+    {
+      "English": "medallion",
+      "Arabic": "ميداليون"
+    },
+    {
+      "English": "akkawi cheese",
+      "Arabic": "جبنة عكاوي"
+    },
+    {
+      "English": "herraa esbao",
+      "Arabic": "حراق اصبعو"
+    },
+    {
+      "English": "almonds",
+      "Arabic": "لوز"
+    },
+    {
+      "English": "pottery",
+      "Arabic": "فخارة"
+    },
+    {
+      "English": "ambergris",
+      "Arabic": "عنبر"
+    },
+    {
+      "English": "mustard",
+      "Arabic": "ماسترد"
+    },
+    {
+      "English": "anchovies",
+      "Arabic": "أنشوجة"
+    },
+    {
+      "English": "americano",
+      "Arabic": "امريكانو"
+    },
+    {
+      "English": "apple cider",
+      "Arabic": "عصير تفاح ساخن"
+    },
+    {
+      "English": "iftar",
+      "Arabic": "إفطار"
+    },
+    {
+      "English": "apricot",
+      "Arabic": "مشمش"
+    },
+    {
+      "English": "suhoor",
+      "Arabic": "سحور"
+    },
+    {
+      "English": "araisy",
+      "Arabic": "عرايسي"
+    },
+    {
+      "English": "cotton candy",
+      "Arabic": "كوتن كاندي"
+    },
+    {
+      "English": "arayes",
+      "Arabic": "عرايس"
+    },
+    {
+      "English": "southen platyfish",
+      "Arabic": "سمك قمر"
+    },
+    {
+      "English": "arika",
+      "Arabic": "عريكة"
+    },
+    {
+      "English": "green salad",
+      "Arabic": "سلطة خضراء"
+    },
+    {
+      "English": "arrabbiata",
+      "Arabic": "أرابياتا"
+    },
+    {
+      "English": "aioli sauce",
+      "Arabic": "صوص الايولي"
+    },
+    {
+      "English": "artichokes",
+      "Arabic": "خرشوف"
+    },
+    {
+      "English": "drip coffee",
+      "Arabic": "قهوة مقطرة"
+    },
+    {
+      "English": "asfahani",
+      "Arabic": "أصفهاني"
+    },
+    {
+      "English": "laban",
+      "Arabic": "لبن"
+    },
+    {
+      "English": "asida",
+      "Arabic": "عصيدة"
+    },
+    {
+      "English": "belgian chocolate",
+      "Arabic": "شوكولاتة بلجيكية"
+    },
+    {
+      "English": "asparagus",
+      "Arabic": "هليون"
+    },
+    {
+      "English": "maple",
+      "Arabic": "ميبل"
+    },
+    {
+      "English": "avocado",
+      "Arabic": "أفوكادو"
+    },
+    {
+      "English": "salty",
+      "Arabic": "مالح"
+    },
+    {
+      "English": "awar qalb",
+      "Arabic": "عوار القلب"
+    },
+    {
+      "English": "chocolate jar",
+      "Arabic": "جار شوكولاتة"
+    },
+    {
+      "English": "awsal",
+      "Arabic": "أوصال"
+    },
+    {
+      "English": "green onions",
+      "Arabic": "بصل أخضر"
+    },
+    {
+      "English": "ayran",
+      "Arabic": "عيران"
+    },
+    {
+      "English": "special",
+      "Arabic": "سبيشال - خاص"
+    },
+    {
+      "English": "baba ghannouj",
+      "Arabic": "بابا غنوج"
+    },
+    {
+      "English": "brisket",
+      "Arabic": "برسكيت"
+    },
+    {
+      "English": "baguette bread",
+      "Arabic": "خبز باجيت"
+    },
+    {
+      "English": "signature",
+      "Arabic": "سيجنتشر"
+    },
+    {
+      "English": "baklava",
+      "Arabic": "بقلاوة"
+    },
+    {
+      "English": "passion fruit",
+      "Arabic": "باشن فروت"
+    },
+    {
+      "English": "baladi",
+      "Arabic": "بلدي"
+    },
+    {
+      "English": "eclair",
+      "Arabic": "اكلير"
+    },
+    {
+      "English": "balah el sham",
+      "Arabic": "بلح الشام"
+    },
+    {
+      "English": "cookies",
+      "Arabic": "كوكيز"
+    },
+    {
+      "English": "balaleet",
+      "Arabic": "بلاليط"
+    },
+    {
+      "English": "pasta",
+      "Arabic": "مكرونة / باستا"
+    },
+    {
+      "English": "balila",
+      "Arabic": "بليلة"
+    },
+    {
+      "English": "cocktail",
+      "Arabic": "كوكتيل"
+    },
+    {
+      "English": "balsamic sauce",
+      "Arabic": "صوص البلسميك"
+    },
+    {
+      "English": "crinkle fries",
+      "Arabic": "بطاطا كرينكل"
+    },
+    {
+      "English": "banana split",
+      "Arabic": "بنانا سبليت"
+    },
+    {
+      "English": "condensed milk",
+      "Arabic": "حليب مكثف"
+    },
+    {
+      "English": "barazek",
+      "Arabic": "برازق"
+    },
+    {
+      "English": "banoffee pie",
+      "Arabic": "فطيرة بانوفي"
+    },
+    {
+      "English": "bbq sauce",
+      "Arabic": "صوص باربكيو"
+    },
+    {
+      "English": "san sebastian",
+      "Arabic": "سان سيباستيان"
+    },
+    {
+      "English": "basbousa",
+      "Arabic": "بسبوسة"
+    },
+    {
+      "English": "nescafe",
+      "Arabic": "نسكافيه"
+    },
+    {
+      "English": "bashawer",
+      "Arabic": "بشاور"
+    },
+    {
+      "English": "makanek",
+      "Arabic": "مقانق"
+    },
+    {
+      "English": "basil",
+      "Arabic": "ريحان"
+    },
+    {
+      "English": "burrito",
+      "Arabic": "بوريتو"
+    },
+    {
+      "English": "basmati rice",
+      "Arabic": "أرز بسمتي"
+    },
+    {
+      "English": "bastilla",
+      "Arabic": "بسطيلة"
+    },
+    {
+      "English": "spicy potato",
+      "Arabic": "بطاطا حارة"
+    },
+    {
+      "English": "bbq",
+      "Arabic": "باربكيو"
+    },
+    {
+      "English": "monterey jack",
+      "Arabic": "مونتري جاك"
+    },
+    {
+      "English": "bbq chicken",
+      "Arabic": "دجاج باربكيو"
+    },
+    {
+      "English": "raffaello",
+      "Arabic": "رافايلو"
+    },
+    {
+      "English": "bechamel",
+      "Arabic": "بشاميل"
+    },
+    {
+      "English": "san pellegrino",
+      "Arabic": "سان بيليغرينو"
+    },
+    {
+      "English": "beef",
+      "Arabic": "لحم بقري"
+    },
+    {
+      "English": "sparkling water",
+      "Arabic": "مياه غازية"
+    },
+    {
+      "English": "beef bacon",
+      "Arabic": "لحم بقري مقدد"
+    },
+    {
+      "English": "mac and cheese",
+      "Arabic": "ماك اند تشيز"
+    },
+    {
+      "English": "beef fillet",
+      "Arabic": "لحم فيليه"
+    },
+    {
+      "English": "fondue",
+      "Arabic": "فوندو"
+    },
+    {
+      "English": "beef tenderloin",
+      "Arabic": "بيف تندرلوين"
+    },
+    {
+      "English": "balloria",
+      "Arabic": "بلورية"
+    },
+    {
+      "English": "beefsteak",
+      "Arabic": "ستيك لحم بقري"
+    },
+    {
+      "English": "french tuile",
+      "Arabic": "تويل فرنسي"
+    },
+    {
+      "English": "beetroot",
+      "Arabic": "شمندر"
+    },
+    {
+      "English": "g juice",
+      "Arabic": "عصير جي"
+    },
+    {
+      "English": "beiruti",
+      "Arabic": "بيروتي"
+    },
+    {
+      "English": "pressed juice",
+      "Arabic": "عصير كبس"
+    },
+    {
+      "English": "bell pepper",
+      "Arabic": "فلفل رومي"
+    },
+    {
+      "English": "teriyaki",
+      "Arabic": "ترياكي"
+    },
+    {
+      "English": "beverages",
+      "Arabic": "مشروبات"
+    },
+    {
+      "English": "cerelac",
+      "Arabic": "سيريلاك"
+    },
+    {
+      "English": "bint al sahn",
+      "Arabic": "بنت الصحن"
+    },
+    {
+      "English": "سفن آب فري",
+      "Arabic": "سفن آب فري"
+    },
+    {
+      "English": "birell",
+      "Arabic": "بيريل"
+    },
+    {
+      "English": "mixed berries",
+      "Arabic": "توت مشكل"
+    },
+    {
+      "English": "black pepper",
+      "Arabic": "فلفل أسود"
+    },
+    {
+      "English": "powder",
+      "Arabic": "بودرة"
+    },
+    {
+      "English": "black sesame",
+      "Arabic": "حبة البركة"
+    },
+    {
+      "English": "siniora",
+      "Arabic": "سنيورة"
+    },
+    {
+      "English": "blackberry",
+      "Arabic": "توت أسود"
+    },
+    {
+      "English": "blue cheese",
+      "Arabic": "بلو تشيز"
+    },
+    {
+      "English": "black eyed bean",
+      "Arabic": "لوبيا"
+    },
+    {
+      "English": "chocolate chips",
+      "Arabic": "رقائق الشوكولاتة"
+    },
+    {
+      "English": "blended juice",
+      "Arabic": "عصير خلاط"
+    },
+    {
+      "English": "acai",
+      "Arabic": "اساي"
+    },
+    {
+      "English": "blue curacao",
+      "Arabic": "بلو كوراساو"
+    },
+    {
+      "English": "baking powder",
+      "Arabic": "بيكنج باودر"
+    },
+    {
+      "English": "blueberry",
+      "Arabic": "توت أزرق"
+    },
+    {
+      "English": "rocky road",
+      "Arabic": "روكي رود"
+    },
+    {
+      "English": "boghasha",
+      "Arabic": "بغاشة"
+    },
+    {
+      "English": "panna cotta",
+      "Arabic": "بانا كوتا"
+    },
+    {
+      "English": "boiled",
+      "Arabic": "مسلوق"
+    },
+    {
+      "English": "jameed",
+      "Arabic": "جميد"
+    },
+    {
+      "English": "bolognese sauce",
+      "Arabic": "صوص بولونيز"
+    },
+    {
+      "English": "mini",
+      "Arabic": "ميني"
+    },
+    {
+      "English": "boneless",
+      "Arabic": "مسحب"
+    },
+    {
+      "English": "small",
+      "Arabic": "صغير"
+    },
+    {
+      "English": "boneless chicken",
+      "Arabic": "دجاج مسحب"
+    },
+    {
+      "English": "medium",
+      "Arabic": "متوسط"
+    },
+    {
+      "English": "borek",
+      "Arabic": "بوريك"
+    },
+    {
+      "English": "large",
+      "Arabic": "كبير"
+    },
+    {
+      "English": "borm",
+      "Arabic": "برم"
+    },
+    {
+      "English": "x large",
+      "Arabic": "كبير جداً"
+    },
+    {
+      "English": "bottle",
+      "Arabic": "زجاجة"
+    },
+    {
+      "English": "xx large",
+      "Arabic": "كبير جداًً جداً"
+    },
+    {
+      "English": "bounty",
+      "Arabic": "باونتي"
+    },
+    {
+      "English": "family size",
+      "Arabic": "حجم عائلي"
+    },
+    {
+      "English": "bowl",
+      "Arabic": "وعاء"
+    },
+    {
+      "English": "naan",
+      "Arabic": "نان"
+    },
+    {
+      "English": "bran",
+      "Arabic": "نخالة"
+    },
+    {
+      "English": "organic",
+      "Arabic": "عضوي"
+    },
+    {
+      "English": "broasted chicken",
+      "Arabic": "دجاج بروستد"
+    },
+    {
+      "English": "shrak bread",
+      "Arabic": "خبز شراك"
+    },
+    {
+      "English": "broccoli",
+      "Arabic": "بروكلي"
+    },
+    {
+      "English": "cheetos",
+      "Arabic": "شيتوس"
+    },
+    {
+      "English": "broth",
+      "Arabic": "مرق"
+    },
+    {
+      "English": "beef patty",
+      "Arabic": "شريحة لحم بقري"
+    },
+    {
+      "English": "brown bread",
+      "Arabic": "خبز أسمر"
+    },
+    {
+      "English": "breakfast",
+      "Arabic": "الفطور"
+    },
+    {
+      "English": "brownies",
+      "Arabic": "براونيز"
+    },
+    {
+      "English": "schezwan",
+      "Arabic": "شيزوان"
+    },
+    {
+      "English": "buckwheat",
+      "Arabic": "قمح"
+    },
+    {
+      "English": "dim sum",
+      "Arabic": "ديم سوم"
+    },
+    {
+      "English": "buffalo sauce",
+      "Arabic": "صوص بافلو"
+    },
+    {
+      "English": "barley",
+      "Arabic": "شعير"
+    },
+    {
+      "English": "bukhari",
+      "Arabic": "بخاري"
+    },
+    {
+      "English": "choose your doneness",
+      "Arabic": "اختر درجة الاستواء"
+    },
+    {
+      "English": "bulgur",
+      "Arabic": "برغل"
+    },
+    {
+      "English": "rare",
+      "Arabic": "غير ناضج"
+    },
+    {
+      "English": "bun bread",
+      "Arabic": "خبز البرجر"
+    },
+    {
+      "English": "medium rare",
+      "Arabic": "أقل من المتوسط"
+    },
+    {
+      "English": "burger",
+      "Arabic": "برجر"
+    },
+    {
+      "English": "burrata cheese",
+      "Arabic": "جبنة بوراتا"
+    },
+    {
+      "English": "medium well",
+      "Arabic": "فوق المتوسط"
+    },
+    {
+      "English": "butter",
+      "Arabic": "زبدة"
+    },
+    {
+      "English": "well done",
+      "Arabic": "مطهو جيدا"
+    },
+    {
+      "English": "butternut",
+      "Arabic": "قرع عسل"
+    },
+    {
+      "English": "chickpeas",
+      "Arabic": "حمص"
+    },
+    {
+      "English": "cabbage",
+      "Arabic": "ملفوف"
+    },
+    {
+      "English": "dough",
+      "Arabic": "عجينة"
+    },
+    {
+      "English": "caesar sauce",
+      "Arabic": "صوص سيزر"
+    },
+    {
+      "English": "taamia",
+      "Arabic": "طعمية"
+    },
+    {
+      "English": "calzone",
+      "Arabic": "كالزوني"
+    },
+    {
+      "English": "charcoal grilled",
+      "Arabic": "مشوي على الفحم"
+    },
+    {
+      "English": "cannelloni",
+      "Arabic": "كانيلوني"
+    },
+    {
+      "English": "ground meat",
+      "Arabic": "لحم مفروم"
+    },
+    {
+      "English": "cantaloupe",
+      "Arabic": "كنتالوب"
+    },
+    {
+      "English": "sambousek",
+      "Arabic": "سمبوسك"
+    },
+    {
+      "English": "cappuccino",
+      "Arabic": "كابتشينو"
+    },
+    {
+      "English": "grape leaves",
+      "Arabic": "ورق عنب"
+    },
+    {
+      "English": "caramel",
+      "Arabic": "كراميل"
+    },
+    {
+      "English": "soft kunafa",
+      "Arabic": "كنافة ناعمة"
+    },
+    {
+      "English": "caramelized onion",
+      "Arabic": "بصل مكرمل"
+    },
+    {
+      "English": "caramelized",
+      "Arabic": "مكرمل"
+    },
+    {
+      "English": "carbonara",
+      "Arabic": "كاربونارا"
+    },
+    {
+      "English": "smashed",
+      "Arabic": "سماشد"
+    },
+    {
+      "English": "cardamom",
+      "Arabic": "هيل"
+    },
+    {
+      "English": "water jug",
+      "Arabic": "قارورة مياه"
+    },
+    {
+      "English": "carob",
+      "Arabic": "خروب"
+    },
+    {
+      "English": "box",
+      "Arabic": "بوكس"
+    },
+    {
+      "English": "carrots",
+      "Arabic": "جزر"
+    },
+    {
+      "English": "banana",
+      "Arabic": "موز"
+    },
+    {
+      "English": "cashew",
+      "Arabic": "كاجو"
+    },
+    {
+      "English": "crushed",
+      "Arabic": "مطحون"
+    },
+    {
+      "English": "tajine",
+      "Arabic": "طاجن"
+    },
+    {
+      "English": "spread",
+      "Arabic": "دهن"
+    },
+    {
+      "English": "cauliflower",
+      "Arabic": "زهرة"
+    },
+    {
+      "English": "flakes",
+      "Arabic": "رقائق"
+    },
+    {
+      "English": "celery",
+      "Arabic": "كرفس"
+    },
+    {
+      "English": "pide",
+      "Arabic": "البيدا"
+    },
+    {
+      "English": "chai latte",
+      "Arabic": "شاى لاتيه"
+    },
+    {
+      "English": "truffles sweets",
+      "Arabic": "حلوى الترافلز"
+    },
+    {
+      "English": "chapati",
+      "Arabic": "تشباتي"
+    },
+    {
+      "English": "cauliflower rice",
+      "Arabic": "أرز القرنبيط"
+    },
+    {
+      "English": "baqdonsia",
+      "Arabic": "بقدونسية"
+    },
+    {
+      "English": "cheddar cheese",
+      "Arabic": "جبنة شيدر"
+    },
+    {
+      "English": "curry",
+      "Arabic": "كاري"
+    },
+    {
+      "English": "cheese balls",
+      "Arabic": "كرات الجبن"
+    },
+    {
+      "English": "biryani",
+      "Arabic": "برياني"
+    },
+    {
+      "English": "cheesecake",
+      "Arabic": "تشيز كيك"
+    },
+    {
+      "English": "korma",
+      "Arabic": "كورما"
+    },
+    {
+      "English": "cherry",
+      "Arabic": "كرز"
+    },
+    {
+      "English": "lamb saag",
+      "Arabic": "لحم الضأن بالسبانخ"
+    },
+    {
+      "English": "chicken biryani",
+      "Arabic": "برياني دجاج"
+    },
+    {
+      "English": "rogan josh",
+      "Arabic": "روغان جوش"
+    },
+    {
+      "English": "chicken breasts",
+      "Arabic": "صدور دجاج"
+    },
+    {
+      "English": "butter chicken",
+      "Arabic": "دجاج بالزبدة"
+    },
+    {
+      "English": "chicken cubes",
+      "Arabic": "مكعبات دجاج"
+    },
+    {
+      "English": "chicken tikka masala",
+      "Arabic": "دجاج تكا ماسالا"
+    },
+    {
+      "English": "chicken dumpling",
+      "Arabic": "دجاج دامبلينغ"
+    },
+    {
+      "English": "mughlai chicken",
+      "Arabic": "دجاج مغولي"
+    },
+    {
+      "English": "chicken fajita",
+      "Arabic": "فاهيتا دجاج"
+    },
+    {
+      "English": "chole bhature",
+      "Arabic": "تشولي باتور"
+    },
+    {
+      "English": "chicken fillet",
+      "Arabic": "دجاج فيليه"
+    },
+    {
+      "English": "dal makhani",
+      "Arabic": "دال ماخاني"
+    },
+    {
+      "English": "chicken katyoucha",
+      "Arabic": "دجاج كتيوشا"
+    },
+    {
+      "English": "keema matar",
+      "Arabic": "كيما مطر"
+    },
+    {
+      "English": "chicken loaf",
+      "Arabic": "خبز الدجاج"
+    },
+    {
+      "English": "keema aloo",
+      "Arabic": "كيما ألو"
+    },
+    {
+      "English": "chicken mandi",
+      "Arabic": "دجاج مندي"
+    },
+    {
+      "English": "aloo methi",
+      "Arabic": "ألو ميثي"
+    },
+    {
+      "English": "chicken pane",
+      "Arabic": "دجاج بانيه"
+    },
+    {
+      "English": "aloo kulcha",
+      "Arabic": "ألو كولتشا"
+    },
+    {
+      "English": "chicken shawarma",
+      "Arabic": "شاورما دجاج"
+    },
+    {
+      "English": "aloo gobi",
+      "Arabic": "ألو جوبي"
+    },
+    {
+      "English": "chicken thighs",
+      "Arabic": "أفخاذ دجاج"
+    },
+    {
+      "English": "aloo shimla mirch",
+      "Arabic": "ألو شيملا ميرتش"
+    },
+    {
+      "English": "chicken zinger",
+      "Arabic": "دجاج زنجر"
+    },
+    {
+      "English": "aloo matar",
+      "Arabic": "ألو مطر"
+    },
+    {
+      "English": "chicken fingers",
+      "Arabic": "أصابع الدجاج"
+    },
+    {
+      "English": "aloo tikki",
+      "Arabic": "ألو تيكي"
+    },
+    {
+      "English": "aloo tuk",
+      "Arabic": "ألو توك"
+    },
+    {
+      "English": "chips",
+      "Arabic": "شيبس"
+    },
+    {
+      "English": "imarti with rabdi",
+      "Arabic": "امارتي مع رابدي"
+    },
+    {
+      "English": "chocolate",
+      "Arabic": "شوكولاتة"
+    },
+    {
+      "English": "palak paneer",
+      "Arabic": "بالاك بانير"
+    },
+    {
+      "English": "ciabatta bread",
+      "Arabic": "خبز شيباتا"
+    },
+    {
+      "English": "malai kofta",
+      "Arabic": "مالاي كفتة"
+    },
+    {
+      "English": "cinnamon",
+      "Arabic": "قرفة"
+    },
+    {
+      "English": "lamp raan",
+      "Arabic": "لحم ضأن ران"
+    },
+    {
+      "English": "citrus",
+      "Arabic": "حمضيات"
+    },
+    {
+      "English": "tandoori chicken",
+      "Arabic": "دجاج تندوري"
+    },
+    {
+      "English": "cloves",
+      "Arabic": "قرنفل"
+    },
+    {
+      "English": "chicken jalfrezi",
+      "Arabic": "دجاج جلفريزي"
+    },
+    {
+      "English": "cocoa puffs",
+      "Arabic": "حبوب الشوكولاتة"
+    },
+    {
+      "English": "kati rolls",
+      "Arabic": "كاتي رولز"
+    },
+    {
+      "English": "coconut",
+      "Arabic": "جوز الهند"
+    },
+    {
+      "English": "macher jhol",
+      "Arabic": "ماتشير جول"
+    },
+    {
+      "English": "coffee",
+      "Arabic": "قهوة"
+    },
+    {
+      "English": "jadoh",
+      "Arabic": "جادوه"
+    },
+    {
+      "English": "coleslaw salad",
+      "Arabic": "سلطة كول سلو"
+    },
+    {
+      "English": "momos",
+      "Arabic": "موموس"
+    },
+    {
+      "English": "cordon bleu",
+      "Arabic": "كوردون بلو"
+    },
+    {
+      "English": "thukpa",
+      "Arabic": "ثوكبا"
+    },
+    {
+      "English": "coriander",
+      "Arabic": "كزبرة"
+    },
+    {
+      "English": "undhiyu",
+      "Arabic": "أندهيو"
+    },
+    {
+      "English": "corn",
+      "Arabic": "ذرة"
+    },
+    {
+      "English": "batata nu shaak",
+      "Arabic": "بطاطا نو شاك"
+    },
+    {
+      "English": "cajun",
+      "Arabic": "كاجون"
+    },
+    {
+      "English": "laal maas",
+      "Arabic": "لال ماس"
+    },
+    {
+      "English": "corned beef",
+      "Arabic": "بلوبيف"
+    },
+    {
+      "English": "dal baati churma",
+      "Arabic": "دال باتي تشورما"
+    },
+    {
+      "English": "cornet",
+      "Arabic": "كورنيه"
+    },
+    {
+      "English": "dhansak",
+      "Arabic": "دهنساك"
+    },
+    {
+      "English": "couscous",
+      "Arabic": "كسكسي"
+    },
+    {
+      "English": "pav bhaji",
+      "Arabic": "باف بهاجي"
+    },
+    {
+      "English": "crackers",
+      "Arabic": "كراكرز"
+    },
+    {
+      "English": "vindaloo",
+      "Arabic": "فيندالو"
+    },
+    {
+      "English": "cream",
+      "Arabic": "كريمة - قشطة"
+    },
+    {
+      "English": "bisi bele bath",
+      "Arabic": "بيسي بيلي باث"
+    },
+    {
+      "English": "creme caramel",
+      "Arabic": "كريم كراميل"
+    },
+    {
+      "English": "rasam",
+      "Arabic": "راسام"
+    },
+    {
+      "English": "cream chicken soup",
+      "Arabic": "شوربة دجاج بالكريمة"
+    },
+    {
+      "English": "avial",
+      "Arabic": "افيال"
+    },
+    {
+      "English": "cream mushroom soup",
+      "Arabic": "شوربة فطر بالكريمة"
+    },
+    {
+      "English": "chickpea tikka masala",
+      "Arabic": "تكا ماسالا الحمص"
+    },
+    {
+      "English": "creamy",
+      "Arabic": "كريمي"
+    },
+    {
+      "English": "chicken bhuna",
+      "Arabic": "دجاج بونا"
+    },
+    {
+      "English": "crepe",
+      "Arabic": "كريب"
+    },
+    {
+      "English": "indian chicken curry",
+      "Arabic": "كاري الدجاج الهندي"
+    },
+    {
+      "English": "crispy",
+      "Arabic": "مقرمش"
+    },
+    {
+      "English": "murgh curry",
+      "Arabic": "مورغ كاري"
+    },
+    {
+      "English": "crispy chicken",
+      "Arabic": "دجاج مقرمش"
+    },
+    {
+      "English": "chicken makhani",
+      "Arabic": "دجاج ماخاني"
+    },
+    {
+      "English": "croissant",
+      "Arabic": "كرواسون"
+    },
+    {
+      "English": "authentic saag paneer",
+      "Arabic": "بانير أصيل بالسبانخ"
+    },
+    {
+      "English": "croquette potatoes",
+      "Arabic": "بطاطا كروكيت"
+    },
+    {
+      "English": "red lentil curry",
+      "Arabic": "كاري عدس احمر"
+    },
+    {
+      "English": "croutons",
+      "Arabic": "خبز محمص"
+    },
+    {
+      "English": "chana masala",
+      "Arabic": "تشانا ماسالا"
+    },
+    {
+      "English": "crunchy",
+      "Arabic": "كرانشي"
+    },
+    {
+      "English": "vegan sweet potato chickpea curry",
+      "Arabic": "كاري البطاطا الحلوة والحمص النباتي"
+    },
+    {
+      "English": "vegetarian korma",
+      "Arabic": "كورما نباتية"
+    },
+    {
+      "English": "cucumber",
+      "Arabic": "خيار"
+    },
+    {
+      "English": "indian shrimp curry",
+      "Arabic": "كاري الروبيان الهندي"
+    },
+    {
+      "English": "curry chicken",
+      "Arabic": "دجاج بالكاري"
+    },
+    {
+      "English": "chicken saag",
+      "Arabic": "دجاج بالسبانخ"
+    },
+    {
+      "English": "sauce",
+      "Arabic": "صوص"
+    },
+    {
+      "English": "punjabi chicken in thick gravy",
+      "Arabic": "دجاج بنجابي بصوص الجريفي السميك"
+    },
+    {
+      "English": "curry sauce",
+      "Arabic": "صوص الكاري"
+    },
+    {
+      "English": "gujarati kadhi",
+      "Arabic": "كادهي غوجاراتي"
+    },
+    {
+      "English": "custard",
+      "Arabic": "كاسترد"
+    },
+    {
+      "English": "bengali chicken",
+      "Arabic": "دجاج بنغالي"
+    },
+    {
+      "English": "dallah",
+      "Arabic": "دلة"
+    },
+    {
+      "English": "murgh makhani",
+      "Arabic": "مورغ ماخاني"
+    },
+    {
+      "English": "daqoos",
+      "Arabic": "دقوس"
+    },
+    {
+      "English": "دجاج 65",
+      "Arabic": "دجاج 65"
+    },
+    {
+      "English": "dawoud basha",
+      "Arabic": "داوود باشا"
+    },
+    {
+      "English": "moong dal",
+      "Arabic": "مونغ دال"
+    },
+    {
+      "English": "diet pepsi",
+      "Arabic": "بيبسي دايت"
+    },
+    {
+      "English": "beef vindaloo",
+      "Arabic": "فيندالو لحم بقري"
+    },
+    {
+      "English": "dill",
+      "Arabic": "شبت"
+    },
+    {
+      "English": "راجما \"كاري الفاصوليا الحمراء\"",
+      "Arabic": "راجما \"كاري الفاصوليا الحمراء\""
+    },
+    {
+      "English": "dip",
+      "Arabic": "غموس"
+    },
+    {
+      "English": "coconut curry fish",
+      "Arabic": "سمك كاري بجوز الهند"
+    },
+    {
+      "English": "dipping sauce",
+      "Arabic": "صوص غموس"
+    },
+    {
+      "English": "kedgeree",
+      "Arabic": "كيدجري"
+    },
+    {
+      "English": "dolma",
+      "Arabic": "دولمة"
+    },
+    {
+      "English": "chicken cauliflower korma",
+      "Arabic": "كورما الدجاج والقرنبيط"
+    },
+    {
+      "English": "doqqa",
+      "Arabic": "دقة"
+    },
+    {
+      "English": "كاري الكورن والحمص",
+      "Arabic": "كاري الكورن والحمص"
+    },
+    {
+      "English": "dosa",
+      "Arabic": "دوسا"
+    },
+    {
+      "English": "golden butter rice",
+      "Arabic": "أرز بالزبدة الذهبية"
+    },
+    {
+      "English": "double",
+      "Arabic": "دبل"
+    },
+    {
+      "English": "raita",
+      "Arabic": "رايتا"
+    },
+    {
+      "English": "doum",
+      "Arabic": "دوم"
+    },
+    {
+      "English": "chole saag",
+      "Arabic": "تشولي بالسبانخ"
+    },
+    {
+      "English": "dozen",
+      "Arabic": "درزن"
+    },
+    {
+      "English": "sarson ka saag",
+      "Arabic": "سارسون كا بالسبانخ"
+    },
+    {
+      "English": "dressing",
+      "Arabic": "صلصة تتبيلة"
+    },
+    {
+      "English": "baingan ka bharta",
+      "Arabic": "باينغان كا بهارتا"
+    },
+    {
+      "English": "drumsticks chicken",
+      "Arabic": "دبابيس دجاج"
+    },
+    {
+      "English": "بلاو كينوا حار مع السبانخ",
+      "Arabic": "بلاو كينوا حار مع السبانخ"
+    },
+    {
+      "English": "drumsticks",
+      "Arabic": "دبابيس"
+    },
+    {
+      "English": "kobi batata bhaji",
+      "Arabic": "كوبي بطاطا بهاجي"
+    },
+    {
+      "English": "duck",
+      "Arabic": "بط"
+    },
+    {
+      "English": "tampa coconut cilantro rice",
+      "Arabic": "أرز تامبا جوز الهند والكزبرة"
+    },
+    {
+      "English": "dumpling",
+      "Arabic": "دامبلينغ"
+    },
+    {
+      "English": "turnip with coconut",
+      "Arabic": "لفت مع جوز الهند"
+    },
+    {
+      "English": "edam",
+      "Arabic": "إيدام"
+    },
+    {
+      "English": "dal chakolya",
+      "Arabic": "دال تشاكويلا"
+    },
+    {
+      "English": "edam cheese",
+      "Arabic": "جبنة فلمنك"
+    },
+    {
+      "English": "زهرة نيتياز",
+      "Arabic": "زهرة نيتياز"
+    },
+    {
+      "English": "eggah",
+      "Arabic": "عجة"
+    },
+    {
+      "English": "tomato bhath",
+      "Arabic": "بهاث الطماطم"
+    },
+    {
+      "English": "eggplant",
+      "Arabic": "باذنجان"
+    },
+    {
+      "English": "palak rassa",
+      "Arabic": "بالاك راسا"
+    },
+    {
+      "English": "eggs",
+      "Arabic": "بيض"
+    },
+    {
+      "English": "air fried samosas",
+      "Arabic": "سمبوسة بالمقلاة الهوائية"
+    },
+    {
+      "English": "emmental cheese",
+      "Arabic": "جبنة إيمنتال"
+    },
+    {
+      "English": "indian spiced onions",
+      "Arabic": "بصل بالتوابل الهندية"
+    },
+    {
+      "English": "ennab",
+      "Arabic": "عناب"
+    },
+    {
+      "English": "daal",
+      "Arabic": "دال"
+    },
+    {
+      "English": "entrecote",
+      "Arabic": "إنتركوت"
+    },
+    {
+      "English": "escalope pane",
+      "Arabic": "إسكالوب بانيه"
+    },
+    {
+      "English": "saag paneer",
+      "Arabic": "بانير بالسبانخ"
+    },
+    {
+      "English": "espresso",
+      "Arabic": "إسبريسو"
+    },
+    {
+      "English": "bhel puri",
+      "Arabic": "بيل بوري"
+    },
+    {
+      "English": "extra",
+      "Arabic": "اضافة"
+    },
+    {
+      "English": "baati",
+      "Arabic": "باتي"
+    },
+    {
+      "English": "ezme salad",
+      "Arabic": "أزمى سلطة"
+    },
+    {
+      "English": "bhatura",
+      "Arabic": "بهاتورا"
+    },
+    {
+      "English": "fahsa",
+      "Arabic": "فحسة"
+    },
+    {
+      "English": "bhindi masala",
+      "Arabic": "بهندي ماسالا"
+    },
+    {
+      "English": "fakhfakhina",
+      "Arabic": "فخفخينا"
+    },
+    {
+      "English": "chaat",
+      "Arabic": "تشات"
+    },
+    {
+      "English": "falafel",
+      "Arabic": "فلافل"
+    },
+    {
+      "English": "falafel patties",
+      "Arabic": "أقراص فلافل"
+    },
+    {
+      "English": "chicken razala",
+      "Arabic": "دجاج رازالا"
+    },
+    {
+      "English": "farfalle pasta",
+      "Arabic": "مكرونة فارفيلي"
+    },
+    {
+      "English": "farrouj",
+      "Arabic": "فروج"
+    },
+    {
+      "English": "daal puri",
+      "Arabic": "دال بوري"
+    },
+    {
+      "English": "fatteh",
+      "Arabic": "فتة"
+    },
+    {
+      "English": "dal fara",
+      "Arabic": "دال فارا"
+    },
+    {
+      "English": "fattoush",
+      "Arabic": "فتوش"
+    },
+    {
+      "English": "dum aloo",
+      "Arabic": "دوم ألو"
+    },
+    {
+      "English": "fava foul",
+      "Arabic": "فول مدمس"
+    },
+    {
+      "English": "poha",
+      "Arabic": "بوها"
+    },
+    {
+      "English": "fenugreek",
+      "Arabic": "حلبة"
+    },
+    {
+      "English": "fara",
+      "Arabic": "فارا"
+    },
+    {
+      "English": "ferrero rocher",
+      "Arabic": "فيريرو روشيه"
+    },
+    {
+      "English": "phirni",
+      "Arabic": "فيرني"
+    },
+    {
+      "English": "fesha",
+      "Arabic": "فشة"
+    },
+    {
+      "English": "aloo phalliyaan",
+      "Arabic": "ألو فاليان"
+    },
+    {
+      "English": "fesikh",
+      "Arabic": "فسيخ"
+    },
+    {
+      "English": "gajar pak",
+      "Arabic": "غاجار باك"
+    },
+    {
+      "English": "feteer meshaltet",
+      "Arabic": "فطير مشلتت"
+    },
+    {
+      "English": "gajar matar aloo",
+      "Arabic": "غاجار مطر ألو"
+    },
+    {
+      "English": "fettuccine pasta",
+      "Arabic": "مكرونة فيتوتشيني"
+    },
+    {
+      "English": "gobi matar",
+      "Arabic": "غوبي مطر"
+    },
+    {
+      "English": "fig",
+      "Arabic": "تين"
+    },
+    {
+      "English": "imarti",
+      "Arabic": "امارتي"
+    },
+    {
+      "English": "filetto",
+      "Arabic": "فليتو"
+    },
+    {
+      "English": "jalebi",
+      "Arabic": "زلابية"
+    },
+    {
+      "English": "kachori",
+      "Arabic": "كاتشوري"
+    },
+    {
+      "English": "fine leek sticks",
+      "Arabic": "أصابع بصل اخضر"
+    },
+    {
+      "English": "kadai paneer",
+      "Arabic": "كاداي بانير"
+    },
+    {
+      "English": "flaxseed oil",
+      "Arabic": "زيت حار"
+    },
+    {
+      "English": "kadhi pakora",
+      "Arabic": "كادي باكورا"
+    },
+    {
+      "English": "flutes chocolate",
+      "Arabic": "شوكولاتة فلوتس"
+    },
+    {
+      "English": "karela bharta",
+      "Arabic": "كاريلا بهارتا"
+    },
+    {
+      "English": "focaccia bread",
+      "Arabic": "خبز فوكاشيا"
+    },
+    {
+      "English": "katha meetha petha",
+      "Arabic": "كاثا ميثا بيثا"
+    },
+    {
+      "English": "foul",
+      "Arabic": "فول"
+    },
+    {
+      "English": "kheer",
+      "Arabic": "خير"
+    },
+    {
+      "English": "freekeh",
+      "Arabic": "فريكة"
+    },
+    {
+      "English": "khichdi",
+      "Arabic": "خيشدي"
+    },
+    {
+      "English": "french bread",
+      "Arabic": "خبز فرنسي"
+    },
+    {
+      "English": "kadhi and khichdi",
+      "Arabic": "كادي و خيشدي"
+    },
+    {
+      "English": "french fries",
+      "Arabic": "بطاطا مقلية"
+    },
+    {
+      "English": "kulfi falooda",
+      "Arabic": "كلفي فالودا"
+    },
+    {
+      "English": "fried",
+      "Arabic": "مقلي"
+    },
+    {
+      "English": "laapsi",
+      "Arabic": "لابسي"
+    },
+    {
+      "English": "fried eggs",
+      "Arabic": "بيض مقلي"
+    },
+    {
+      "English": "lauki ke kofte",
+      "Arabic": "لاوكي كي كفتة"
+    },
+    {
+      "English": "friskes fries",
+      "Arabic": "بطاطا فريسكس"
+    },
+    {
+      "English": "lauki ki bhaji",
+      "Arabic": "لاوكي كي بهاجي"
+    },
+    {
+      "English": "fritter",
+      "Arabic": "فطير مقلي"
+    },
+    {
+      "English": "litti chokha",
+      "Arabic": "ليتي تشوكا"
+    },
+    {
+      "English": "frosty icing",
+      "Arabic": "آيسنج"
+    },
+    {
+      "English": "makhane ki kheer",
+      "Arabic": "ماخان كي خير"
+    },
+    {
+      "English": "frozen yogurt",
+      "Arabic": "زبادي مثلج"
+    },
+    {
+      "English": "makki ki roti",
+      "Arabic": "ماكي كي روتي"
+    },
+    {
+      "English": "fruits",
+      "Arabic": "فواكه"
+    },
+    {
+      "English": "mathura ke pede",
+      "Arabic": "ماثورا كي بيدي"
+    },
+    {
+      "English": "frutti di mare",
+      "Arabic": "فروتي دي ماري"
+    },
+    {
+      "English": "methi saag",
+      "Arabic": "ميثي سبانخ"
+    },
+    {
+      "English": "fudge",
+      "Arabic": "فادج"
+    },
+    {
+      "English": "chaulai saag",
+      "Arabic": "سبانخ تشاولاي"
+    },
+    {
+      "English": "fusilli pasta",
+      "Arabic": "مكرونة فوسيلي"
+    },
+    {
+      "English": "millet lapsi",
+      "Arabic": "ميليت لابسي"
+    },
+    {
+      "English": "galaxy",
+      "Arabic": "جالكسي"
+    },
+    {
+      "English": "missi roti",
+      "Arabic": "ميسي روتي"
+    },
+    {
+      "English": "gallon",
+      "Arabic": "جالون"
+    },
+    {
+      "English": "moong daal ki lapsi",
+      "Arabic": "مونغ دال كي لابسي"
+    },
+    {
+      "English": "gamaat",
+      "Arabic": "جمعات"
+    },
+    {
+      "English": "murgh musallam",
+      "Arabic": "مورغ موسالام"
+    },
+    {
+      "English": "garlic",
+      "Arabic": "ثوم"
+    },
+    {
+      "English": "mushroom do pyaza",
+      "Arabic": "فطر دو بيازا"
+    },
+    {
+      "English": "garlic dip",
+      "Arabic": "ثومية"
+    },
+    {
+      "English": "mushroom matar",
+      "Arabic": "فطر مطر"
+    },
+    {
+      "English": "ghee",
+      "Arabic": "سمن"
+    },
+    {
+      "English": "navrattan korma",
+      "Arabic": "نافارتان كورما"
+    },
+    {
+      "English": "ghorayeba",
+      "Arabic": "غريبة"
+    },
+    {
+      "English": "pakhala",
+      "Arabic": "باخالا"
+    },
+    {
+      "English": "giblets",
+      "Arabic": "قوانص"
+    },
+    {
+      "English": "paneer butter masala",
+      "Arabic": "زبدة بانير ماسالا"
+    },
+    {
+      "English": "ginger",
+      "Arabic": "زنجبيل"
+    },
+    {
+      "English": "pani puri",
+      "Arabic": "باني بوري"
+    },
+    {
+      "English": "gouda cheese",
+      "Arabic": "جبنة جودة"
+    },
+    {
+      "English": "panjeeri",
+      "Arabic": "بانجيري"
+    },
+    {
+      "English": "gravy",
+      "Arabic": "صوص الجريفي"
+    },
+    {
+      "English": "papad",
+      "Arabic": "باباد"
+    },
+    {
+      "English": "paratha",
+      "Arabic": "براتا"
+    },
+    {
+      "English": "greish",
+      "Arabic": "جريش"
+    },
+    {
+      "English": "pattor",
+      "Arabic": "باتور"
+    },
+    {
+      "English": "grilled",
+      "Arabic": "مشوي"
+    },
+    {
+      "English": "pinni",
+      "Arabic": "بيني"
+    },
+    {
+      "English": "ground cherry",
+      "Arabic": "حرنكش"
+    },
+    {
+      "English": "rajma chawal",
+      "Arabic": "راجما تشاوال"
+    },
+    {
+      "English": "guacamole",
+      "Arabic": "جواكامولي"
+    },
+    {
+      "English": "rajma",
+      "Arabic": "راجما"
+    },
+    {
+      "English": "guava",
+      "Arabic": "جوافة"
+    },
+    {
+      "English": "ramatori bhaji",
+      "Arabic": "راماتوري بهاجي"
+    },
+    {
+      "English": "sweet",
+      "Arabic": "حلا"
+    },
+    {
+      "English": "halawa",
+      "Arabic": "حلاوة"
+    },
+    {
+      "English": "samosa",
+      "Arabic": "سمبوسة"
+    },
+    {
+      "English": "halawet el jibn",
+      "Arabic": "حلاوة الجبن"
+    },
+    {
+      "English": "samose",
+      "Arabic": "ساموس"
+    },
+    {
+      "English": "halloumi",
+      "Arabic": "حلوم"
+    },
+    {
+      "English": "sattu ki roti",
+      "Arabic": "ساتو كي روتي"
+    },
+    {
+      "English": "hamis",
+      "Arabic": "حميس"
+    },
+    {
+      "English": "تشينا/بانير راجوادي",
+      "Arabic": "تشينا/بانير راجوادي"
+    },
+    {
+      "English": "haneeth",
+      "Arabic": "حنيذ"
+    },
+    {
+      "English": "shahi tukra",
+      "Arabic": "شاهي تاكورا"
+    },
+    {
+      "English": "harees",
+      "Arabic": "هريس"
+    },
+    {
+      "English": "singhada lapsi",
+      "Arabic": "سينغهادا لابسي"
+    },
+    {
+      "English": "harira",
+      "Arabic": "حريرة"
+    },
+    {
+      "English": "حلوى سوجي (سوجي لابسي)",
+      "Arabic": "حلوى سوجي (سوجي لابسي)"
+    },
+    {
+      "English": "harisa",
+      "Arabic": "هريسة"
+    },
+    {
+      "English": "vegetable jalfrezi",
+      "Arabic": "جلفريزي الخضار"
+    },
+    {
+      "English": "hash browns",
+      "Arabic": "هاش براونز"
+    },
+    {
+      "English": "tamatar chaat",
+      "Arabic": "تشات تاماتار"
+    },
+    {
+      "English": "hashi",
+      "Arabic": "حاشي"
+    },
+    {
+      "English": "ananas menaskai",
+      "Arabic": "اناناس ميناسكاي"
+    },
+    {
+      "English": "hawaian salad",
+      "Arabic": "سلطة هاواي"
+    },
+    {
+      "English": "attu",
+      "Arabic": "اتو"
+    },
+    {
+      "English": "hawaij",
+      "Arabic": "حوايج"
+    },
+    {
+      "English": "aval kesari",
+      "Arabic": "أفال كيساري"
+    },
+    {
+      "English": "hawawshi",
+      "Arabic": "حواوشي"
+    },
+    {
+      "English": "baida roti",
+      "Arabic": "بايدا روتي"
+    },
+    {
+      "English": "hazelnut",
+      "Arabic": "بندق"
+    },
+    {
+      "English": "halwa",
+      "Arabic": "حلوى"
+    },
+    {
+      "English": "herbs",
+      "Arabic": "أعشاب"
+    },
+    {
+      "English": "bonda",
+      "Arabic": "بوندا"
+    },
+    {
+      "English": "herfy madfoun",
+      "Arabic": "هرفي مدفون"
+    },
+    {
+      "English": "chettinad chicken",
+      "Arabic": "دجاج تشيتيناد"
+    },
+    {
+      "English": "hibiscus",
+      "Arabic": "كركديه"
+    },
+    {
+      "English": "karuveppilai sadam",
+      "Arabic": "كاروفبيلاي سادام"
+    },
+    {
+      "English": "hininy",
+      "Arabic": "حنيني"
+    },
+    {
+      "English": "dibba rotti",
+      "Arabic": "ديبا روتي"
+    },
+    {
+      "English": "homemade",
+      "Arabic": "بيتي"
+    },
+    {
+      "English": "double ka meetha",
+      "Arabic": "دبل كا ميثا"
+    },
+    {
+      "English": "honey mustard",
+      "Arabic": "ماسترد بالعسل"
+    },
+    {
+      "English": "ennai kathirikai",
+      "Arabic": "ايناي كاثيريكاي"
+    },
+    {
+      "English": "hot dog",
+      "Arabic": "هوت دوغ"
+    },
+    {
+      "English": "goli baje",
+      "Arabic": "جولي باجي"
+    },
+    {
+      "English": "ice cream",
+      "Arabic": "آيس كريم"
+    },
+    {
+      "English": "hyderabadi biryani",
+      "Arabic": "برياني حيدر أباد"
+    },
+    {
+      "English": "iced tea",
+      "Arabic": "شاي مثلج"
+    },
+    {
+      "English": "idiyappam",
+      "Arabic": "اديابام"
+    },
+    {
+      "English": "iced drinks",
+      "Arabic": "المشروبات المثلجة"
+    },
+    {
+      "English": "idli",
+      "Arabic": "إدلي"
+    },
+    {
+      "English": "in shake",
+      "Arabic": "فى الخلاط"
+    },
+    {
+      "English": "kaara kuzhambu",
+      "Arabic": "كارا كوزامبو"
+    },
+    {
+      "English": "iskandar",
+      "Arabic": "إسكندر"
+    },
+    {
+      "English": "kanji",
+      "Arabic": "كانجي"
+    },
+    {
+      "English": "jalapeno",
+      "Arabic": "هالابينو"
+    },
+    {
+      "English": "keerai kootu",
+      "Arabic": "كيراي كوتو"
+    },
+    {
+      "English": "jam",
+      "Arabic": "مربى"
+    },
+    {
+      "English": "keerai masiyal",
+      "Arabic": "كيراي ماسيال"
+    },
+    {
+      "English": "jarra",
+      "Arabic": "جرة"
+    },
+    {
+      "English": "keerai poriyal",
+      "Arabic": "كيراي بوريال"
+    },
+    {
+      "English": "jerrycan",
+      "Arabic": "جركن"
+    },
+    {
+      "English": "keerai sadam",
+      "Arabic": "كيراي سادام"
+    },
+    {
+      "English": "jug",
+      "Arabic": "إبريق"
+    },
+    {
+      "English": "kerala beef fry",
+      "Arabic": "لحم بقري كيرالا مقلي"
+    },
+    {
+      "English": "kabli",
+      "Arabic": "كابلي"
+    },
+    {
+      "English": "kodubale",
+      "Arabic": "كودوبالي"
+    },
+    {
+      "English": "kabsa",
+      "Arabic": "كبسة"
+    },
+    {
+      "English": "kolhapuri akkha masoor dal",
+      "Arabic": "كولهابوري أكها ماسور دال"
+    },
+    {
+      "English": "karak",
+      "Arabic": "كرك"
+    },
+    {
+      "English": "kootu",
+      "Arabic": "كوتو"
+    },
+    {
+      "English": "kashkaval cheese",
+      "Arabic": "جبنة قشقوان"
+    },
+    {
+      "English": "kori rotti",
+      "Arabic": "كوري روتي"
+    },
+    {
+      "English": "kashkeh",
+      "Arabic": "كشكة"
+    },
+    {
+      "English": "kos kootu",
+      "Arabic": "كوس كوتو"
+    },
+    {
+      "English": "kawaj",
+      "Arabic": "كواج"
+    },
+    {
+      "English": "kosambari",
+      "Arabic": "كوسامباري"
+    },
+    {
+      "English": "kebab",
+      "Arabic": "كباب"
+    },
+    {
+      "English": "kothamalli sadam",
+      "Arabic": "كوثامالي سادام"
+    },
+    {
+      "English": "kibbeh",
+      "Arabic": "كبة"
+    },
+    {
+      "English": "kozhukattai",
+      "Arabic": "كوزوكاتاي"
+    },
+    {
+      "English": "keema",
+      "Arabic": "كيما"
+    },
+    {
+      "English": "kuzhambu",
+      "Arabic": "كوزامبو"
+    },
+    {
+      "English": "saffron",
+      "Arabic": "زعفران"
+    },
+    {
+      "English": "masala dosa",
+      "Arabic": "ماسالا دوسا"
+    },
+    {
+      "English": "keshk",
+      "Arabic": "كشك"
+    },
+    {
+      "English": "nandu omelette",
+      "Arabic": "ناندو اومليت"
+    },
+    {
+      "English": "ketchup",
+      "Arabic": "كاتشب"
+    },
+    {
+      "English": "puran poli",
+      "Arabic": "بوران بولي"
+    },
+    {
+      "English": "khalta rice",
+      "Arabic": "أرز بالخلطة"
+    },
+    {
+      "English": "olan",
+      "Arabic": "اولان"
+    },
+    {
+      "English": "khoshkhash",
+      "Arabic": "خشخاش"
+    },
+    {
+      "English": "pachadi",
+      "Arabic": "باتشادي"
+    },
+    {
+      "English": "kidneys",
+      "Arabic": "كلاوي"
+    },
+    {
+      "English": "paniyaram",
+      "Arabic": "بانيارام"
+    },
+    {
+      "English": "kinder",
+      "Arabic": "كيندر"
+    },
+    {
+      "English": "paddu",
+      "Arabic": "بادو"
+    },
+    {
+      "English": "kiri cheese",
+      "Arabic": "جبنة كيري"
+    },
+    {
+      "English": "gunta ponganalu",
+      "Arabic": "غونتا بونغانالو"
+    },
+    {
+      "English": "kit kat",
+      "Arabic": "كيت كات"
+    },
+    {
+      "English": "papadam",
+      "Arabic": "بابادام"
+    },
+    {
+      "English": "kiwi",
+      "Arabic": "كيوي"
+    },
+    {
+      "English": "paramannam",
+      "Arabic": "بارامانام"
+    },
+    {
+      "English": "knuckles",
+      "Arabic": "كوارع"
+    },
+    {
+      "English": "parotta",
+      "Arabic": "باروتا"
+    },
+    {
+      "English": "kobeba",
+      "Arabic": "كبيبة"
+    },
+    {
+      "English": "paruppu sadam",
+      "Arabic": "باروبو سادام"
+    },
+    {
+      "English": "qudsia",
+      "Arabic": "قدسية"
+    },
+    {
+      "English": "payasam",
+      "Arabic": "باياسام"
+    },
+    {
+      "English": "kofta",
+      "Arabic": "كفتة"
+    },
+    {
+      "English": "pesarattu",
+      "Arabic": "بيساراتو"
+    },
+    {
+      "English": "kol w shkor",
+      "Arabic": "كل و اشكر"
+    },
+    {
+      "English": "pongal",
+      "Arabic": "بونجال"
+    },
+    {
+      "English": "koshary",
+      "Arabic": "كشري"
+    },
+    {
+      "English": "poriyal",
+      "Arabic": "بوريال"
+    },
+    {
+      "English": "kozi",
+      "Arabic": "كوزي"
+    },
+    {
+      "English": "puli sadam",
+      "Arabic": "بولي سادام"
+    },
+    {
+      "English": "kumpir",
+      "Arabic": "كومبير"
+    },
+    {
+      "English": "puliyogare",
+      "Arabic": "بوليوجار"
+    },
+    {
+      "English": "kunafa",
+      "Arabic": "كنافة"
+    },
+    {
+      "English": "pulihora",
+      "Arabic": "بوليهورا"
+    },
+    {
+      "English": "kung pao",
+      "Arabic": "كونغ باو"
+    },
+    {
+      "English": "puttu",
+      "Arabic": "بوتو"
+    },
+    {
+      "English": "labneh",
+      "Arabic": "لبنة"
+    },
+    {
+      "English": "ragi mudde",
+      "Arabic": "راجي مود"
+    },
+    {
+      "English": "lahoh",
+      "Arabic": "لحوح"
+    },
+    {
+      "English": "sajjige",
+      "Arabic": "ساجيجي"
+    },
+    {
+      "English": "lahsa",
+      "Arabic": "لحسة"
+    },
+    {
+      "English": "sakkarai pongal",
+      "Arabic": "ساكاراي بونجال"
+    },
+    {
+      "English": "lamb shoulder",
+      "Arabic": "زند ضأن"
+    },
+    {
+      "English": "sambar",
+      "Arabic": "سامبار"
+    },
+    {
+      "English": "lasagna",
+      "Arabic": "لازانيا"
+    },
+    {
+      "English": "sandige",
+      "Arabic": "سانديج"
+    },
+    {
+      "English": "layers",
+      "Arabic": "طبقات"
+    },
+    {
+      "English": "sevai",
+      "Arabic": "سيفاي"
+    },
+    {
+      "English": "lebanese bread",
+      "Arabic": "خبز لبناني"
+    },
+    {
+      "English": "sponge dosa",
+      "Arabic": "سبونج دوسا"
+    },
+    {
+      "English": "leeks",
+      "Arabic": "كراث"
+    },
+    {
+      "English": "thattai",
+      "Arabic": "ثاتاي"
+    },
+    {
+      "English": "lemonade",
+      "Arabic": "ليموناضة"
+    },
+    {
+      "English": "thayir sadam",
+      "Arabic": "ثاير سادام"
+    },
+    {
+      "English": "lentil",
+      "Arabic": "عدس"
+    },
+    {
+      "English": "mosaranna",
+      "Arabic": "موسارانا"
+    },
+    {
+      "English": "lettuce",
+      "Arabic": "خس"
+    },
+    {
+      "English": "perugannam",
+      "Arabic": "بيروجانام"
+    },
+    {
+      "English": "liquorice",
+      "Arabic": "عرق سوس"
+    },
+    {
+      "English": "theeyal",
+      "Arabic": "ثيال"
+    },
+    {
+      "English": "liver",
+      "Arabic": "كبدة"
+    },
+    {
+      "English": "thengai sadam",
+      "Arabic": "ثينغاي سادام"
+    },
+    {
+      "English": "lokmat el kadi",
+      "Arabic": "لقمة القاضي"
+    },
+    {
+      "English": "uttapam tamil nadu",
+      "Arabic": "أوتابام تاميل نادو"
+    },
+    {
+      "English": "lollipop",
+      "Arabic": "لولي بوب"
+    },
+    {
+      "English": "vada",
+      "Arabic": "فادا"
+    },
+    {
+      "English": "lotus",
+      "Arabic": "لوتس"
+    },
+    {
+      "English": "varuval",
+      "Arabic": "فاروفال"
+    },
+    {
+      "English": "luncheon",
+      "Arabic": "لانشون"
+    },
+    {
+      "English": "wheat upma",
+      "Arabic": "قمح أبما"
+    },
+    {
+      "English": "luqaimat",
+      "Arabic": "لقيمات"
+    },
+    {
+      "English": "elumichai sadam",
+      "Arabic": "إلوميخاي سادام"
+    },
+    {
+      "English": "إم آند إمز",
+      "Arabic": "إم آند إمز"
+    },
+    {
+      "English": "amti",
+      "Arabic": "أمتي"
+    },
+    {
+      "English": "maamoul",
+      "Arabic": "معمول"
+    },
+    {
+      "English": "bajri no rotlo",
+      "Arabic": "باجري نو روتلو"
+    },
+    {
+      "English": "mabrouma",
+      "Arabic": "مبرومة"
+    },
+    {
+      "English": "barfi",
+      "Arabic": "بارفي"
+    },
+    {
+      "English": "majbous",
+      "Arabic": "مجبوس"
+    },
+    {
+      "English": "basundi",
+      "Arabic": "باسوندي"
+    },
+    {
+      "English": "madfoun",
+      "Arabic": "مدفون"
+    },
+    {
+      "English": "bhakri",
+      "Arabic": "بهاكري"
+    },
+    {
+      "English": "maflaq",
+      "Arabic": "مفلق"
+    },
+    {
+      "English": "bombil fry",
+      "Arabic": "بومبيل مقلي"
+    },
+    {
+      "English": "mfaraka",
+      "Arabic": "مفركة"
+    },
+    {
+      "English": "chevdo",
+      "Arabic": "شيفدو"
+    },
+    {
+      "English": "mafruka",
+      "Arabic": "مفروكة"
+    },
+    {
+      "English": "chorafali",
+      "Arabic": "تشورافالي"
+    },
+    {
+      "English": "mahashi",
+      "Arabic": "محاشي"
+    },
+    {
+      "English": "daal dhokli",
+      "Arabic": "دال دوكلي"
+    },
+    {
+      "English": "mahshi",
+      "Arabic": "محشي"
+    },
+    {
+      "English": "dabeli",
+      "Arabic": "دابلي"
+    },
+    {
+      "English": "makadem",
+      "Arabic": "مقادم"
+    },
+    {
+      "English": "dahi vada",
+      "Arabic": "داهي فادا"
+    },
+    {
+      "English": "makdous",
+      "Arabic": "مكدوس"
+    },
+    {
+      "English": "dalithoy",
+      "Arabic": "داليثوي"
+    },
+    {
+      "English": "maqlouba",
+      "Arabic": "مقلوبة"
+    },
+    {
+      "English": "dhokla",
+      "Arabic": "دوكلا"
+    },
+    {
+      "English": "makmout",
+      "Arabic": "مكموت"
+    },
+    {
+      "English": "doodhpak",
+      "Arabic": "دودباك"
+    },
+    {
+      "English": "makmour",
+      "Arabic": "مكمور"
+    },
+    {
+      "English": "dudhi no halwo",
+      "Arabic": "دودي نو هالوو"
+    },
+    {
+      "English": "malawah",
+      "Arabic": "ملوح"
+    },
+    {
+      "English": "dudhi muthiya",
+      "Arabic": "دودي موثيا"
+    },
+    {
+      "English": "malooga",
+      "Arabic": "ملوجة"
+    },
+    {
+      "English": "gajar halwo",
+      "Arabic": "حلوى غاجار"
+    },
+    {
+      "English": "maltesers",
+      "Arabic": "مالتيزرز"
+    },
+    {
+      "English": "gatta curry",
+      "Arabic": "جاتا كاري"
+    },
+    {
+      "English": "manakish",
+      "Arabic": "مناقيش"
+    },
+    {
+      "English": "ghari",
+      "Arabic": "غاري"
+    },
+    {
+      "English": "mandi",
+      "Arabic": "مندي"
+    },
+    {
+      "English": "ghooghra",
+      "Arabic": "غوغرا"
+    },
+    {
+      "English": "mango",
+      "Arabic": "مانجا"
+    },
+    {
+      "English": "gud papdi",
+      "Arabic": "جود بابدي"
+    },
+    {
+      "English": "manousheh",
+      "Arabic": "منقوشة"
+    },
+    {
+      "English": "halwasan",
+      "Arabic": "حلواسان"
+    },
+    {
+      "English": "mansaf",
+      "Arabic": "منسف"
+    },
+    {
+      "English": "handwo",
+      "Arabic": "هاندفو"
+    },
+    {
+      "English": "maple syrup",
+      "Arabic": "ميبل سيروب"
+    },
+    {
+      "English": "gur",
+      "Arabic": "جور"
+    },
+    {
+      "English": "maraseea",
+      "Arabic": "مراصيع"
+    },
+    {
+      "English": "jeera aloo",
+      "Arabic": "جيرا ألو"
+    },
+    {
+      "English": "margherita",
+      "Arabic": "مارجريتا"
+    },
+    {
+      "English": "juvar no rotlo",
+      "Arabic": "جوفار نو روتلو"
+    },
+    {
+      "English": "mutabbal",
+      "Arabic": "متبل"
+    },
+    {
+      "English": "kansar",
+      "Arabic": "كانسار"
+    },
+    {
+      "English": "marinated tomatoes",
+      "Arabic": "بندورة متبلة"
+    },
+    {
+      "English": "karanji",
+      "Arabic": "كارانجي"
+    },
+    {
+      "English": "markouk",
+      "Arabic": "مرقوق"
+    },
+    {
+      "English": "keri no ras",
+      "Arabic": "كيري نو راس"
+    },
+    {
+      "English": "marsa",
+      "Arabic": "مرسة"
+    },
+    {
+      "English": "khakhra",
+      "Arabic": "خاكرا"
+    },
+    {
+      "English": "marshmallow",
+      "Arabic": "مارشميلو"
+    },
+    {
+      "English": "khandvi",
+      "Arabic": "خاندفي"
+    },
+    {
+      "English": "mashed potato",
+      "Arabic": "بطاطا مهروسة"
+    },
+    {
+      "English": "kombdi vade",
+      "Arabic": "كومبدي فادي"
+    },
+    {
+      "English": "masmat",
+      "Arabic": "مسمط"
+    },
+    {
+      "English": "kopra paak",
+      "Arabic": "كوبرا باك"
+    },
+    {
+      "English": "masoub",
+      "Arabic": "معصوب"
+    },
+    {
+      "English": "koshimbir",
+      "Arabic": "كوشيمبير"
+    },
+    {
+      "English": "mastic",
+      "Arabic": "مستكة"
+    },
+    {
+      "English": "kolim",
+      "Arabic": "كوليم"
+    },
+    {
+      "English": "matazeez",
+      "Arabic": "مطازيز"
+    },
+    {
+      "English": "laddu",
+      "Arabic": "لادو"
+    },
+    {
+      "English": "madhbi",
+      "Arabic": "مظبي"
+    },
+    {
+      "English": "locha",
+      "Arabic": "لوتشا"
+    },
+    {
+      "English": "mathloutha",
+      "Arabic": "مثلوثة"
+    },
+    {
+      "English": "malpua",
+      "Arabic": "مالبوا"
+    },
+    {
+      "English": "mayonnaise",
+      "Arabic": "مايونيز"
+    },
+    {
+      "English": "methi na gota",
+      "Arabic": "ميثي نا غوتا"
+    },
+    {
+      "English": "mazza rice",
+      "Arabic": "أرز مزة"
+    },
+    {
+      "English": "modak",
+      "Arabic": "موداك"
+    },
+    {
+      "English": "muammar rice",
+      "Arabic": "أرز معمر"
+    },
+    {
+      "English": "mohanthal",
+      "Arabic": "موهانثال"
+    },
+    {
+      "English": "meat biryani",
+      "Arabic": "برياني لحم"
+    },
+    {
+      "English": "chakri",
+      "Arabic": "شاكري"
+    },
+    {
+      "English": "meat on dough",
+      "Arabic": "لحم بالعجين"
+    },
+    {
+      "English": "muthiya",
+      "Arabic": "موثيا"
+    },
+    {
+      "English": "meatloaf",
+      "Arabic": "ورقة لحم"
+    },
+    {
+      "English": "oondees",
+      "Arabic": "أونديس"
+    },
+    {
+      "English": "melon",
+      "Arabic": "شمام"
+    },
+    {
+      "English": "patrode",
+      "Arabic": "باترود"
+    },
+    {
+      "English": "melted cheese",
+      "Arabic": "جبنة ذائبة"
+    },
+    {
+      "English": "penda",
+      "Arabic": "بيندا"
+    },
+    {
+      "English": "liquid cheese",
+      "Arabic": "جبنة سائلة"
+    },
+    {
+      "English": "poori",
+      "Arabic": "بوري"
+    },
+    {
+      "English": "mesabaha",
+      "Arabic": "مسبحة"
+    },
+    {
+      "English": "puri bhaji",
+      "Arabic": "بوري باجي"
+    },
+    {
+      "English": "moussaka",
+      "Arabic": "مسقعة"
+    },
+    {
+      "English": "rasya muthia",
+      "Arabic": "راسيا موثيا"
+    },
+    {
+      "English": "milk pudding",
+      "Arabic": "مهلبية"
+    },
+    {
+      "English": "sabudana khichdi",
+      "Arabic": "سابودانا خيتشدي"
+    },
+    {
+      "English": "milkshake",
+      "Arabic": "ميلك شيك"
+    },
+    {
+      "English": "sev khamani",
+      "Arabic": "سيف خاماني"
+    },
+    {
+      "English": "millefeuille",
+      "Arabic": "ملفيه"
+    },
+    {
+      "English": "sev tameta",
+      "Arabic": "سيف تاميتا"
+    },
+    {
+      "English": "shakarpara",
+      "Arabic": "شاكاربارا"
+    },
+    {
+      "English": "mineral water",
+      "Arabic": "مياه معدنية"
+    },
+    {
+      "English": "namakpara",
+      "Arabic": "ناماك بارا"
+    },
+    {
+      "English": "minestrone soup",
+      "Arabic": "شوربة مينيستروني"
+    },
+    {
+      "English": "shankarpali",
+      "Arabic": "شانكاربالي"
+    },
+    {
+      "English": "mint",
+      "Arabic": "نعناع"
+    },
+    {
+      "English": "shiro",
+      "Arabic": "شيرو"
+    },
+    {
+      "English": "mirinda orange",
+      "Arabic": "ميرندا برتقال"
+    },
+    {
+      "English": "shrikhand",
+      "Arabic": "شريكاند"
+    },
+    {
+      "English": "mixed grills",
+      "Arabic": "مشويات مشكلة"
+    },
+    {
+      "English": "soan papdi",
+      "Arabic": "سوان بابدي"
+    },
+    {
+      "English": "mixed vegetables",
+      "Arabic": "خضار مشكلة"
+    },
+    {
+      "English": "soonvali",
+      "Arabic": "سونفالي"
+    },
+    {
+      "English": "mixed coffee hala",
+      "Arabic": "حلا قهوة مشكل"
+    },
+    {
+      "English": "sukhdi",
+      "Arabic": "سوخدي"
+    },
+    {
+      "English": "mlais",
+      "Arabic": "مليس"
+    },
+    {
+      "English": "surnoli",
+      "Arabic": "سورنولي"
+    },
+    {
+      "English": "white mocha",
+      "Arabic": "وايت موكا"
+    },
+    {
+      "English": "sutarfeni",
+      "Arabic": "سوتارفيني"
+    },
+    {
+      "English": "oz",
+      "Arabic": "أونصة"
+    },
+    {
+      "English": "thalipeeth",
+      "Arabic": "ثاليبييث"
+    },
+    {
+      "English": "cranberry",
+      "Arabic": "توت بري"
+    },
+    {
+      "English": "thepla",
+      "Arabic": "ثيبلا"
+    },
+    {
+      "English": "espresso shot",
+      "Arabic": "شوت اسبريسو"
+    },
+    {
+      "English": "upmaa",
+      "Arabic": "أبما"
+    },
+    {
+      "English": "chicken satay",
+      "Arabic": "دجاج ستاي"
+    },
+    {
+      "English": "vada pav",
+      "Arabic": "فادا باف"
+    },
+    {
+      "English": "beef nihari",
+      "Arabic": "لحم نهاري"
+    },
+    {
+      "English": "veg kolhapuri",
+      "Arabic": "كولابوري نباتي"
+    },
+    {
+      "English": "chicken achari boti",
+      "Arabic": "دجاج أشاري بوتي"
+    },
+    {
+      "English": "ghebar",
+      "Arabic": "غبار"
+    },
+    {
+      "English": "chicken bihari boti",
+      "Arabic": "دجاج بخاري بوتي"
+    },
+    {
+      "English": "ghevar",
+      "Arabic": "غيفار"
+    },
+    {
+      "English": "chicken malai boti",
+      "Arabic": "دجاج مالاي بوتي"
+    },
+    {
+      "English": "lilva kachori",
+      "Arabic": "ليلفا كاتشوري"
+    },
+    {
+      "English": "reshmi kebab",
+      "Arabic": "كباب ريشمي"
+    },
+    {
+      "English": "maghaz",
+      "Arabic": "مغاز"
+    },
+    {
+      "English": "chicken kastoori boti",
+      "Arabic": "دجاج كاستوري بوتي"
+    },
+    {
+      "English": "mag dhokli",
+      "Arabic": "ماغ دوكلي"
+    },
+    {
+      "English": "hot sauce",
+      "Arabic": "صوص حار"
+    },
+    {
+      "English": "khichu",
+      "Arabic": "خيتشو"
+    },
+    {
+      "English": "chili sauce",
+      "Arabic": "صوص الفلفل حار"
+    },
+    {
+      "English": "farsi puri",
+      "Arabic": "فارسي بوري"
+    },
+    {
+      "English": "full portion",
+      "Arabic": "كمية كاملة"
+    },
+    {
+      "English": "khaman",
+      "Arabic": "خامان"
+    },
+    {
+      "English": "half portion",
+      "Arabic": "نصف كمية"
+    },
+    {
+      "English": "turiya patra",
+      "Arabic": "توريا باترا"
+    },
+    {
+      "English": "hamsa",
+      "Arabic": "حمسة"
+    },
+    {
+      "English": "mohan thaal",
+      "Arabic": "موهان ثال"
+    },
+    {
+      "English": "sriracha sauce",
+      "Arabic": "صوص سريراتشا"
+    },
+    {
+      "English": "churma ladoo",
+      "Arabic": "تشورما لادو"
+    },
+    {
+      "English": "cutlets",
+      "Arabic": "قطع لحم"
+    },
+    {
+      "English": "zunka",
+      "Arabic": "زونكا"
+    },
+    {
+      "English": "bites",
+      "Arabic": "بايتس"
+    },
+    {
+      "English": "cheera doi",
+      "Arabic": "تشيرا دوي"
+    },
+    {
+      "English": "oatmeal",
+      "Arabic": "حبوب الشوفان"
+    },
+    {
+      "English": "daab chingri",
+      "Arabic": "داب تشينغري"
+    },
+    {
+      "English": "macchiato",
+      "Arabic": "ماكياتو"
+    },
+    {
+      "English": "dhupi pitha",
+      "Arabic": "دهوبي بيثا"
+    },
+    {
+      "English": "ghila pitha",
+      "Arabic": "جيلا بيثا"
+    },
+    {
+      "English": "sour",
+      "Arabic": "حامض"
+    },
+    {
+      "English": "hurum",
+      "Arabic": "هوروم"
+    },
+    {
+      "English": "mascarpone cheese",
+      "Arabic": "جبنة ماسكربوني‎"
+    },
+    {
+      "English": "khar",
+      "Arabic": "خار"
+    },
+    {
+      "English": "chimichurri sauce",
+      "Arabic": "صوص تشيمي تشوري"
+    },
+    {
+      "English": "komal saul",
+      "Arabic": "كومال شاول"
+    },
+    {
+      "English": "edamame",
+      "Arabic": "ادامامي"
+    },
+    {
+      "English": "loskora",
+      "Arabic": "لوسكورا"
+    },
+    {
+      "English": "edamat",
+      "Arabic": "إيدامات"
+    },
+    {
+      "English": "luchi",
+      "Arabic": "لوتشي"
+    },
+    {
+      "English": "egg benedict",
+      "Arabic": "بيض بينديكت"
+    },
+    {
+      "English": "muri naaru",
+      "Arabic": "موري نارو"
+    },
+    {
+      "English": "stroganoff",
+      "Arabic": "ستروجانوف"
+    },
+    {
+      "English": "pani tenga",
+      "Arabic": "باني تنجا"
+    },
+    {
+      "English": "smoothie",
+      "Arabic": "سموثي"
+    },
+    {
+      "English": "sunga pitha",
+      "Arabic": "سونجا بيثا"
+    },
+    {
+      "English": "roti",
+      "Arabic": "روتي"
+    },
+    {
+      "English": "aloo pitika",
+      "Arabic": "ألو بيتيكا"
+    },
+    {
+      "English": "kaak",
+      "Arabic": "كعك"
+    },
+    {
+      "English": "masor tenga",
+      "Arabic": "ماسور تينجا"
+    },
+    {
+      "English": "bengena pitika",
+      "Arabic": "بنجنا بيتيكا"
+    },
+    {
+      "English": "sedr",
+      "Arabic": "سدر"
+    },
+    {
+      "English": "bilahi maas",
+      "Arabic": "بلاهي ماس"
+    },
+    {
+      "English": "striploin steak",
+      "Arabic": "ستريبلوين ستيك"
+    },
+    {
+      "English": "bora saul",
+      "Arabic": "بورا سول"
+    },
+    {
+      "English": "flatbread",
+      "Arabic": "الخبز المسطح"
+    },
+    {
+      "English": "chhena gaja",
+      "Arabic": "تشينا غاجا"
+    },
+    {
+      "English": "gherkins",
+      "Arabic": "خيار مخلل"
+    },
+    {
+      "English": "chhena poda",
+      "Arabic": "تشينا بودا"
+    },
+    {
+      "English": "negresco",
+      "Arabic": "نجرسكو"
+    },
+    {
+      "English": "chingri malai curry",
+      "Arabic": "كاري تشنغري مالاي"
+    },
+    {
+      "English": "nicoise salad",
+      "Arabic": "سلطة نيسواز"
+    },
+    {
+      "English": "goja",
+      "Arabic": "غوجا"
+    },
+    {
+      "English": "noodles",
+      "Arabic": "نودلز"
+    },
+    {
+      "English": "handoh guri",
+      "Arabic": "هاندوه جوري"
+    },
+    {
+      "English": "nuggets",
+      "Arabic": "ناجتس"
+    },
+    {
+      "English": "haq maas",
+      "Arabic": "هاق ماس"
+    },
+    {
+      "English": "nutella",
+      "Arabic": "نوتيلا"
+    },
+    {
+      "English": "horioh maas",
+      "Arabic": "هوريوه ماس"
+    },
+    {
+      "English": "octopus",
+      "Arabic": "أخطبوط"
+    },
+    {
+      "English": "chingri bhapa",
+      "Arabic": "تشنغري بهابا"
+    },
+    {
+      "English": "okra",
+      "Arabic": "بامية"
+    },
+    {
+      "English": "kabiraji",
+      "Arabic": "كابيراجي"
+    },
+    {
+      "English": "olive",
+      "Arabic": "زيتون"
+    },
+    {
+      "English": "kharoli",
+      "Arabic": "خارولي"
+    },
+    {
+      "English": "olive oil",
+      "Arabic": "زيت زيتون"
+    },
+    {
+      "English": "khorisa",
+      "Arabic": "خوريسا"
+    },
+    {
+      "English": "omelette",
+      "Arabic": "أومليت"
+    },
+    {
+      "English": "koldil chicken",
+      "Arabic": "دجاج كولديل"
+    },
+    {
+      "English": "onion",
+      "Arabic": "بصل"
+    },
+    {
+      "English": "koldil duck",
+      "Arabic": "بطة كولديل"
+    },
+    {
+      "English": "oqaily",
+      "Arabic": "عقيلي"
+    },
+    {
+      "English": "konir dom",
+      "Arabic": "كونير دوم"
+    },
+    {
+      "English": "oqda",
+      "Arabic": "عقدة"
+    },
+    {
+      "English": "lai haq maas",
+      "Arabic": "لاي هاق ماس"
+    },
+    {
+      "English": "oreo",
+      "Arabic": "أوريو"
+    },
+    {
+      "English": "litti",
+      "Arabic": "ليتي"
+    },
+    {
+      "English": "oriental desserts",
+      "Arabic": "الحلويات الشرقية"
+    },
+    {
+      "English": "masor koni",
+      "Arabic": "ماسور كوني"
+    },
+    {
+      "English": "oriental rice",
+      "Arabic": "أرز شرقي"
+    },
+    {
+      "English": "masor petu",
+      "Arabic": "ماسور بيتو"
+    },
+    {
+      "English": "orma casserole",
+      "Arabic": "طاجن أورمة"
+    },
+    {
+      "English": "mishti cholar dal",
+      "Arabic": "ميشتي تشولار دال"
+    },
+    {
+      "English": "orzo",
+      "Arabic": "لسان عصفور"
+    },
+    {
+      "English": "mishti doi",
+      "Arabic": "ميشتي دوي"
+    },
+    {
+      "English": "orzo soup",
+      "Arabic": "شوربة لسان عصفور"
+    },
+    {
+      "English": "ou tenga maas",
+      "Arabic": "أو تينغا ماس"
+    },
+    {
+      "English": "ouzi",
+      "Arabic": "أوزي"
+    },
+    {
+      "English": "bhaji",
+      "Arabic": "باجي"
+    },
+    {
+      "English": "oven baked",
+      "Arabic": "بالفرن"
+    },
+    {
+      "English": "pani pitha",
+      "Arabic": "باني بيثا"
+    },
+    {
+      "English": "oven baked pasta",
+      "Arabic": "مكرونة فرن"
+    },
+    {
+      "English": "pantua",
+      "Arabic": "بانتوا"
+    },
+    {
+      "English": "oyoun al maha",
+      "Arabic": "عيون المها"
+    },
+    {
+      "English": "payokh",
+      "Arabic": "بايوك"
+    },
+    {
+      "English": "oyster sauce",
+      "Arabic": "صوص أويستر"
+    },
+    {
+      "English": "peda",
+      "Arabic": "بيدا"
+    },
+    {
+      "English": "packet",
+      "Arabic": "باكيت"
+    },
+    {
+      "English": "prawn malai curry",
+      "Arabic": "كاري الروبيان المالاي"
+    },
+    {
+      "English": "pancake",
+      "Arabic": "بان كيك"
+    },
+    {
+      "English": "red rice",
+      "Arabic": "الأرز الأحمر"
+    },
+    {
+      "English": "pane",
+      "Arabic": "بانيه"
+    },
+    {
+      "English": "راسغولا",
+      "Arabic": "راسغولا"
+    },
+    {
+      "English": "panini",
+      "Arabic": "بانينى"
+    },
+    {
+      "English": "shondesh",
+      "Arabic": "شونديش"
+    },
+    {
+      "English": "panini bread",
+      "Arabic": "خبز بانيني"
+    },
+    {
+      "English": "shukto",
+      "Arabic": "شوكتو"
+    },
+    {
+      "English": "paratha bread",
+      "Arabic": "خبز براتا"
+    },
+    {
+      "English": "tenga doi",
+      "Arabic": "تينغا دوي"
+    },
+    {
+      "English": "parotta bread",
+      "Arabic": "خبز باروتا"
+    },
+    {
+      "English": "til pitha",
+      "Arabic": "تيل بيثا"
+    },
+    {
+      "English": "parmesan cheese",
+      "Arabic": "جبنة بارميزان"
+    },
+    {
+      "English": "parsley",
+      "Arabic": "بقدونس"
+    },
+    {
+      "English": "pastrami",
+      "Arabic": "بسطرمة"
+    },
+    {
+      "English": "pastries",
+      "Arabic": "معجنات"
+    },
+    {
+      "English": "peach",
+      "Arabic": "خوخ"
+    },
+    {
+      "English": "peanut",
+      "Arabic": "فول سودانى"
+    },
+    {
+      "English": "peanut butter",
+      "Arabic": "زبدة فول سوداني"
+    },
+    {
+      "English": "peel",
+      "Arabic": "قشر"
+    },
+    {
+      "English": "peeled",
+      "Arabic": "مقشر"
+    },
+    {
+      "English": "penne pasta",
+      "Arabic": "مكرونة بيني"
+    },
+    {
+      "English": "pepper",
+      "Arabic": "فلفل"
+    },
+    {
+      "English": "pepper jack cheese",
+      "Arabic": "جبنة بيبر جاك"
+    },
+    {
+      "English": "pepperoni",
+      "Arabic": "بيبروني"
+    },
+    {
+      "English": "petit four",
+      "Arabic": "بيتي فور"
+    },
+    {
+      "English": "petit pain bread",
+      "Arabic": "خبز بيتي بان"
+    },
+    {
+      "English": "philadelphia cheese",
+      "Arabic": "جبنة فيلادلفيا"
+    },
+    {
+      "English": "phyllo",
+      "Arabic": "جلاش"
+    },
+    {
+      "English": "piccata",
+      "Arabic": "بيكاتا"
+    },
+    {
+      "English": "pickled lemons with safflower",
+      "Arabic": "ليمون معصفر"
+    },
+    {
+      "English": "pickles",
+      "Arabic": "مخلل"
+    },
+    {
+      "English": "pigeon",
+      "Arabic": "حمام"
+    },
+    {
+      "English": "pina colada",
+      "Arabic": "بينا كولادا"
+    },
+    {
+      "English": "pine",
+      "Arabic": "صنوبر"
+    },
+    {
+      "English": "pineapple",
+      "Arabic": "أناناس"
+    },
+    {
+      "English": "pistachio",
+      "Arabic": "فستق"
+    },
+    {
+      "English": "pita bread",
+      "Arabic": "خبز بيتا"
+    },
+    {
+      "English": "plain",
+      "Arabic": "سادة"
+    },
+    {
+      "English": "poached eggs",
+      "Arabic": "بيض مسلوق"
+    },
+    {
+      "English": "pomegranate",
+      "Arabic": "رمان"
+    },
+    {
+      "English": "pomegranate molasses",
+      "Arabic": "دبس الرمان"
+    },
+    {
+      "English": "potato wedges",
+      "Arabic": "بطاطا ودجز"
+    },
+    {
+      "English": "potatoes",
+      "Arabic": "بطاطا"
+    },
+    {
+      "English": "prickly pear",
+      "Arabic": "تين شوكي"
+    },
+    {
+      "English": "profiterole",
+      "Arabic": "بروفيترول"
+    },
+    {
+      "English": "provolone cheese",
+      "Arabic": "جبنة بروفولون"
+    },
+    {
+      "English": "prune",
+      "Arabic": "قراصيا"
+    },
+    {
+      "English": "بطاطا بيوريه",
+      "Arabic": "بطاطا بيوريه"
+    },
+    {
+      "English": "puri bread",
+      "Arabic": "خبز بوري"
+    },
+    {
+      "English": "qalabah",
+      "Arabic": "قلابة"
+    },
+    {
+      "English": "qamar el din",
+      "Arabic": "قمر الدين"
+    },
+    {
+      "English": "qatayef",
+      "Arabic": "قطايف"
+    },
+    {
+      "English": "qorsan",
+      "Arabic": "قرصان"
+    },
+    {
+      "English": "quail",
+      "Arabic": "سمان"
+    },
+    {
+      "English": "quattro formaggi",
+      "Arabic": "كواترو فورماجي"
+    },
+    {
+      "English": "quesadilla",
+      "Arabic": "كاساديا"
+    },
+    {
+      "English": "cottage cheese",
+      "Arabic": "جبنة قريش"
+    },
+    {
+      "English": "rabie juice",
+      "Arabic": "عصير الربيع"
+    },
+    {
+      "English": "radish",
+      "Arabic": "فجل"
+    },
+    {
+      "English": "rahash",
+      "Arabic": "رهش"
+    },
+    {
+      "English": "raisin",
+      "Arabic": "زبيب"
+    },
+    {
+      "English": "ras el hanout",
+      "Arabic": "رأس الحانوت"
+    },
+    {
+      "English": "raspberry",
+      "Arabic": "توت أحمر"
+    },
+    {
+      "English": "ratib bread",
+      "Arabic": "خبز رطب"
+    },
+    {
+      "English": "ravioli",
+      "Arabic": "رافيولي"
+    },
+    {
+      "English": "ready made",
+      "Arabic": "جاهز"
+    },
+    {
+      "English": "red bull",
+      "Arabic": "ريد بول"
+    },
+    {
+      "English": "red mullet",
+      "Arabic": "سمك بربون"
+    },
+    {
+      "English": "red velvet",
+      "Arabic": "ريد فيلفت"
+    },
+    {
+      "English": "ريسز",
+      "Arabic": "ريسز"
+    },
+    {
+      "English": "rfissa",
+      "Arabic": "رفيسة"
+    },
+    {
+      "English": "ribeye steak",
+      "Arabic": "ريب آى ستيك"
+    },
+    {
+      "English": "ribs",
+      "Arabic": "ريش"
+    },
+    {
+      "English": "risotto",
+      "Arabic": "ريزوتو"
+    },
+    {
+      "English": "roast beef",
+      "Arabic": "روست بيف"
+    },
+    {
+      "English": "roasted",
+      "Arabic": "محمر"
+    },
+    {
+      "English": "rocca",
+      "Arabic": "جرجير"
+    },
+    {
+      "English": "rokak",
+      "Arabic": "رقاق"
+    },
+    {
+      "English": "roquefort cheese",
+      "Arabic": "جبنة ريكفورد"
+    },
+    {
+      "English": "roquefort cheese sauce",
+      "Arabic": "صوص جبنة ريكفورد"
+    },
+    {
+      "English": "rosemary",
+      "Arabic": "روزماري"
+    },
+    {
+      "English": "rough kunafa",
+      "Arabic": "كنافة خشنة"
+    },
+    {
+      "English": "roumi cheese",
+      "Arabic": "جبنة رومي"
+    },
+    {
+      "English": "safeha",
+      "Arabic": "صفيحة"
+    },
+    {
+      "English": "saj",
+      "Arabic": "صاج"
+    },
+    {
+      "English": "saj bread",
+      "Arabic": "خبز صاج"
+    },
+    {
+      "English": "salami",
+      "Arabic": "سلامي"
+    },
+    {
+      "English": "sahleb",
+      "Arabic": "سحلب"
+    },
+    {
+      "English": "saltah",
+      "Arabic": "سلتة"
+    },
+    {
+      "English": "salted caramel",
+      "Arabic": "سولتد كراميل"
+    },
+    {
+      "English": "samoli",
+      "Arabic": "صامولي"
+    },
+    {
+      "English": "sandwich",
+      "Arabic": "ساندويش"
+    },
+    {
+      "English": "santa fe",
+      "Arabic": "سانتا فيه"
+    },
+    {
+      "English": "saroukh",
+      "Arabic": "صاروخ"
+    },
+    {
+      "English": "sausages",
+      "Arabic": "نقانق"
+    },
+    {
+      "English": "sauteed",
+      "Arabic": "سوتيه"
+    },
+    {
+      "English": "savory",
+      "Arabic": "موالح"
+    },
+    {
+      "English": "savory dish",
+      "Arabic": "الأطباق المالحة"
+    },
+    {
+      "English": "scoop",
+      "Arabic": "مغرفة"
+    },
+    {
+      "English": "scrambled eggs",
+      "Arabic": "بيض مخفوق"
+    },
+    {
+      "English": "seafood",
+      "Arabic": "مأكولات بحرية"
+    },
+    {
+      "English": "seeds",
+      "Arabic": "بذور"
+    },
+    {
+      "English": "semeen",
+      "Arabic": "سمين"
+    },
+    {
+      "English": "service platter",
+      "Arabic": "سيرفيس"
+    },
+    {
+      "English": "tahini",
+      "Arabic": "طحينة"
+    },
+    {
+      "English": "shaabi",
+      "Arabic": "شعبي"
+    },
+    {
+      "English": "shakreyeh",
+      "Arabic": "شاكرية"
+    },
+    {
+      "English": "shakshuka",
+      "Arabic": "شكشوكة"
+    },
+    {
+      "English": "shambri meat",
+      "Arabic": "لحم شمبري"
+    },
+    {
+      "English": "shami",
+      "Arabic": "شامي"
+    },
+    {
+      "English": "shandong",
+      "Arabic": "شاندونج"
+    },
+    {
+      "English": "shank",
+      "Arabic": "موزة"
+    },
+    {
+      "English": "shanklish cheese",
+      "Arabic": "جبنة شنكليش"
+    },
+    {
+      "English": "sharhat on dough",
+      "Arabic": "شرحات بالعجين"
+    },
+    {
+      "English": "sharkasia",
+      "Arabic": "شركسية"
+    },
+    {
+      "English": "shawarma",
+      "Arabic": "شاورما"
+    },
+    {
+      "English": "sheep testicles",
+      "Arabic": "بيض غنم"
+    },
+    {
+      "English": "shish barak",
+      "Arabic": "شيش برك"
+    },
+    {
+      "English": "shish chicken",
+      "Arabic": "دجاج شيش"
+    },
+    {
+      "English": "shish tawook",
+      "Arabic": "شيش طاووق"
+    },
+    {
+      "English": "shokaf",
+      "Arabic": "شقف"
+    },
+    {
+      "English": "shredded",
+      "Arabic": "مبشور"
+    },
+    {
+      "English": "simit",
+      "Arabic": "سميت"
+    },
+    {
+      "English": "singary",
+      "Arabic": "سنجاري"
+    },
+    {
+      "English": "single",
+      "Arabic": "سنجل"
+    },
+    {
+      "English": "sirloin steak",
+      "Arabic": "سيراليون ستيك"
+    },
+    {
+      "English": "sizzling prawn",
+      "Arabic": "سيزلنج روبيان"
+    },
+    {
+      "English": "skewers",
+      "Arabic": "أسياخ"
+    },
+    {
+      "English": "sliced chicken shawerma sandwich",
+      "Arabic": "ساندويش شاورما دجاج مقطع"
+    },
+    {
+      "English": "slices",
+      "Arabic": "شرائح"
+    },
+    {
+      "English": "smoked",
+      "Arabic": "مدخن"
+    },
+    {
+      "English": "smoked turkey",
+      "Arabic": "لحم ديك رومي مدخن"
+    },
+    {
+      "English": "snickers",
+      "Arabic": "سنيكرز"
+    },
+    {
+      "English": "soiree",
+      "Arabic": "سواريه"
+    },
+    {
+      "English": "souffle",
+      "Arabic": "سوفليه"
+    },
+    {
+      "English": "sour cream",
+      "Arabic": "كريمة حامضية"
+    },
+    {
+      "English": "soy sauce",
+      "Arabic": "صوص صويا"
+    },
+    {
+      "English": "spaghetti",
+      "Arabic": "سباغيتي"
+    },
+    {
+      "English": "spices",
+      "Arabic": "توابل"
+    },
+    {
+      "English": "spinach",
+      "Arabic": "سبانخ"
+    },
+    {
+      "English": "spring rolls",
+      "Arabic": "سبرينج رولز"
+    },
+    {
+      "English": "squeezed juice",
+      "Arabic": "عصير معصور"
+    },
+    {
+      "English": "strawberry",
+      "Arabic": "فراولة"
+    },
+    {
+      "English": "stuffed pigeon with grits",
+      "Arabic": "حمام محشي فريكة"
+    },
+    {
+      "English": "sugar cane",
+      "Arabic": "قصب سكر"
+    },
+    {
+      "English": "sumac",
+      "Arabic": "سماق"
+    },
+    {
+      "English": "sun top juice",
+      "Arabic": "عصير سن توب"
+    },
+    {
+      "English": "sundae",
+      "Arabic": "صاندي"
+    },
+    {
+      "English": "sunny side up eggs",
+      "Arabic": "بيض عيون"
+    },
+    {
+      "English": "super supreme",
+      "Arabic": "سوبر سوبريم"
+    },
+    {
+      "English": "sweet and sour",
+      "Arabic": "حلو و حامض"
+    },
+    {
+      "English": "syrian bread",
+      "Arabic": "خبز سوري"
+    },
+    {
+      "English": "szechuan",
+      "Arabic": "سيشوان"
+    },
+    {
+      "English": "tabbouleh",
+      "Arabic": "تبولة"
+    },
+    {
+      "English": "tamago",
+      "Arabic": "تاماغو"
+    },
+    {
+      "English": "tamarind",
+      "Arabic": "تمر هندي"
+    },
+    {
+      "English": "tames bread",
+      "Arabic": "خبز تميس"
+    },
+    {
+      "English": "dates",
+      "Arabic": "تمر"
+    },
+    {
+      "English": "tannour",
+      "Arabic": "تنور"
+    },
+    {
+      "English": "taqatea",
+      "Arabic": "تقاطيع"
+    },
+    {
+      "English": "tarator",
+      "Arabic": "طرطور"
+    },
+    {
+      "English": "tarb",
+      "Arabic": "طرب"
+    },
+    {
+      "English": "tartar sauce",
+      "Arabic": "صوص تارتار"
+    },
+    {
+      "English": "tarwiaa",
+      "Arabic": "ترويقة"
+    },
+    {
+      "English": "tawa",
+      "Arabic": "طاوة"
+    },
+    {
+      "English": "tawaya",
+      "Arabic": "طواية"
+    },
+    {
+      "English": "تي بون ستيك",
+      "Arabic": "تي بون ستيك"
+    },
+    {
+      "English": "tea bag",
+      "Arabic": "كيس شاي"
+    },
+    {
+      "English": "tempura sauce",
+      "Arabic": "صوص تيمبورا"
+    },
+    {
+      "English": "tenderloin steak",
+      "Arabic": "ستيك تندرلوين"
+    },
+    {
+      "English": "teppanyaki",
+      "Arabic": "تبنياكي"
+    },
+    {
+      "English": "tess",
+      "Arabic": "تيس"
+    },
+    {
+      "English": "tharid",
+      "Arabic": "ثريد"
+    },
+    {
+      "English": "zaatar",
+      "Arabic": "زعتر"
+    },
+    {
+      "English": "oregano",
+      "Arabic": "اوريجانو"
+    },
+    {
+      "English": "french toast",
+      "Arabic": "توست فرنسي"
+    },
+    {
+      "English": "toblerone",
+      "Arabic": "توبليرون"
+    },
+    {
+      "English": "toffee",
+      "Arabic": "توفي"
+    },
+    {
+      "English": "tohal",
+      "Arabic": "طحال"
+    },
+    {
+      "English": "tomato daqoos",
+      "Arabic": "دقوس بندورة"
+    },
+    {
+      "English": "tomato pieces",
+      "Arabic": "قطع بندورة"
+    },
+    {
+      "English": "tomato soup",
+      "Arabic": "شوربة بندورة"
+    },
+    {
+      "English": "tomatoes",
+      "Arabic": "بندورة"
+    },
+    {
+      "English": "tongue",
+      "Arabic": "لسان"
+    },
+    {
+      "English": "toromba",
+      "Arabic": "طرمبة"
+    },
+    {
+      "English": "torte",
+      "Arabic": "تورتة"
+    },
+    {
+      "English": "tortilla bread",
+      "Arabic": "خبز تورتيلا"
+    },
+    {
+      "English": "toshka",
+      "Arabic": "توشكا"
+    },
+    {
+      "English": "triangle cheese",
+      "Arabic": "جبنة مثلثات"
+    },
+    {
+      "English": "twix",
+      "Arabic": "تويكس"
+    },
+    {
+      "English": "umm ali",
+      "Arabic": "أم علي"
+    },
+    {
+      "English": "vanilla",
+      "Arabic": "فانيلا"
+    },
+    {
+      "English": "veal",
+      "Arabic": "لحم عجل"
+    },
+    {
+      "English": "veal cubes",
+      "Arabic": "كباب حلة"
+    },
+    {
+      "English": "vegetable soup",
+      "Arabic": "شوربة خضروات"
+    },
+    {
+      "English": "vermicelli rice",
+      "Arabic": "أرز بالشعيرية"
+    },
+    {
+      "English": "vinaigrette sauce",
+      "Arabic": "صوص فينجريت"
+    },
+    {
+      "English": "vinegar",
+      "Arabic": "خل"
+    },
+    {
+      "English": "watermelon",
+      "Arabic": "بطيخ"
+    },
+    {
+      "English": "white bread",
+      "Arabic": "خبز أبيض"
+    },
+    {
+      "English": "with peel",
+      "Arabic": "بالقشر"
+    },
+    {
+      "English": "wonton",
+      "Arabic": "وانتون"
+    },
+    {
+      "English": "zaalouk",
+      "Arabic": "زعلوك"
+    },
+    {
+      "English": "thabihah",
+      "Arabic": "ذبيحة"
+    },
+    {
+      "English": "zhourat shamiyeh",
+      "Arabic": "زهورات شامية"
+    },
+    {
+      "English": "znoud el sit",
+      "Arabic": "زنود الست"
+    },
+    {
+      "English": "zucchini",
+      "Arabic": "كوسة"
+    },
+    {
+      "English": "zurbian",
+      "Arabic": "زربيان"
+    },
+    {
+      "English": "mojito",
+      "Arabic": "موهيتو"
+    },
+    {
+      "English": "chili",
+      "Arabic": "شطة"
+    },
+    {
+      "English": "bread crumbs",
+      "Arabic": "فتات الخبز"
+    },
+    {
+      "English": "beans",
+      "Arabic": "فاصوليا"
+    },
+    {
+      "English": "sugar syrup",
+      "Arabic": "قطر"
+    },
+    {
+      "English": "kale",
+      "Arabic": "الكيل"
+    },
+    {
+      "English": "fruit salad",
+      "Arabic": "سلطة فواكه"
+    },
+    {
+      "English": "syrup",
+      "Arabic": "سيروب"
+    },
+    {
+      "English": "pies",
+      "Arabic": "فطائر"
+    },
+    {
+      "English": "donut",
+      "Arabic": "دونات"
+    },
+    {
+      "English": "whole chicken",
+      "Arabic": "دجاجة كامله"
+    },
+    {
+      "English": "maon",
+      "Arabic": "ماعون"
+    },
+    {
+      "English": "maboj",
+      "Arabic": "معبوج"
+    },
+    {
+      "English": "sirloin",
+      "Arabic": "ظهر"
+    },
+    {
+      "English": "lahmet ras",
+      "Arabic": "لحمة رأس"
+    },
+    {
+      "English": "cherry tomatoes",
+      "Arabic": "بندورة كرزية"
+    },
+    {
+      "English": "seared",
+      "Arabic": "مشوح"
+    },
+    {
+      "English": "chipotle sauce",
+      "Arabic": "صوص شيبوتل‎"
+    },
+    {
+      "English": "thousand island sauce",
+      "Arabic": "صوص ثاوزند آيلاند"
+    },
+    {
+      "English": "mojarmasheh",
+      "Arabic": "مجرمشة"
+    },
+    {
+      "English": "molasses",
+      "Arabic": "دبس السكر"
+    },
+    {
+      "English": "mold",
+      "Arabic": "قالب"
+    },
+    {
+      "English": "molokhia",
+      "Arabic": "ملوخية"
+    },
+    {
+      "English": "molten cake",
+      "Arabic": "مولتن كيك"
+    },
+    {
+      "English": "mombar",
+      "Arabic": "ممبار"
+    },
+    {
+      "English": "moqalqal",
+      "Arabic": "مقلقل"
+    },
+    {
+      "English": "mortadella",
+      "Arabic": "مرتديلا‎"
+    },
+    {
+      "English": "mosaic",
+      "Arabic": "موازييك"
+    },
+    {
+      "English": "moulaak",
+      "Arabic": "معلاق"
+    },
+    {
+      "English": "mountain dew",
+      "Arabic": "ماونتن ديو"
+    },
+    {
+      "English": "mozzarella cheese",
+      "Arabic": "جبنة موزاريلا"
+    },
+    {
+      "English": "mozzarella sticks",
+      "Arabic": "أصابع الموزاريلا"
+    },
+    {
+      "English": "msemen",
+      "Arabic": "مسمن"
+    },
+    {
+      "English": "mshabak",
+      "Arabic": "مشبك"
+    },
+    {
+      "English": "mshahamyah",
+      "Arabic": "مشحمية"
+    },
+    {
+      "English": "msharmel",
+      "Arabic": "مشرمل"
+    },
+    {
+      "English": "mubakhar",
+      "Arabic": "مبخر"
+    },
+    {
+      "English": "muffin",
+      "Arabic": "مافن"
+    },
+    {
+      "English": "muhammara",
+      "Arabic": "محمرة"
+    },
+    {
+      "English": "mulberry",
+      "Arabic": "توت شامي"
+    },
+    {
+      "English": "musakhan",
+      "Arabic": "مسخن"
+    },
+    {
+      "English": "mushroom",
+      "Arabic": "فطر"
+    },
+    {
+      "English": "mutabbaq",
+      "Arabic": "مطبق"
+    },
+    {
+      "English": "mutafaih",
+      "Arabic": "مطفاية"
+    },
+    {
+      "English": "mutabbal salad",
+      "Arabic": "سلطة متبل"
+    },
+    {
+      "English": "lamb meat",
+      "Arabic": "لحم ضأن"
+    },
+    {
+      "English": "nachos",
+      "Arabic": "ناتشوز"
+    },
+    {
+      "English": "naemi",
+      "Arabic": "نعيمي"
+    },
+    {
+      "English": "nawashif",
+      "Arabic": "نواشف"
+    },
+    {
+      "English": "neapolitan",
+      "Arabic": "نابوليتانا"
+    },
+    {
+      "English": "neck",
+      "Arabic": "رقبة"
+    },
+    {
+      "English": "nefa",
+      "Arabic": "نيفة"
+    },
+    {
+      "English": "mocha frappuccino",
+      "Arabic": "فرابتشينو موكا"
+    },
+    {
+      "English": "mocktails",
+      "Arabic": "موكتيل"
+    },
+    {
+      "English": "popcorn bucket",
+      "Arabic": "سطل فشار"
+    },
+    {
+      "English": "homor",
+      "Arabic": "حمر"
+    },
+    {
+      "English": "في 60",
+      "Arabic": "في 60"
+    },
+    {
+      "English": "bread crumb",
+      "Arabic": "بقسماط"
+    },
+    {
+      "English": "loose tea",
+      "Arabic": "شاي فرط"
+    },
+    {
+      "English": "sahawiq",
+      "Arabic": "سحاوق"
+    },
+    {
+      "English": "saleeg",
+      "Arabic": "سليق"
+    },
+    {
+      "English": "waffle stick",
+      "Arabic": "وافل ستيك"
+    },
+    {
+      "English": "code red",
+      "Arabic": "كود ريد"
+    },
+    {
+      "English": "triple",
+      "Arabic": "تريبل"
+    },
+    {
+      "English": "kibbeh in a tray",
+      "Arabic": "كبة بالصينية"
+    },
+    {
+      "English": "baked potatoes",
+      "Arabic": "بطاطا بالفرن"
+    },
+    {
+      "English": "roast potatoes",
+      "Arabic": "بطاطا محمرة"
+    },
+    {
+      "English": "cheese sticks",
+      "Arabic": "أصابع الجبنة"
+    },
+    {
+      "English": "chicken bites",
+      "Arabic": "قطع الدجاج"
+    },
+    {
+      "English": "gathering offer",
+      "Arabic": "عرض الجمعات"
+    },
+    {
+      "English": "bread basket",
+      "Arabic": "سلة مخبوزات"
+    },
+    {
+      "English": "bacon",
+      "Arabic": "اللحم البقري المقدد"
+    },
+    {
+      "English": "sorbet",
+      "Arabic": "سوربيه"
+    },
+    {
+      "English": "blue fish",
+      "Arabic": "سمك مياس"
+    },
+    {
+      "English": "calamari",
+      "Arabic": "كاليماري"
+    },
+    {
+      "English": "capers",
+      "Arabic": "كابري"
+    },
+    {
+      "English": "caviar",
+      "Arabic": "كافيار"
+    },
+    {
+      "English": "clams",
+      "Arabic": "جندوفلى"
+    },
+    {
+      "English": "crab",
+      "Arabic": "كراب"
+    },
+    {
+      "English": "croaker fish",
+      "Arabic": "سمك اللوت"
+    },
+    {
+      "English": "eel",
+      "Arabic": "أنقليس"
+    },
+    {
+      "English": "emperor fish",
+      "Arabic": "سمك شعور"
+    },
+    {
+      "English": "fish fillet",
+      "Arabic": "سمك فيليه"
+    },
+    {
+      "English": "gilthead bream fish",
+      "Arabic": "سمك دينيس"
+    },
+    {
+      "English": "grey mullet fish",
+      "Arabic": "سمك بورى"
+    },
+    {
+      "English": "grouper fish",
+      "Arabic": "سمك وقار"
+    },
+    {
+      "English": "hammour",
+      "Arabic": "هامور"
+    },
+    {
+      "English": "herring",
+      "Arabic": "رنجة"
+    },
+    {
+      "English": "keeled mullet fish",
+      "Arabic": "سمك سهلية"
+    },
+    {
+      "English": "kingfish",
+      "Arabic": "كنعد"
+    },
+    {
+      "English": "lobster",
+      "Arabic": "إستاكوزا"
+    },
+    {
+      "English": "lucioperca fish",
+      "Arabic": "سمك قشر بياض"
+    },
+    {
+      "English": "macaroni fish",
+      "Arabic": "سمك مكرونة"
+    },
+    {
+      "English": "mackerel",
+      "Arabic": "ماكريل"
+    },
+    {
+      "English": "mullet",
+      "Arabic": "سمك بوري"
+    },
+    {
+      "English": "mussels",
+      "Arabic": "بلح البحر"
+    },
+    {
+      "English": "red mullet fish",
+      "Arabic": "سمك بربونى"
+    },
+    {
+      "English": "roe",
+      "Arabic": "بطارخ"
+    },
+    {
+      "English": "salmon",
+      "Arabic": "سلمون"
+    },
+    {
+      "English": "sayadiyah",
+      "Arabic": "صيادية"
+    },
+    {
+      "English": "scallop",
+      "Arabic": "سكالوب"
+    },
+    {
+      "English": "chicken scallop",
+      "Arabic": "سكالوب الدجاج"
+    },
+    {
+      "English": "sea bass fish",
+      "Arabic": "سمك قاروص"
+    },
+    {
+      "English": "sea bream fish",
+      "Arabic": "سمك مرجان"
+    },
+    {
+      "English": "sole fish",
+      "Arabic": "سمك موسى"
+    },
+    {
+      "English": "squid",
+      "Arabic": "حبار"
+    },
+    {
+      "English": "tilapia fish",
+      "Arabic": "سمك بلطي"
+    },
+    {
+      "English": "tuna",
+      "Arabic": "تونة"
+    },
+    {
+      "English": "zubaidi fish",
+      "Arabic": "سمك زبيدي"
+    },
+    {
+      "English": "mochaccino",
+      "Arabic": "موكاتشينو"
+    },
+    {
+      "English": "shabora",
+      "Arabic": "شابورة"
+    },
+    {
+      "English": "luxurious nuts",
+      "Arabic": "مكسرات فاخرة"
+    },
+    {
+      "English": "twinings tea",
+      "Arabic": "شاي تويننجز"
+    },
+    {
+      "English": "khadeer tea",
+      "Arabic": "شاي خدير"
+    },
+    {
+      "English": "rabea tea",
+      "Arabic": "شاي الربيع"
+    },
+    {
+      "English": "al ghazaleen tea",
+      "Arabic": "شاي الغزالين"
+    },
+    {
+      "English": "al munayes tea",
+      "Arabic": "شاي المنيس"
+    },
+    {
+      "English": "chinguetti tea",
+      "Arabic": "شاي شنقيطي"
+    },
+    {
+      "English": "oolong tea",
+      "Arabic": "شاي أولونج"
+    },
+    {
+      "English": "uzbek tea",
+      "Arabic": "شاي أوزبكي"
+    },
+    {
+      "English": "azerbaijan tea",
+      "Arabic": "شاي أذربيجاني"
+    },
+    {
+      "English": "hadrami honey",
+      "Arabic": "عسل حضرمي"
+    },
+    {
+      "English": "punjabi honey",
+      "Arabic": "عسل بنجابي"
+    },
+    {
+      "English": "chicken tikka",
+      "Arabic": "دجاج تكا"
+    },
+    {
+      "English": "korma chicken",
+      "Arabic": "قورمة دجاج"
+    },
+    {
+      "English": "korma fish tikka sizzling",
+      "Arabic": "قورمة سمك تكا سيزلنج"
+    },
+    {
+      "English": "meat in a clay jar",
+      "Arabic": "جرة فخار باللحم"
+    },
+    {
+      "English": "haydari",
+      "Arabic": "حيدري"
+    },
+    {
+      "English": "alinazik",
+      "Arabic": "علي نازك"
+    },
+    {
+      "English": "korba oglu",
+      "Arabic": "كوربا أوغلو"
+    },
+    {
+      "English": "azama",
+      "Arabic": "آزمة"
+    },
+    {
+      "English": "ezogelin soup",
+      "Arabic": "شوربة ايزوقلين"
+    },
+    {
+      "English": "urfa kebab",
+      "Arabic": "أورفة كباب"
+    },
+    {
+      "English": "beyti kebab",
+      "Arabic": "بيتي كباب"
+    },
+    {
+      "English": "tepsi kebab",
+      "Arabic": "تبسي كباب"
+    },
+    {
+      "English": "chopin salad",
+      "Arabic": "سلطة شوبان"
+    },
+    {
+      "English": "qaradaghi salad",
+      "Arabic": "سلطة قورداغي"
+    },
+    {
+      "English": "macadamia",
+      "Arabic": "ماكاديميا"
+    },
+    {
+      "English": "doneness",
+      "Arabic": "مستوى النضج او الاستواء"
+    },
+    {
+      "English": "mashkool",
+      "Arabic": "مشخول"
+    },
+    {
+      "English": "kanad mashkool",
+      "Arabic": "مشخول كنعد"
+    },
+    {
+      "English": "taco",
+      "Arabic": "تاكو"
+    },
+    {
+      "English": "chestnut",
+      "Arabic": "كستناء"
+    },
+    {
+      "English": "gluten",
+      "Arabic": "غلوتين"
+    },
+    {
+      "English": "sloppy joe",
+      "Arabic": "سلوبي جو"
+    },
+    {
+      "English": "maple sriracha",
+      "Arabic": "ميبل سريراتشا"
+    },
+    {
+      "English": "aseed",
+      "Arabic": "عصيد"
+    },
+    {
+      "English": "mashrouh",
+      "Arabic": "مشروح"
+    },
+    {
+      "English": "sourdough bread",
+      "Arabic": "خبز سوردو"
+    },
+    {
+      "English": "brioche bread",
+      "Arabic": "خبز بريوش"
+    },
+    {
+      "English": "pollichathu",
+      "Arabic": "البولي جاتو"
+    },
+    {
+      "English": "nirachathu",
+      "Arabic": "النيراجاتو"
+    },
+    {
+      "English": "papaya",
+      "Arabic": "بابايا"
+    },
+    {
+      "English": "ground mutton fine",
+      "Arabic": "لحم ضأن مفروم  ناعم"
+    },
+    {
+      "English": "ground mutton coarse",
+      "Arabic": "لحم ضأن مفروم خشن"
+    },
+    {
+      "English": "chikoo",
+      "Arabic": "شيكو"
+    },
+    {
+      "English": "lamb harri",
+      "Arabic": "لحم ضأن حري"
+    },
+    {
+      "English": "addahi",
+      "Arabic": "أضاحي"
+    },
+    {
+      "English": "lamb swakni",
+      "Arabic": "لحم ضأن سواكني"
+    },
+    {
+      "English": "poultry",
+      "Arabic": "دواجن"
+    },
+    {
+      "English": "millet cake",
+      "Arabic": "كيك الدخن"
+    },
+    {
+      "English": "ice shaken",
+      "Arabic": "مخفوقة بالثلج"
+    },
+    {
+      "English": "pecan",
+      "Arabic": "بيكان"
+    },
+    {
+      "English": "pumpkin",
+      "Arabic": "يقطين"
+    },
+    {
+      "English": "pesto",
+      "Arabic": "بيستو"
+    },
+    {
+      "English": "babka",
+      "Arabic": "عجينة البابكا"
+    },
+    {
+      "English": "romesco sauce",
+      "Arabic": "صوص الروميسكو"
+    },
+    {
+      "English": "tapenade sauce",
+      "Arabic": "صوص تابنايد"
+    },
+    {
+      "English": "custard pudding",
+      "Arabic": "حلوى الكاسترد"
+    },
+    {
+      "English": "rice pudding",
+      "Arabic": "أرز بالحليب"
+    },
+    {
+      "English": "laghawees",
+      "Arabic": "لغاويص"
+    },
+    {
+      "English": "ovomaltine",
+      "Arabic": "اوفومالتين"
+    },
+    {
+      "English": "koshna",
+      "Arabic": "كشنة"
+    },
+    {
+      "English": "abazeer",
+      "Arabic": "أبازير"
+    },
+    {
+      "English": "haidwan",
+      "Arabic": "حيدوان"
+    },
+    {
+      "English": "fadkha",
+      "Arabic": "فضخة"
+    },
+    {
+      "English": "haleel",
+      "Arabic": "حاليل"
+    },
+    {
+      "English": "dokhon",
+      "Arabic": "دخن"
+    },
+    {
+      "English": "mogasgs",
+      "Arabic": "مقصقص"
+    },
+    {
+      "English": "bakhomri",
+      "Arabic": "باخمري"
+    },
+    {
+      "English": "khameer qers",
+      "Arabic": "قرص خمير"
+    },
+    {
+      "English": "mokhammar qers",
+      "Arabic": "قرص مخمر"
+    },
+    {
+      "English": "kaak qers",
+      "Arabic": "قرص كعك"
+    },
+    {
+      "English": "mafhous qers",
+      "Arabic": "قرص مفحوس"
+    },
+    {
+      "English": "juggernaut",
+      "Arabic": "جقر نت"
+    },
+    {
+      "English": "spanish latte",
+      "Arabic": "سبانيش لاتيه"
+    },
+    {
+      "English": "pistachio latte",
+      "Arabic": "بستاشيو لاتيه"
+    },
+    {
+      "English": "mahmous",
+      "Arabic": "محموص"
+    },
+    {
+      "English": "khash khash cake",
+      "Arabic": "كيكة الخشخش"
+    },
+    {
+      "English": "yanar shabi burger",
+      "Arabic": "يانار شبي برجر"
+    },
+    {
+      "English": "upside down cheesecake",
+      "Arabic": "اب سايد داون تشيز كيك"
+    },
+    {
+      "English": "brown dough",
+      "Arabic": "عجين اسمر"
+    },
+    {
+      "English": "whole wheat bread",
+      "Arabic": "خبز الحبوب الكاملة"
+    },
+    {
+      "English": "cinnamon rolls",
+      "Arabic": "لفائف القرفة"
+    },
+    {
+      "English": "stuffed cabbage",
+      "Arabic": "محشي الملفوف"
+    },
+    {
+      "English": "spatch cocked chicken",
+      "Arabic": "دجاج سباتش مطبوخ"
+    },
+    {
+      "English": "sauerkraut",
+      "Arabic": "مخلل الملفوف"
+    },
+    {
+      "English": "pot",
+      "Arabic": "قدر"
+    },
+    {
+      "English": "dynamite",
+      "Arabic": "ديناميت"
+    },
+    {
+      "English": "buttermilk cake",
+      "Arabic": "كيكة الزبدة"
+    },
+    {
+      "English": "glazed",
+      "Arabic": "جليزد"
+    },
+    {
+      "English": "twist",
+      "Arabic": "تويست"
+    },
+    {
+      "English": "gulab jamun",
+      "Arabic": "جولاب جامون"
+    },
+    {
+      "English": "brown toast",
+      "Arabic": "توست اسمر"
+    },
+    {
+      "English": "pretzel",
+      "Arabic": "برتزل"
+    },
+    {
+      "English": "chicken popcorn",
+      "Arabic": "بوب كورن الدجاج"
+    },
+    {
+      "English": "kleicha",
+      "Arabic": "كليجا"
+    },
+    {
+      "English": "soybean",
+      "Arabic": "فول الصويا"
+    },
+    {
+      "English": "oyster",
+      "Arabic": "محار"
+    },
+    {
+      "English": "tomato paste",
+      "Arabic": "معجون البندورة"
+    },
+    {
+      "English": "special sauce",
+      "Arabic": "صوص خاص"
+    },
+    {
+      "English": "gram",
+      "Arabic": "جرام"
+    },
+    {
+      "English": "kilogram",
+      "Arabic": "كيلو جرام"
+    },
+    {
+      "English": "package",
+      "Arabic": "بكج"
+    },
+    {
+      "English": "puff pastry",
+      "Arabic": "بف باستري"
+    },
+    {
+      "English": "mantou",
+      "Arabic": "منتو"
+    },
+    {
+      "English": "yaghmash",
+      "Arabic": "يغمش"
+    },
+    {
+      "English": "cold brew coffee",
+      "Arabic": "قهوة كولد برو"
+    },
+    {
+      "English": "fatteh shamiyeh",
+      "Arabic": "فتة شامية"
+    },
+    {
+      "English": "foul with bedouin",
+      "Arabic": "فول بدوي"
+    },
+    {
+      "English": "peas",
+      "Arabic": "بازلاء"
+    },
+    {
+      "English": "tarshi",
+      "Arabic": "طرشي"
+    },
+    {
+      "English": "fresh water",
+      "Arabic": "مياه صحية"
+    },
+    {
+      "English": "combo",
+      "Arabic": "وجبة"
+    },
+    {
+      "English": "caesar",
+      "Arabic": "سيزر"
+    },
+    {
+      "English": "turkey",
+      "Arabic": "لحم ديك رومي"
+    },
+    {
+      "English": "peels",
+      "Arabic": "قشور"
+    },
+    {
+      "English": "assorted",
+      "Arabic": "متنوع"
+    },
+    {
+      "English": "chamomile",
+      "Arabic": "البابونج"
+    },
+    {
+      "English": "biscuit",
+      "Arabic": "بسكويت"
+    },
+    {
+      "English": "pearls",
+      "Arabic": "اللؤلؤ"
+    },
+    {
+      "English": "american coffee",
+      "Arabic": "قهوة امريكية"
+    },
+    {
+      "English": "regular",
+      "Arabic": "عادي"
+    },
+    {
+      "English": "cheese burek",
+      "Arabic": "برك جبنة"
+    },
+    {
+      "English": "kharbuz",
+      "Arabic": "خربز"
+    },
+    {
+      "English": "sesame",
+      "Arabic": "سمسم"
+    },
+    {
+      "English": "breaded fish",
+      "Arabic": "سمك بالبقسماط"
+    },
+    {
+      "English": "maqliah",
+      "Arabic": "مقلية"
+    },
+    {
+      "English": "kanka",
+      "Arabic": "قهوة كنكة"
+    },
+    {
+      "English": "paprika",
+      "Arabic": "بابريكا"
+    },
+    {
+      "English": "waffle pop",
+      "Arabic": "وافل بوب"
+    },
+    {
+      "English": "kraft cheese",
+      "Arabic": "جبنة كرافت"
+    },
+    {
+      "English": "corn flakes",
+      "Arabic": "كورن فليكس"
+    },
+    {
+      "English": "bashka shawarma",
+      "Arabic": "شاورما باشكا"
+    },
+    {
+      "English": "kinder pieces",
+      "Arabic": "قطع كيندر"
+    },
+    {
+      "English": "flake",
+      "Arabic": "فليك"
+    },
+    {
+      "English": "mousse",
+      "Arabic": "موس"
+    },
+    {
+      "English": "tart",
+      "Arabic": "تارت"
+    },
+    {
+      "English": "hot chocolate",
+      "Arabic": "هوت شوكليت"
+    },
+    {
+      "English": "nectarine",
+      "Arabic": "نكتارين"
+    },
+    {
+      "English": "orange abu sorra",
+      "Arabic": "برتقال أبو صرة"
+    },
+    {
+      "English": "thermos",
+      "Arabic": "ثيرموس"
+    },
+    {
+      "English": "mixed fried platter",
+      "Arabic": "اطباق مقلية مشكلة"
+    },
+    {
+      "English": "salted sunflower seeds",
+      "Arabic": "حب دوار الشمس مالح"
+    },
+    {
+      "English": "walnut",
+      "Arabic": "جوز"
+    },
+    {
+      "English": "othmalya pistachio",
+      "Arabic": "عثملية بالفستق"
+    },
+    {
+      "English": "aysh alsaraya",
+      "Arabic": "عيش السرايا"
+    },
+    {
+      "English": "swiss roll",
+      "Arabic": "سويس رول"
+    },
+    {
+      "English": "cortado",
+      "Arabic": "كورتادو"
+    },
+    {
+      "English": "local meat",
+      "Arabic": "لحم بلدي"
+    },
+    {
+      "English": "quinoa",
+      "Arabic": "كينوا"
+    },
+    {
+      "English": "ranch",
+      "Arabic": "رانش"
+    },
+    {
+      "English": "madghout",
+      "Arabic": "مضغوط"
+    },
+    {
+      "English": "angus beef",
+      "Arabic": "لحم انجوس"
+    },
+    {
+      "English": "tiramisu",
+      "Arabic": "تيراميسو"
+    },
+    {
+      "English": "moussy",
+      "Arabic": "موسي"
+    },
+    {
+      "English": "perrier water",
+      "Arabic": "مياه بيرير"
+    },
+    {
+      "English": "alfredo",
+      "Arabic": "الفريدو"
+    },
+    {
+      "English": "gnocchi",
+      "Arabic": "النوكي"
+    },
+    {
+      "English": "pear",
+      "Arabic": "كمثري"
+    },
+    {
+      "English": "onion rings",
+      "Arabic": "حلقات البصل"
+    },
+    {
+      "English": "daal makhani",
+      "Arabic": "دال مخاني"
+    },
+    {
+      "English": "brie",
+      "Arabic": "جبنة بيضاء طرية"
+    },
+    {
+      "English": "meat broth",
+      "Arabic": "مرق اللحم"
+    },
+    {
+      "English": "holsten",
+      "Arabic": "هولستن"
+    },
+    {
+      "English": "saudi champagne",
+      "Arabic": "سعودي شامبين"
+    },
+    {
+      "English": "qalayet tomato",
+      "Arabic": "قلاية بندورة"
+    },
+    {
+      "English": "berry",
+      "Arabic": "توت"
+    },
+    {
+      "English": "watercress",
+      "Arabic": "بقلة"
+    },
+    {
+      "English": "peasant salad",
+      "Arabic": "سلطة الفلاحين"
+    },
+    {
+      "English": "plate",
+      "Arabic": "طبق"
+    },
+    {
+      "English": "paneer cheese",
+      "Arabic": "جبنة بانير"
+    },
+    {
+      "English": "cheeseburger",
+      "Arabic": "تشيز برجر"
+    },
+    {
+      "English": "wagyu beef",
+      "Arabic": "لحم بقري واغيو"
+    },
+    {
+      "English": "raw",
+      "Arabic": "نيئ"
+    },
+    {
+      "English": "iceberg",
+      "Arabic": "آيسبرج"
+    },
+    {
+      "English": "chicken tender",
+      "Arabic": "دجاج تندر"
+    },
+    {
+      "English": "kaka",
+      "Arabic": "كاكا"
+    },
+    {
+      "English": "karbook",
+      "Arabic": "كاربوك"
+    },
+    {
+      "English": "semolina",
+      "Arabic": "سميد"
+    },
+    {
+      "English": "chard",
+      "Arabic": "سِلق"
+    },
+    {
+      "English": "chia seeds",
+      "Arabic": "بذور الشيا"
+    },
+    {
+      "English": "chlorella",
+      "Arabic": "كلوريلا"
+    },
+    {
+      "English": "moringa",
+      "Arabic": "المورينغا"
+    },
+    {
+      "English": "vegan",
+      "Arabic": "نباتي"
+    },
+    {
+      "English": "flax seed",
+      "Arabic": "بذور الكتان"
+    },
+    {
+      "English": "wheatgrass",
+      "Arabic": "عشبة القمح"
+    },
+    {
+      "English": "agave",
+      "Arabic": "صبار"
+    },
+    {
+      "English": "alkaline water",
+      "Arabic": "مياه قلوية"
+    },
+    {
+      "English": "flat white",
+      "Arabic": "فلات وايت"
+    },
+    {
+      "English": "granola",
+      "Arabic": "جرانولا"
+    },
+    {
+      "English": "taghmesa",
+      "Arabic": "تغميسة"
+    },
+    {
+      "English": "chicken on charcoal",
+      "Arabic": "دجاج على الفحم"
+    }
+  ]
